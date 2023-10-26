@@ -1,0 +1,198 @@
+Beratungsprotokoll
+VVI
+Beratung - Unterlagen
+Vermittlung - Unterlagen
+Anschreiben / Deckblatt zum Antrag
+Kreditantrag
+Kreditentscheidungsinformationen
+Provisionsabrechnung
+Kreditprotokolle
+Aktenvermerke / Sonstiges
+Kreditzusage
+Bank Kreditvertrag
+Verbundpartner Vertrag
+Verträge - Sonstiges
+Legitimation
+Selbstauskünfte
+Vermögensübersicht / Nachweis Kredite
+Rating / Scoring
+Kontoauszug
+Schufa Auskünfte
+Gehaltsnachweis
+Mieteinnahmen
+Steuererklärung / Bescheid
+Einkommen - Sonstiges
+Ausgaben - Sonstiges
+Grundbuchauszug
+Baubeschreibung
+Kaufvertrag
+Baugenehmigung/-anzeige/-antrag
+Aufstellung Baukosten / Eigenleistungen
+Flurkarte / Lageplan
+Bauzeichnungen / Grundrisse
+Wohnflächenberechnung / Kubatur
+Teilungserklärung
+Erbbaurechtsvertrag
+Bewilligung Dienstbarkeiten
+Wertermittlung / Gutachten
+Objektbilder / Fotos
+Expose
+Immobilienverwaltung - Sonstiges
+Grundschuld Zweckerklärungen
+Vollstreckbare Ausfertigungen
+Verträge / Urkunden
+Grundschuld / Hypothek - Sonstiges
+Bürgschaften
+Abtretungen
+Verpfändungen
+Fördermittel
+Bausparen
+Versicherungen
+Hypothekenbanken / Verbundbanken
+Verbund - Sonstiges
+Schriftverkehr
+Liquiditätsberechnungen
+Jahresabschluss / GuV
+BWA
+Auskünfte
+§18 KWG-Dokumentationen
+Groß- / Milionenkredite
+E/A Bilanz
+Rating
+Firmenkunde - Sonstiges
+Beratungsprotokoll
+VVI
+Beratung - Unterlagen
+Vermittlung - Unterlagen
+Anschreiben / Deckblatt zum Antrag
+Kreditantrag
+Kreditentscheidungsinformationen
+Provisionsabrechnung
+Kreditprotokolle
+Aktenvermerke / Sonstiges
+Kreditzusage
+Bank Kreditvertrag
+Verbundpartner Vertrag
+Verträge - Sonstiges
+Legitimation
+Selbstauskünfte
+Vermögensübersicht / Nachweis Kredite
+Rating / Scoring
+Kontoauszug
+Schufa Auskünfte
+Gehaltsnachweis
+Mieteinnahmen
+Steuererklärung / Bescheid
+Einkommen - Sonstiges
+Ausgaben - Sonstiges
+Grundbuchauszug
+Baubeschreibung
+Kaufvertrag
+Baugenehmigung/-anzeige/-antrag
+Aufstellung Baukosten / Eigenleistungen
+Flurkarte / Lageplan
+Bauzeichnungen / Grundrisse
+Wohnflächenberechnung / Kubatur
+Teilungserklärung
+Erbbaurechtsvertrag
+Bewilligung Dienstbarkeiten
+Wertermittlung / Gutachten
+Objektbilder / Fotos
+Expose
+Immobilienverwaltung - Sonstiges
+Grundschuld Zweckerklärungen
+Vollstreckbare Ausfertigungen
+Verträge / Urkunden
+Grundschuld / Hypothek - Sonstiges
+Bürgschaften
+Abtretungen
+Verpfändungen
+Fördermittel
+Bausparen
+Versicherungen
+Hypothekenbanken / Verbundbanken
+Verbund - Sonstiges
+Schriftverkehr
+Liquiditätsberechnungen
+Jahresabschluss / GuV
+BWA
+Auskünfte
+§18 KWG-Dokumentationen
+Groß- / Milionenkredite
+E/A Bilanz
+Rating
+Firmenkunde - Sonstiges
+ZZZ_löschen_Beratungsprotokoll
+ESIS-Merkblatt
+ZZZ_löschen_Beratung - Unterlagen
+ZZZ_löschen_Vermittlung - Unterlagen
+Übergabeliste (Markt an Marktfolge)
+Kreditantrag
+Kreditentscheidungsinformationen
+ZZZ_löschen_Provisionsabrechnung
+Kreditprotokolle
+Aktenvermerke / Sonstiges
+ZZZ_löschen_Kreditzusage
+Bank Kreditvertrag
+ZZZ_löschen_Verbundpartner Vertrag
+Verträge - Sonstiges
+Personalausweis/Reisepass
+Selbstauskünfte
+Fremdbank-Verbindlichkeiten / Bankspiegel
+Rating / Scoring
+Kontoauszug
+Schufa Auskünfte
+Gehaltsnachweis
+Mieteinnahmen
+Einkommensteuerbescheid
+Sonstige Bonitätsunterlagen
+Rentenauskunft/-nachweis
+Grundbuchauszug
+Baubeschreibung
+Kaufvertrag
+Baugenehmigung/-anzeige/-antrag
+Aufstellung Baukosten / Eigenleistungen
+Flurkarte / Lageplan
+Grundrisse / Baupläne
+Wohnflächenberechnung / Kubatur
+Teilungserklärung
+Erbbaurechtsvertrag
+Bewilligung Dienstbarkeiten
+Wertermittlung / Gutachten
+Objektfotos
+Expose
+Sonstige Objektunterlagen
+Grundschuld Zweckerklärungen
+Grundschuldbestellungsurkunde
+ZZZ_löschen_Verträge / Urkunden
+Grundschuld / Hypothek - Sonstiges
+Bürgschaften
+Abtretungen
+Verpfändungen
+Fördermittel Antrag
+BSH-Darlehensunterlagen
+Versicherung-Darlehensunterlagen
+Hypothekenbanken-Darlehensunterlagen
+ZZZ_löschen_Verbund - Sonstiges
+Schriftverkehr
+Liquiditätsberechnungen
+Jahresabschlussunterlagen / EÜR
+BWA mit SuSa
+ZZZ_löschen_Auskünfte
+§18 KWG-Berechnung
+ZZZ_löschen_Groß- / Milionenkredite
+ZZZ_löschen_E/A Bilanz
+Rating
+Sonstige Bonitätsunterlagen
+ZZZ_löschen_Kreditentscheidungsprotokoll
+Eigenmittelnachweis
+Einkommensteuererklärung
+Sponsoringvereinbarung
+Realrecht Anmeldung/Bestätigung
+Brandversicherung Nachweis
+Bestätigung zum Antrag (Energieberater)
+Checkliste: wirtschaftl. Abhängigkeiten
+Auswertung Bilanz / BWA / Sonstige (ausführlich)
+Verwendungsnachweis
+Energieausweis
+Aufenthaltserlaubnis

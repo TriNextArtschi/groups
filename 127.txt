@@ -1,0 +1,240 @@
+Beratungsprotokoll
+ESIS/VVI
+Beratung - Unterlagen
+Vermittlung - Unterlagen
+Anschreiben / Deckblatt zum Antrag
+Kreditantrag
+Kreditentscheidungsinformationen
+Provisionsabrechnung
+Kreditprotokolle
+Aktenvermerke / Sonstiges
+Kreditzusage
+Kredit-/Darl.-/Avalvertrag
+Verbunddarlehen
+Sonstige Vertragsanpassungen
+Legitimation
+Selbstauskünfte
+Vermögensübersicht / Nachweis Kredite
+Rating / Scoring
+Kontoauszug
+Schufa Auskünfte
+Gehaltsnachweis
+Mieteinnahmen
+Steuererklärung / Bescheid
+Einkommen - Sonstiges
+Ausgaben - Sonstiges
+Grundbuchauszug
+Baubeschreibung
+Kaufvertrag
+Baugenehmigung/-anzeige/-antrag
+Aufstellung Baukosten / Eigenleistungen
+Flurkarte / Lageplan
+Bauzeichnungen / Grundrisse
+Wohnflächenberechnung / Kubatur
+Teilungserklärung
+Erbbaurechtsvertrag
+Bewilligung Dienstbarkeiten
+Wertermittlung / Gutachten
+Objektbilder / Fotos
+Expose
+Immobilienverwaltung - Sonstiges
+Grundschuld Zweckerklärung
+Vollstreckbare Ausfertigungen
+Verträge / Urkunden
+Grundschuld / Hypothek - Sonstiges
+Bürgschaften
+Abtretungen
+Verpfändungen
+Fördermittel
+Bausparen
+Versicherungen
+Hypothekenbanken / Verbundbanken
+Verbund - Sonstiges
+Schriftverkehr
+Liquiditätsberechnungen
+Jahresabschluss / GuV
+BWA
+Auskünfte
+§18 KWG-Dokumentationen
+Groß- / Milionenkredite
+E/A Bilanz
+Rating
+Firmenkunde - Sonstiges
+Schriftverkehr Allgemein
+Aktenvermerke Markt
+Bankauskünfte
+Darlehensablösung bei Fremdbank
+Grundschuld Anschreiben an Notar
+Kaufpreisfälligkeitsmitteilung
+Rechnungen / Verwendungsnachweise
+Empfangsbestätigung / Stückequittung
+Antragsunterlagen
+Vorgang in Bearbeitung
+ESIS / VVI
+Checkliste Kreditantrag
+Kredit- / Darlehens- / Avalvertrag ≤ 35 TEUR (Vernichtung Original)
+Anlagen zum Darlehensvertrag
+Änderungsvereinbarung / Prolongation
+Sonstige Vertragsanpassungen
+Verbunddarlehen
+Bankbürgschaften / Avale
+Nachtrag Kreditprotokoll
+Genehmigung Sonderkondition
+Limit 2 / Überziehungsgenehmigung
+Genehmigungsprotokoll Sicherheitenfreigabe
+Beschluss Vertragsanpassung
+Grundschuld Zweckerklärung
+Grundschuld-Urkunde / Vollstreckbare Ausfertigung (VA)
+Grundschuldbrief
+Pfandurkunde AT
+Grundschuldabtretung privatschriftlich an VR-Bank Passau
+Grundschuldabtretung privatschriftlich an Verbund usw.
+Grundschuld Sicherungsvereinbarung BSH
+Grundschuld Rückgewähransprüche
+Stillhalteerklärung
+LABO-Erklärungen
+Grundschuld Sonstiges O-Akte
+Grundschuld Anlagen / Sonstiges
+Bürgschaft
+Bürgschaft Anlagen / Sonstiges
+Abtretung Bausparvertrag
+Abtretung Versicherung
+LV-Police / Versicherungsschein
+Abtretung Einspeisevergütung
+Abtretung Mieten / Pacht
+Abtretung sonstige Forderung
+Global- / Mantelabtretung
+Abtretung Anlagen / Sonstiges
+Verpfändung Guthaben
+Verpfändung Wertpapier / Fonds
+Verpfändung Sonstiges O-Akte
+Verpfändung Anlagen / Sonstiges
+SÜ Kfz
+Kfz-Brief / Zulassungsbescheinigung
+SÜ Kfz-Lager
+SÜ Warenlager
+Raum-SÜ (inkl. PV-Anlage)
+SÜ Maschinen / Geräte
+SÜ Sonstiges O-Akte
+SÜ Anlagen / Sonstiges
+Selbstauskunft / Vermögens- und Schuldenaufstellung (VSA)
+Nachweise zur Selbstauskunft
+Lohn- / Gehalts- / Rentennachweis
+Einkommensteuererklärung
+Einkommensteuerbescheid
+Bilanz / Jahresabschluss
+BWA (mit Summen- und Saldenliste (SuSa))
+Einnahmen- / Überschussrechnung
+Rückmeldung fehlender Jahresabschluss
+Liquiditätsrechnung + Bilanzkommentierung
+Businessplan
+Planzahlen
+Bankenspiegel
+Mietspiegel
+Steuerberatervollmacht + TVEDiFin
+Rangrücktritterklärung Gesellschafter
+Unterlagenverzicht
+Checkliste Kreditnehmereinheit (KNE) / Organigramm
+§18 KWG Sonstiges
+Antragsrating (PK)
+VR-Rating (FK)
+Grundbuchauszug / Eintragungsmitteilung
+Baupläne
+Baubeschreibung
+Baugenehmigung
+Baukostenaufstellung / -angebot
+Wohnflächenberechnung / Kubatur
+Beleihungswertermittlung
+Objektfoto / Besichtigungsbericht
+Lageplan / Flurkarte
+Kaufvertrag / Übergabevertrag
+Erbbaurechtsvertrag
+Teilungserklärung
+Dienstbarkeiten Abteilung II
+Miet- / Pachtverträge
+Brandversicherung
+Objektunterlagen Sonstiges
+Sicherheitenpoolvertrag
+Kredit- / Darlehens- / Avalvertrag > 35 TEUR (O-Akte)
+Schriftverkehr Allgemein
+Grundschuld Anschreiben an Notar
+Empfangsbestätigung / Stückequittung
+Genehmigungsprotokoll Sicherheitenfreigabe
+Beschluss Vertragsanpassung
+Grundschuld Zweckerklärung
+Grundschuld-Urkunde / Vollstreckbare Ausfertigung (VA)
+Grundschuldbrief
+Pfandurkunde AT
+Grundschuldabtretung privatschriftlich an VR-Bank Passau
+Grundschuldabtretung privatschriftlich an Verbund usw.
+Grundschuld Sicherungsvereinbarung BSH
+Grundschuld Rückgewähransprüche
+Stillhalteerklärung
+LABO-Erklärungen
+Grundschuld Sonstiges O-Akte
+Grundschuld Anlagen / Sonstiges
+Bürgschaft
+Bürgschaft Anlagen / Sonstiges
+Abtretung Bausparvertrag
+Abtretung Versicherung
+LV-Police / Versicherungsschein
+Abtretung Einspeisevergütung
+Abtretung Mieten / Pacht
+Abtretung sonstige Forderung
+Global- / Mantelabtretung
+Abtretung Anlagen / Sonstiges
+Verpfändung Guthaben
+Verpfändung Wertpapier / Fonds
+Verpfändung Sonstiges O-Akte
+Verpfändung Anlagen / Sonstiges
+SÜ Kfz
+Kfz-Brief / Zulassungsbescheinigung
+SÜ Kfz-Lager
+SÜ Warenlager
+Raum-SÜ (inkl. PV-Anlage)
+SÜ Maschinen / Geräte
+SÜ Sonstiges O-Akte
+SÜ Anlagen / Sonstiges
+Sicherheitenpoolvertrag
+Selbstauskunft / Vermögens- und Schuldenaufstellung (VSA)
+Nachweise zur Selbstauskunft
+Lohn- / Gehalts- / Rentennachweis
+Einkommensteuererklärung
+Einkommensteuerbescheid
+Bilanz / Jahresabschluss
+BWA (mit Summen- und Saldenliste (SuSa))
+Einnahmen- / Überschussrechnung
+Rückmeldung fehlender Jahresabschluss
+Liquiditätsrechnung + Bilanzkommentierung
+Businessplan
+Planzahlen
+Bankenspiegel
+Mietspiegel
+Steuerberatervollmacht + TVEDiFin
+Rangrücktritterklärung Gesellschafter
+Unterlagenverzicht
+Checkliste Kreditnehmereinheit (KNE) / Organigramm
+§18 KWG Sonstiges
+Lageplan / Flurkarte
+Kaufvertrag / Übergabevertrag
+Erbbaurechtsvertrag
+Teilungserklärung
+Dienstbarkeiten Abteilung II
+Miet- / Pachtverträge
+Brandversicherung
+Objektunterlagen Sonstiges
+Grundbuchauszug / Eintragungsmitteilung
+Baupläne
+Baubeschreibung
+Baugenehmigung
+Baukostenaufstellung / -angebot
+Wohnflächenberechnung / Kubatur
+Beleihungswertermittlung
+Objektfoto / Besichtigungsbericht
+Erledigte Kreditunterlagen
+Erledigte Kreditverträge
+Erledigte Kreditunterlagen
+Grundschuld-Urkunde / Einfache Ausfertigung (EA)
+Grundschuld-Urkunde / Einfache Ausfertigung (EA)
+Energieausweis
+Energieausweis

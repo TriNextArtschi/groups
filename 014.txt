@@ -1,0 +1,875 @@
+Kreditantrag (FCMS Schriftverkehr)
+VVI / ESIS / Tilgungsplan
+Bausparkasse
+IB SH
+KfW
+Aufstellung Baukosten
+Aufstellung Eigenleistungen
+Baubeschreibung
+Baugenehmigung/-anzeige/-antrag
+Bauzeichnungen
+Beleihungswertberechnung
+Erbbaurechtsvertrag
+Flurkarte / Lageplan
+Kaufvertrag
+Objektbesichtigung/Gutacht./Foto
+Objektfotos
+Teilungserklärung
+Werkvertrag
+Wohnflächenberechnung / Kubatur
+GB Auszug
+Schriftverkehr sonstiger
+A_Nachweise über Kredite
+A_sonstige Ausgaben
+A_Unterhaltsverpflichtungen
+E_Einkommensnachw. Selbständige
+E_Einkommensnachweis
+E_EST Erklärung / Bescheid
+E_Gesellsch.-/ Güterrechtsvertr.
+E_KDF-Ermittlung Selbständige
+E_Mieteinnahmen
+E_sonstige Einnahmen
+E_Unterhaltsforderungen
+Eigengeldnachweis
+Vermögensaufstellung
+SCHUFA-Auskunft
+Berater/Vermittler VVI+Protokoll
+Provisionsabrechnung
+Ausweis (zur Bearbeitung)
+Expose (Objekt)
+Modernisierungsmassnamen
+Schriftverkehr Drittgläubiger
+Kontoauszug
+Legitimation
+Kundenstammvertrag
+Darlehensvertrag
+Formblatt VVI
+Fremdkapitalnachweis
+Eigenkapitalnachweis
+Selbstauskunft
+ESIS
+Darlehenszusage
+Antrag Bausparvertrag inkl. Vorausberechnung aus ALF
+§18 KWG
+Konditionstool / Zinskonfigurator
+Beschlüsse und Aufsichtsratsvorlagen
+Schufa-Ausdrucke
+Einkommensbelege und Rentenbescheide
+Mietverträge zzgl. Kontoauszüge und Auswertung
+Szenariobetrachtung, Modellrechnung, Rentenauskunft etc.
+Bonitätsermittlung / Ausdruck Liquiditätsübersicht
+Teilungserklärung
+Erbbaurechtsvertrag
+Brandschutzversicherungsnachweis
+Werk-/Bauvertrag
+Wertermittlung inkl. Wertfestsetzung
+Entwurf notarieller Kaufvertrag
+Provisionsabrechnung und Rechnung Vermittler
+Kopie Bankbürgschaft
+Lastenfreistellungserklärung/Abtretung Ansprüche Bankbürgschaft
+Verpfändung Auflassungsvormerkung (Anzeige nach §1280 BGB inkl. Bestätigung)
+Fälligkeitsmitteilung des Notars
+Offene Auszahlungsaufträge
+Auszahlungbelege (RE bzw. Verwendungsnachweis)
+Bearbeitungsbogen
+Empfangsbestätigung
+SCHUFA-Klausel (zu grundpfandrechtlichen Kreditvertr. bei anderen KI)
+Ablöseschreiben
+Ablösevollmachten zzgl. Darlehensverträge / Kontoauszüge / Saldenbestätigungen
+Allgemeiner Schriftverkehr
+Grundbuchauszug
+Sonstiges
+Sonstiges
+Sonstiges
+Sonstiges
+Objekt Verwendungszweck
+Sonstiges
+Objektbilder
+Bauzeichnung
+Lageplan/Hochwasserkarte
+Baubeschreibung/externes Wertgutachten
+Wohnflächenberechnung
+Baugenehmigung
+Finanzierungsbestätigung
+Grundschuldbestellung (Notar)
+Einkommensteuererklärung / -bescheid
+Objektbesichtigung / Gutachten / Foto
+Notarieller Kaufvertrag
+ACHTUNG: Auszahlungsverhindernder Schriftverkehr
+Auszahlungsaufträge/Baufortschritt
+Restkreditversicherung
+Unterlagencheckliste Vertrieb
+KfW-Zusatzblatt
+KfW-Zusage zzgl. Bedingungen und Tilgungsplan
+Online-Bestätigung zu KfW-Anträgen
+Bestätigung nach Durchführung
+Einkommensteuererklärung 2021
+Einkommensteuererklärung 2018
+Einkommensteuerbescheid 2021
+Einkommensteuerbescheid 2018
+Gesellschaftsvertrag (ggf. inkl. Nachweise Beteiligung)
+Handelsregisterauszug
+EÜR/Gewinnermittlung/Bilanz mit GuV 2018
+EÜR/Gewinnermittlung/Bilanz mit GuV 2021
+BWA
+Voraussichtliche Steuerberechnung
+Auswertungsergebnis
+SCHUFA-Kompaktauskunft
+Branchenauskunft
+BauGeld-Unterstützungsmappe (BauM)
+Baufi-Widerruf
+Ausweiskopie
+Antrag
+Schriftverkehr
+Wertermittlung
+Beschluss
+Grundbuchauszug
+Besichtigung
+Sonstiges
+SCHUFA
+Baufinanzierung Verzicht Zuordnung IP
+AVD Verzicht Zuordnung IP
+Passive Überwachung
+Forbearance
+Mahnungen
+Offenlegung
+Sonstiger Kündigungsgrund
+Rückgabeentscheidung
+Stille Abwicklung
+Kündigung
+Schriftwechsel vor Abgabe an Rechtsanwalt
+Teilzahlungsvereinbarung
+Rückgabeentscheidung
+Übergabe an Rechtsanwalt
+Schriftwechsel / Abstimmung mit Rechtsanwalt
+Zwangsversteigerung
+Zwangsverwaltung
+Insolvenz
+Zahlungsverkehr und Forderungsaufstellung
+Ausfallstatus/EWB
+Grundbuchauszüge Baufinanzierung
+AVD vorerst kein Handlungsbedarf
+IVD vorerst kein Handlungsbedarf
+Übernahme Kontenübertrag
+Übernahme Neuvertrag Ablehnung
+Übernahme Neuvertrag Vorprüfung
+AVD vorerst kein Handlungsbedarf
+IVD vorerst kein Handlungsbedarf
+Übernahme Kontenübertrag
+Übernahme Neuvertrag Ablehnung
+Übernahme Neuvertrag Vorprüfung
+Beschlüsse und Aufsichtsratsvorlagen
+BauGeld-Unterstützungsmappe (BauM)
+Konditionstool / Zinskonfigurator
+§18 KWG
+Antrag Bausparvertrag inkl. Vorausberechnung aus ALF
+Darlehenszusage
+ESIS
+Unterlagencheckliste Vertrieb
+Selbstauskunft
+Ausweiskopie
+Eigenkapitalnachweis
+Fremdkapitalnachweis
+Formblatt VVI
+Sonstiges
+Beschlüsse und Aufsichtsratsvorlagen
+BauGeld-Unterstützungsmappe (BauM)
+Konditionstool / Zinskonfigurator
+§18 KWG
+Antrag Bausparvertrag inkl. Vorausberechnung aus ALF
+Darlehenszusage
+ESIS
+Checkliste Vertrieb
+Selbstauskunft
+Ausweiskopie
+Eigenkapitalnachweis
+Fremdkapitalnachweis
+Formblatt VVI
+Sonstiges
+Schufa-Ausdrucke
+Einkommensbelege und Rentenbescheide
+Mietverträge zzgl. Kontoauszüge und Auswertung
+Einkommensteuererklärung / -bescheid
+Szenariobetrachtung, Modellrechnung, Rentenauskunft etc.
+Bonitätsermittlung / Ausdruck Liquiditäsübersicht
+Restkreditversicherung
+Sonstiges
+Objektbesichtigung / Gutachten / Foto
+Notarieller Kaufvertrag
+Wertermittlung inkl. Wertfestsetzung
+Objektbilder
+Werk-/Bauvertrag
+Wohnflächenberechnung
+Baubeschreibung/externes Wertgutachten
+Lageplan/Hochwasserkarte
+Baugenehmigung
+Bauzeichnung
+Entwurf notarieller Kaufvertrag
+Teilungserklärung
+Brandschutzversicherungsnachweis
+Erbbaurechtsvertrag
+Objekt Verwendungszweck
+Objektbesichtigung / Gutachten / Foto
+Notarieller Kaufvertrag
+Wertermittlung inkl. Wertfestsetzung
+Objektbilder
+Werk-/Bauvertrag
+Wohnflächenberechnung
+Baubeschreibung/externes Wertgutachten
+Lageplan/Hochwasserkarte
+Baugenehmigung
+Bauzeichnung
+Entwurf notarieller Kaufvertrag
+Teilungserklärung
+Brandschutzversicherungsnachweis
+Erbbaurechtsvertrag
+Objekt Verwendungszweck
+Grundbuchauszug
+Sonstiges
+Grundbuchauszug
+Sonstiges
+Offene Auszahlungsaufträge
+ACHTUNG: Auszahlungsverhindernder Schriftverkehr
+Finanzierungsbestätigung
+Lastenfreistellungserklärung/Abtretung Ansprüche Bankbürgschaft
+Verpfändung Auflassungsvormerkung (Anzeige nach §1280 BGB inkl. Bestätigung)
+Fälligkeitsmitteilung des Notars
+Auszahlungsaufträge/Baufortschritt
+Auszahlungbelege (RE bzw. Verwendungsnachweis)
+Ablöseschreiben
+Bearbeitungsbogen
+Provisionsabrechnung und Rechnung Vermittler
+Kopie Bankbürgschaft
+Sonstiges
+Offene Auszahlungsaufträge
+ACHTUNG: Auszahlungsverhindernder Schriftverkehr
+Finanzierungsbestätigung
+Lastenfreistellungserklärung/Abtretung Ansprüche Bankbürgschaft
+Verpfändung Auflassungsvormerkung (Anzeige nach §1280 BGB inkl. Bestätigung)
+Fälligkeitsmitteilung des Notars
+Auszahlungsaufträge/Baufortschritt
+Auszahlungbelege (RE bzw. Verwendungsnachweis)
+Ablöseschreiben
+Bearbeitungsbogen
+Provisionsabrechnung und Rechnung Vermittler
+Kopie Bankbürgschaft
+Sonstiges
+Empfangsbestätigung
+SCHUFA-Klausel (zu grundpfandrechtlichen Kreditvertr. bei anderen KI)
+Ablösevollmachten zzgl. Darlehensverträge / Kontoauszüge / Saldenbestätigungen
+Grundschuldbestellung (Notar)
+Allgemeiner Schriftverkehr
+Sonstiges
+Empfangsbestätigung
+SCHUFA-Klausel (zu grundpfandrechtlichen Kreditvertr. bei anderen KI)
+Ablösevollmachten zzgl. Darlehensverträge / Kontoauszüge / Saldenbestätigungen
+Grundschuldbestellung (Notar)
+Allgemeiner Schriftverkehr
+Sonstiges
+Sonstiges
+Auswertungsergebnis
+Voraussichtliche Steuerberechnung
+SCHUFA-Kompaktauskunft
+Branchenauskunft
+Einkommensteuererklärung 2021
+Einkommensteuererklärung 2018
+Einkommensteuerbescheid 2021
+Einkommensteuerbescheid 2018
+Gesellschaftsvertrag (ggf. inkl. Nachweise Beteiligung)
+Handelsregisterauszug
+EÜR/Gewinnermittlung/Bilanz mit GuV 2021
+EÜR/Gewinnermittlung/Bilanz mit GuV 2018
+BWA
+KfW-Zusatzblatt
+KfW-Zusage zzgl. Bedingungen und Tilgungsplan
+Online-Bestätigung zu KfW-Anträgen
+Bestätigung nach Durchführung
+KfW-Zusatzblatt
+KfW-Zusage zzgl. Bedingungen und Tilgungsplan
+Online-Bestätigung zu KfW-Anträgen
+Bestätigung nach Durchführung
+Baufi-Widerruf
+Beschlüsse und Aufsichtsratsvorlagen
+BauGeld-Unterstützungsmappe (BauM)
+Konditionstool / Zinskonfigurator
+§18 KWG
+Antrag Bausparvertrag inkl. Vorausberechnung aus ALF
+Darlehenszusage
+ESIS
+Unterlagencheckliste Vertrieb
+Selbstauskunft
+Ausweiskopie
+Eigenkapitalnachweis
+Fremdkapitalnachweis
+Formblatt VVI
+Sonstiges
+Schufa-Ausdrucke
+Einkommensbelege und Rentenbescheide
+Mietverträge zzgl. Kontoauszüge und Auswertung
+Einkommensteuererklärung / -bescheid
+Szenariobetrachtung, Modellrechnung, Rentenauskunft etc.
+Bonitätsermittlung / Ausdruck Liquiditätsübersicht
+Restkreditversicherung
+Sonstiges
+Objektbesichtigung / Gutachten / Foto
+Notarieller Kaufvertrag
+Wertermittlung inkl. Wertfestsetzung
+Objektbilder
+Werk-/Bauvertrag
+Wohnflächenberechnung
+Baubeschreibung/externes Wertgutachten
+Lageplan/Hochwasserkarte
+Baugenehmigung
+Bauzeichnung
+Entwurf notarieller Kaufvertrag
+Teilungserklärung
+Brandschutzversicherungsnachweis
+Erbbaurechtsvertrag
+Objekt Verwendungszweck
+Grundbuchauszug
+Sonstiges
+Offene Auszahlungsaufträge
+ACHTUNG: Auszahlungsverhindernder Schriftverkehr
+Finanzierungsbestätigung
+Lastenfreistellungserklärung/Abtretung Ansprüche Bankbürgschaft
+Verpfändung Auflassungsvormerkung (Anzeige nach §1280 BGB inkl. Bestätigung)
+Fälligkeitsmitteilung des Notars
+Auszahlungsaufträge/Baufortschritt
+Auszahlungbelege (RE bzw. Verwendungsnachweis)
+Ablöseschreiben
+Bearbeitungsbogen
+Provisionsabrechnung und Rechnung Vermittler
+Kopie Bankbürgschaft
+Sonstiges
+Empfangsbestätigung
+SCHUFA-Klausel (zu grundpfandrechtlichen Kreditvertr. bei anderen KI)
+Ablösevollmachten zzgl. Darlehensverträge / Kontoauszüge / Saldenbestätigungen
+Grundschuldbestellung (Notar)
+Allgemeiner Schriftverkehr
+Sonstiges
+Sonstiges
+Auswertungsergebnis
+Voraussichtliche Steuerberechnung
+SCHUFA-Kompaktauskunft
+Branchenauskunft
+Einkommensteuererklärung 2021
+Einkommensteuererklärung 2018
+Einkommensteuerbescheid 2021
+Einkommensteuerbescheid 2018
+Gesellschaftsvertrag (ggf. inkl. Nachweise Beteiligung)
+Handelsregisterauszug
+EÜR/Gewinnermittlung/Bilanz mit GuV 2021
+EÜR/Gewinnermittlung/Bilanz mit GuV 2018
+BWA
+KfW-Zusatzblatt
+KfW-Zusage zzgl. Bedingungen und Tilgungsplan
+Online-Bestätigung zu KfW-Anträgen
+Bestätigung nach Durchführung
+Baufi-Widerruf
+Beschlüsse und Aufsichtsratsvorlagen
+§18 KWG
+Darlehenszusage
+ESIS + Tilgungsplan
+Selbstauskunft
+Ausweiskopie
+nicht nutzen
+Restkreditversicherung
+Sonstiges
+SCHUFA-Ausdrucke
+Einkommensbelege und Rentenbescheide/-informationen
+Mietverträge zzgl. Kontoauszüge und Auswertung
+Einkommenssteuererklärung / -bescheid
+Szenariobetrachtung, Modellrechnung etc.
+Bonitätsermittlung / Ausdruck Liquiditätsübersicht
+Sonstiges
+Grundbuchauszug
+Sonstiges
+Offene Auszahlungsaufträge
+Auszahlungsbelege (RE bzw. Verwendungsnachweis)
+Ablöseschreiben
+Provisionsabrechnung und Rechnung Vermittler
+Sonstiges
+Empfangsbestätigung
+SCHUFA-Klausel (zu grundpf. Kreditv. bei anderen KI)
+Ablösevollmachten zzgl. Dalehensverträge / Kontoausz. / Saldenbest.
+Allgemeiner Schriftverkehr
+Sonstiges
+Sonstiges
+Auswertungsergebnis
+Voraussichtliche Steurberechnung
+SCHUFA-Kompaktauskunft
+Branchenauskunft
+Einkommenssteuererklärung 2018
+Einkommenssteuererklärung 2019
+Einkommenssteuerbescheid 2019
+Einkommenssteuerbescheid 2018
+Gesellschaftsvertrag (ggf. inkl. Nachweise Beteiligung)
+Handelsregisterauszug
+EÜR/Gewinnermittlung/Bilanz mit GuV 2019
+EÜR/Gewinnermittlung/Bilanz mit GuV 2018
+BWA
+Einkommensteuerbescheid 2019
+Einkommensteuererklärung 2019
+EÜR/Gewinnermittlung/Bilanz mit GuV 2019
+Fremdverbindlichkeiten
+Fremdverbindlichkeiten
+Einkommensteuererklärung 2019
+Einkommensteuerbescheid 2019
+EÜR/Gewinnmittelung/Bilanz mit GuV 2019
+Fremdverbindlichkeiten
+Einkommensteuererklärung 2019
+Einkommensteuerbescheid 2019
+EÜR/Gewinnmittelung/Bilanz mit GuV 2019
+Beschlüsse und Aufsichtsratsvorlagen
+BauGeld-Unterstützungsmappe (BauM)
+Ausdruck Konditionstool
+§18 KWG
+Antrag Bausparvertrag inkl. Vorausberechnung aus ALF
+Darlehenszusage
+ESIS + VVI Sicherheiten
+Checkliste Vertrieb
+Selbstauskunft
+Ausweiskopie
+Eigenkapitalnachweis
+Fremdkapitalnachweis
+Formblatt VVI
+Sonstiges
+Beschlüsse und Aufsichtsratsvorlagen
+BauGeld-Unterstützungsmappe (BauM)
+Ausdruck Konditionstool
+§18 KWG
+Antrag Bausparvertrag inkl. Vorausberechnung aus ALF
+Darlehenszusage
+ESIS + VVI Sicherheiten
+Checkliste Vertrieb
+Selbstauskunft
+Ausweiskopie
+Eigenkapitalnachweis
+Fremdkapitalnachweis
+Formblatt VVI
+Sonstiges
+Beschlüsse und Aufsichtsratsvorlagen
+BauGeld-Unterstützungsmappe (BauM)
+Ausdruck Konditionstool
+§18 KWG
+Antrag Bausparvertrag inkl. Vorausberechnung aus ALF
+Darlehenszusage
+ESIS + VVI Sicherheiten
+Checkliste Vertrieb
+Selbstauskunft
+Ausweiskopie
+Eigenkapitalnachweis
+Fremdkapitalnachweis
+Formblatt VVI
+Sonstiges
+Schufa-Ausdrucke
+Einkommensbelege und Rentenbescheide/-informationen
+Mietverträge zzgl. Kontoauszüge und Auswertung
+Einkommensteuererklärung / -bescheid
+Szenariobetrachtung, Modellrechnung etc.
+Bonitätsermittlung / Ausdruck Liquiditätsübersicht
+Restkreditversicherung
+Sonstiges
+Objektbesichtigung / Gutachten / Foto
+Notarieller Kaufvertrag
+Wertermittlung inkl. Wertfestsetzung
+Objektbilder
+Werk-/Bauvertrag
+Wohnflächenberechnung
+Baubeschreibung/externes Wertgutachten
+Lageplan/Hochwasserkarte
+Baugenehmigung
+Bauzeichnung
+Entwurf notarieller Kaufvertrag
+Teilungserklärung
+Brandschutzversicherungsnachweis
+Erbbaurechtsvertrag
+Sonstiges
+Objektbesichtigung / Gutachten / Foto
+Notarieller Kaufvertrag
+Wertermittlung inkl. Wertfestsetzung
+Objektbilder
+Werk-/Bauvertrag
+Wohnflächenberechnung
+Baubeschreibung/externes Wertgutachten
+Lageplan/Hochwasserkarte
+Baugenehmigung
+Bauzeichnung
+Entwurf notarieller Kaufvertrag
+Teilungserklärung
+Brandschutzversicherungsnachweis
+Erbbaurechtsvertrag
+Sonstiges
+Objektbesichtigung / Gutachten / Foto
+Notarieller Kaufvertrag
+Wertermittlung inkl. Wertfestsetzung
+Objektbilder
+Werk-/Bauvertrag
+Wohnflächenberechnung
+Baubeschreibung/externes Wertgutachten
+Lageplan/Hochwasserkarte
+Baugenehmigung
+Bauzeichnung
+Entwurf notarieller Kaufvertrag
+Teilungserklärung
+Brandschutzversicherungsnachweis
+Erbbaurechtsvertrag
+Sonstiges
+Grundbuchauszug
+Sonstiges
+Grundbuchauszug
+Sonstiges
+Grundbuchauszug
+Sonstiges
+Offene Auszahlungsaufträge
+ACHTUNG: Auszahlungsverhindernder Schriftverkehr
+Finanzierungsbestätigung
+Lastenfreistellungserklärung/Abtretung Ansprüche Bankbürgschaft
+Verpfändung Auflassungsvormerkung (Anzeige nach §1280 BGB inkl. Bestätigung)
+Fälligkeitsmitteilung des Notars
+Auszahlungsaufträge/Baufortschritt
+Auszahlungbelege (RE bzw. Verwendungsnachweis)
+Ablöseschreiben
+Bearbeitungsbogen
+Provisionsabrechnung und Rechnung Vermittler
+Kopie Bankbürgschaft
+Sonstiges
+Empfangsbestätigung
+SCHUFA-Klausel (zu grundpfandrechtlichen Kreditvertr. bei anderen KI)
+Ablösevollmachten zzgl. Darlehensverträge / Kontoauszüge / Saldenbestätigungen
+Grundschuldbestellung (Notar)
+Allgemeiner Schriftverkehr
+Sonstiges
+Empfangsbestätigung
+SCHUFA-Klausel (zu grundpfandrechtlichen Kreditvertr. bei anderen KI)
+Ablösevollmachten zzgl. Darlehensverträge / Kontoauszüge / Saldenbestätigungen
+Grundschuldbestellung (Notar)
+Allgemeiner Schriftverkehr
+Sonstiges
+Empfangsbestätigung
+SCHUFA-Klausel (zu grundpfandrechtlichen Kreditvertr. bei anderen KI)
+Ablösevollmachten zzgl. Darlehensverträge / Kontoauszüge / Saldenbestätigungen
+Grundschuldbestellung (Notar)
+Allgemeiner Schriftverkehr
+Sonstiges
+Sonstiges
+Auswertungsergebnis
+Voraussichtliche Steuerberechnung
+SCHUFA-Kompaktauskunft
+Branchenauskunft
+Einkommensteuererklärung 2017
+Einkommensteuererklärung 2018
+Einkommensteuerbescheid 2017
+Einkommensteuerbescheid 2018
+Gesellschaftsvertrag (ggf. inkl. Nachweise Beteiligung)
+Handelsregisterauszug
+EÜR/Gewinnermittlung/Bilanz mit GuV 2017
+EÜR/Gewinnermittlung/Bilanz mit GuV 2018
+BWA
+KfW-Zusatzblatt
+KfW-Zusage zzgl. Bedingungen und Tilgungsplan
+Online-Bestätigung zu KfW-Anträgen
+Bestätigung nach Durchführung
+KfW-Zusatzblatt
+KfW-Zusage zzgl. Bedingungen und Tilgungsplan
+Online-Bestätigung zu KfW-Anträgen
+Bestätigung nach Durchführung
+KfW-Zusatzblatt
+KfW-Zusage zzgl. Bedingungen und Tilgungsplan
+Online-Bestätigung zu KfW-Anträgen
+Bestätigung nach Durchführung
+Baufi-Widerruf
+Beschlüsse und Aufsichtsratsvorlagen
+BauGeld-Unterstützungsmappe (BauM)
+Konditionstool / Zinskonfigurator
+§18 KWG
+Antrag Bausparvertrag inkl. Vorausberechnung aus ALF
+Darlehenszusage
+ESIS
+Unterlagencheckliste Vertrieb
+Selbstauskunft
+Ausweiskopie
+Eigenkapitalnachweis
+Fremdkapitalnachweis
+Formblatt VVI
+Sonstiges
+Beschlüsse und Aufsichtsratsvorlagen
+BauGeld-Unterstützungsmappe (BauM)
+Konditionstool / Zinskonfigurator
+§18 KWG
+Antrag Bausparvertrag inkl. Vorausberechnung aus ALF
+Darlehenszusage
+ESIS
+Checkliste Vertrieb
+Selbstauskunft
+Ausweiskopie
+Eigenkapitalnachweis
+Fremdkapitalnachweis
+Formblatt VVI
+Sonstiges
+Beschlüsse und Aufsichtsratsvorlagen
+BauGeld-Unterstützungsmappe (BauM)
+Konditionstool / Zinskonfigurator
+§18 KWG
+Antrag Bausparvertrag inkl. Vorausberechnung aus ALF
+Darlehenszusage
+ESIS
+Checkliste Vertrieb
+Selbstauskunft
+Ausweiskopie
+Eigenkapitalnachweis
+Fremdkapitalnachweis
+Formblatt VVI
+Sonstiges
+Schufa-Ausdrucke
+Einkommensbelege und Rentenbescheide/-informationen
+Mietverträge zzgl. Kontoauszüge und Auswertung
+Einkommensteuererklärung / -bescheid
+Szenariobetrachtung, Modellrechnung etc.
+Bonitätsermittlung / Ausdruck Liquiditätsübersicht
+Restkreditversicherung
+Sonstiges
+Objektbesichtigung / Gutachten / Foto
+Notarieller Kaufvertrag
+Wertermittlung inkl. Wertfestsetzung
+Objektbilder
+Werk-/Bauvertrag
+Wohnflächenberechnung
+Baubeschreibung/externes Wertgutachten
+Lageplan/Hochwasserkarte
+Baugenehmigung
+Bauzeichnung
+Entwurf notarieller Kaufvertrag
+Teilungserklärung
+Brandschutzversicherungsnachweis
+Erbbaurechtsvertrag
+Objekt Verwendungszweck
+Objektbesichtigung / Gutachten / Foto
+Notarieller Kaufvertrag
+Wertermittlung inkl. Wertfestsetzung
+Objektbilder
+Werk-/Bauvertrag
+Wohnflächenberechnung
+Baubeschreibung/externes Wertgutachten
+Lageplan/Hochwasserkarte
+Baugenehmigung
+Bauzeichnung
+Entwurf notarieller Kaufvertrag
+Teilungserklärung
+Brandschutzversicherungsnachweis
+Erbbaurechtsvertrag
+Objekt Verwendungszweck
+Objektbesichtigung / Gutachten / Foto
+Notarieller Kaufvertrag
+Wertermittlung inkl. Wertfestsetzung
+Objektbilder
+Werk-/Bauvertrag
+Wohnflächenberechnung
+Baubeschreibung/externes Wertgutachten
+Lageplan/Hochwasserkarte
+Baugenehmigung
+Bauzeichnung
+Entwurf notarieller Kaufvertrag
+Teilungserklärung
+Brandschutzversicherungsnachweis
+Erbbaurechtsvertrag
+Objekt Verwendungszweck
+Grundbuchauszug
+Sonstiges
+Grundbuchauszug
+Sonstiges
+Grundbuchauszug
+Sonstiges
+Offene Auszahlungsaufträge
+ACHTUNG: Auszahlungsverhindernder Schriftverkehr
+Finanzierungsbestätigung
+Lastenfreistellungserklärung/Abtretung Ansprüche Bankbürgschaft
+Verpfändung Auflassungsvormerkung (Anzeige nach §1280 BGB inkl. Bestätigung)
+Fälligkeitsmitteilung des Notars
+Auszahlungsaufträge/Baufortschritt
+Auszahlungbelege (RE bzw. Verwendungsnachweis)
+Ablöseschreiben
+Bearbeitungsbogen
+Provisionsabrechnung und Rechnung Vermittler
+Kopie Bankbürgschaft
+Sonstiges
+Empfangsbestätigung
+SCHUFA-Klausel (zu grundpfandrechtlichen Kreditvertr. bei anderen KI)
+Ablösevollmachten zzgl. Darlehensverträge / Kontoauszüge / Saldenbestätigungen
+Grundschuldbestellung (Notar)
+Allgemeiner Schriftverkehr
+Sonstiges
+Empfangsbestätigung
+SCHUFA-Klausel (zu grundpfandrechtlichen Kreditvertr. bei anderen KI)
+Ablösevollmachten zzgl. Darlehensverträge / Kontoauszüge / Saldenbestätigungen
+Grundschuldbestellung (Notar)
+Allgemeiner Schriftverkehr
+Sonstiges
+Empfangsbestätigung
+SCHUFA-Klausel (zu grundpfandrechtlichen Kreditvertr. bei anderen KI)
+Ablösevollmachten zzgl. Darlehensverträge / Kontoauszüge / Saldenbestätigungen
+Grundschuldbestellung (Notar)
+Allgemeiner Schriftverkehr
+Sonstiges
+Sonstiges
+Auswertungsergebnis
+Voraussichtliche Steuerberechnung
+SCHUFA-Kompaktauskunft
+Branchenauskunft
+Einkommensteuererklärung 2019
+Einkommensteuererklärung 2018
+Einkommensteuerbescheid 2019
+Einkommensteuerbescheid 2018
+Gesellschaftsvertrag (ggf. inkl. Nachweise Beteiligung)
+Handelsregisterauszug
+EÜR/Gewinnermittlung/Bilanz mit GuV 2019
+EÜR/Gewinnermittlung/Bilanz mit GuV 2018
+BWA
+KfW-Zusatzblatt
+KfW-Zusage zzgl. Bedingungen und Tilgungsplan
+Online-Bestätigung zu KfW-Anträgen
+Bestätigung nach Durchführung
+KfW-Zusatzblatt
+KfW-Zusage zzgl. Bedingungen und Tilgungsplan
+Online-Bestätigung zu KfW-Anträgen
+Bestätigung nach Durchführung
+KfW-Zusatzblatt
+KfW-Zusage zzgl. Bedingungen und Tilgungsplan
+Online-Bestätigung zu KfW-Anträgen
+Bestätigung nach Durchführung
+Baufi-Widerruf
+Trennungs- und Scheidungsvereinbarung
+Verwendungsnachweis
+Trennungs- und Scheidungsvereinbarung
+Trennungs- und Scheidungsvereinbarung
+Trennungs- und Scheidungsvereinbarung
+Verwendungsnachweis
+Verwendungsnachweis
+Verwendungsnachweis
+Trennungs- und Scheidungsvereinbarung
+Verwendungsnachweis
+Trennungs- und Scheidungsvereinbarung
+Trennungs- und Scheidungsvereinbarung
+Verwendungsnachweis
+Verwendungsnachweis
+KWK
+KWK
+KWK
+KWK
+KWK
+KWK
+KWK
+KWK
+Einkommensteuererklärung 2020
+Einkommensteuerbescheid 2020
+EÜR/Gewinnermittlung/Bilanz mit GuV 2020
+Einkommensteuererklärung 2020
+Einkommensteuerbescheid 2020
+EÜR/Gewinnermittlung/Bilanz mit GuV 2020
+Einkommensteuerbescheid 2020
+Einkommensteuererklärung 2020
+EÜR/Gewinnermittlung/Bilanz mit GuV 2020
+Einkommensteuererklärung 2020
+Einkommensteuerbescheid 2020
+EÜR/Gewinnermittlung/Bilanz mit GuV 2020
+Offene Auszahlungsaufträge
+ACHTUNG: Auszahlungsverhindernder Schriftverkehr
+Finanzierungsbestätigung
+Lastenfreistellungserklärung/Abtretung Ansprüche Bankbürgschaft
+Verpfändung Auflassungsvormerkung (Anzeige nach §1280 BGB inkl. Bestätigung)
+Fälligkeitsmitteilung des Notars
+Auszahlungsaufträge/Baufortschritt
+Auszahlungbelege (RE bzw. Verwendungsnachweis)
+Ablöseschreiben
+Bearbeitungsbogen
+Provisionsabrechnung und Rechnung Vermittler
+Kopie Bankbürgschaft
+Sonstiges
+Offene Auszahlungsaufträge
+ACHTUNG: Auszahlungsverhindernder Schriftverkehr
+Finanzierungsbestätigung
+Lastenfreistellungserklärung/Abtretung Ansprüche Bankbürgschaft
+Verpfändung Auflassungsvormerkung (Anzeige nach §1280 BGB inkl. Bestätigung)
+Fälligkeitsmitteilung des Notars
+Auszahlungsaufträge/Baufortschritt
+Auszahlungbelege (RE bzw. Verwendungsnachweis)
+Ablöseschreiben
+Bearbeitungsbogen
+Provisionsabrechnung und Rechnung Vermittler
+Kopie Bankbürgschaft
+Sonstiges
+Darlehensverträge
+Sicherungsverträge
+Darlehensverträge
+Sicherungsverträge
+Darlehensverträge
+Sicherungsverträge
+Darlehensverträge
+Sicherungsverträge
+Darlehensverträge
+Sicherungsverträge
+Darlehensverträge
+Sicherungsverträge
+Darlehensverträge
+Sicherungsverträge
+AnlassKE - Änderung Beleihungswert
+AnlassKE
+Kundenstammvertrag
+Einlegerbogen
+AnlassKE
+AnlassKE - Änderung Beleihungswert
+Kundenstammvertrag
+Einlegerbogen
+Kundenstammvertrag
+Einlegerbogen
+AnlassKE
+AnlassKE - Änderung Beleihungswert
+AnlassKE
+AnlassKE - Änderung Beleihungswert
+Kundenstammvertrag
+Einlegerbogen
+AnlassKE
+AnlassKE - Änderung Beleihungswert
+Kundenstammvertrag
+Einlegerbogen
+AnlassKE
+AnlassKE - Änderung Beleihungswert
+Kundenstammvertrag
+Einlegerbogen
+Kundenstammvertrag
+Einlegerbogen
+AnlassKE
+AnlassKE - Änderung Beleihungswert
+Einkommensteuererklärung 2020
+Einkommensteuerbescheid 2020
+EÜR/Gewinnermittlung/Bilanz mit GuV
+Darlehensvertrag
+Kundenstammvertrag (Selbstauskunft)
+Einlegerbogen
+Konditionstool/Zinskonfigurator
+Auszahlungsauftrag / Baufortschritt
+Vorblatt
+Sterbeurkunde
+Meldung FIA
+Erbrechtsnachweis (Erbschein, Testament mit Protokoll o.ä.)
+Unbedenklichkeitsbescheinigung
+Nachlassabwicklung/Haftungserklärung/Auftrag KL vom Erben
+Legitimation Erbe/n
+Überweisungsaufträge inkl. evtl. Haftungserklärung DG-Formular
+Bekanntgabe Tod (Schufa, Post, telefonisch, selbst ermittelt)
+Schriftwechsel
+Bearbeitungsvermerke
+Meldung an GenoBroker
+Unterlagencheckliste Vertrieb
+Ehevertrag/Güterstand
+Ehevertrag/Güterstand
+Fremdverbindlichkeiten
+Ehevertrag/Güterstand
+Ehevertrag/Güterstand
+Einkommensteuererklärung 2021
+Einkommensteuerbescheid 2021
+EÜR/Gewinnermittlung/Bilanz mit GuV 2021
+R+V Unterlagen
+R+V Unterlagen
+R+V Unterlagen
+R+V Unterlagen

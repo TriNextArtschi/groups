@@ -1,0 +1,70 @@
+Kreditantrag
+VVI / ESIS / Tilgungsplan
+Bausparkasse
+Kfw BzA
+KfW
+Aufstellung Baukosten
+Aufstellung Eigenleistungen
+Baubeschreibung
+Baugenehmigung/-anzeige/-antrag
+Bauzeichnungen
+Beleihungswertberechnung
+Erbbaurechtsvertrag
+Flurkarte / Lageplan
+Kaufvertrag
+Objektbesichtigung/Gutacht./Foto
+Objektfotos
+Teilungserklärung
+Werkvertrag - bitte löschen
+Wohnflächenberechnung / Kubatur
+GB Auszug
+Schriftverkehr sonstiger
+A_Nachweise über Kredite
+A_sonstige Ausgaben
+E_Renteninfo
+E_Einkommensnachw. Selbständige - bitte löschen
+E_Einkommensnachweis
+E_EST Erklärung
+E_Eigenkapitalnachweise
+E_EST Bescheid
+E_Mieteinnahmen
+E_sonstige Einnahmen
+E_Bonitätsunterlagen
+Eigenkapitalnachweis
+Vermögensaufstellung
+Selbstauskunft incl SCHUFA
+Beratungsprotokoll
+VVI
+Ausweis (zur Bearbeitung) - bitte löschen
+Expose (Objekt)
+Sonstige Beleihungsunterlagen
+Schriftverkehr Drittgläubiger - bitte löschen
+Kontoauszug fremd
+Legitimation - bitte löschen
+Kundenstammvertrag - bitte löschen
+Darlehensvertrag - bitte löschen
+Kreditentscheidungsinfo
+Wertindikation
+E_Lohnsteuerbescheinigung
+E_weitere Altersvorsorge
+Gebäudeversicherung
+Mietvertrag
+BWA
+EÜ-Rechnung
+Gewerbegeschäft-sonst Unterlage
+BWA
+Planzahlen
+E-Ü-Rechnung
+Ekst-Bescheid
+Est-Erklärung
+Schriftverkehr §18 KWG
+Vermögensnachweis GBA
+Einkommensnachweis
+Kapitaldienst
+Kaufvertrag
+Teilungserklärung
+Mietverträge
+VSA
+Energieausweis
+Sonderkonditionsgenehmigung
+Pflichtunterlagen bei Kreditantragstellung (Prüfliste mit Begründung)

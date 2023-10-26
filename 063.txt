@@ -1,0 +1,237 @@
+Kreditzusage Fördermittel
+Bank Kreditvertrag
+Verbundpartner Vertrag
+Verträge - Sonstiges (z.B. ESIS)
+Legitimation
+Vermögensübersicht
+Kontoauszug
+Gehaltsnachweis
+Mietaufstellung
+Steuererklärung
+Sonstiges
+Grundbuchauszug
+Baubeschreibung
+Kaufvertrag
+Baugenehmigung/-anzeige/-antrag
+Aufstellung Baukosten / Eigenleistungen
+Flurkarte / Lageplan
+Bauzeichnungen / Grundrisse
+Wohnflächenberechnung / Kubatur
+Teilungserklärung
+Erbbaurechtsvertrag
+Bewilligung Dienstbarkeiten
+Wertermittlung / Gutachten
+Objektbilder / Fotos
+Expose
+Sonstiges
+Grundschuld Zweckerklärungen
+Anlage zur Urkunde
+Sonstiges
+Kundenbürgschaften
+Globalabtretung
+Verpfändungen Guthaben/WP eigene
+Schriftverkehr
+Jahresabschluss / GuV
+BWA / Planrechnung etc.
+Sonstiges
+Jahresabschluss/Gewinnermittlung
+BWAs, Steuererklärung/-bescheid, Mietverträge, Grobanalyse, etc
+Verträge (beinhaltet Darlehensverträge, VVI, Empfangsbestätigung)
+Bürgschaftsverträge (Archivierung beim Sicherungsgeber!)
+Legitimation/ Steuernummer
+Kundendaten (KSV, Vollmachten, etc.)
+Schriftverkehr
+Kontoauszug
+Vermögensübersicht
+Gehaltsnachweis
+Legitimation
+Beratungsprotokoll
+Aktenvermerk
+VVI
+Avale (Bürgschaftsurkunden)
+Steuerbescheid
+Feuerversicherung
+Mietverträge/Pachtverträge
+sonstige Verträge
+Abtretung LV
+Abtretung sonstiges
+Kontoauszüge
+Selbstauskunft (CRS)
+Steuerberatervollmacht
+Selbstauskunft (CRS)
+Kontoauszüge
+Darlehensverträge
+VVI
+Empfangsbestätigung
+Steuerberatervollmacht
+Bürgschaftsverträge (Archivierung beim Sicherungsgeber!)
+Legitimation
+Steuernummer
+Schriftverkehr
+Jahresabschluss / Gewinnermittlung
+BWA
+Steuererklärung/ -bescheid
+Mietverträge (Einkommensnachweis)
+Grobalanalyse
+Businessplan
+Vermögensübersicht
+DiFin Erklärung
+Planrechnung
+Kundenstammvertrag
+Vollmachten
+Selbstauskunft (CRS)
+Kontoauszüge
+Jahresabschluss / Gewinnermittlung
+BWA
+Steuererklärung/ -bescheid
+Mietverträge (Einkommensnachweis)
+Grobalanalyse
+Businessplan
+Vermögensübersicht
+DiFin Erklärung
+Planrechnung
+Kundenstammvertrag
+Vollmachten
+Darlehensverträge
+VVI
+Empfangsbestätigung
+Bürgschaftsverträge (Archivierung beim Sicherungsgeber!)
+Steuerberatervollmacht
+Steuernummer
+Legitimation
+Schriftverkehr
+Vollmachten
+Steuernummer
+Steuerberatervollmacht
+DiFin Erklärung
+VVI
+Darlehensverträge
+Legitimation
+Kundenstammvertrag
+Selbstauskünfte (CRS)
+Vermögensübersicht
+Kontoauszüge
+Gehaltsnachweis
+Mietaufstellung
+Steuererklärung/-bescheid
+Mietverträge
+Bürgschaftsverträge (Archivierung beim Sicherungsgeber!)
+Jahresabschluss /GuV
+BWA / Planrechnung etc.
+Gewinnermittlung
+Businessplan
+Grobanalyse
+Aktenvermerk
+Beratungsprotokoll
+VVI
+Kreditentscheidungsinformationen
+Provisionsabrechnungen ABLAGE NR!!!
+Avale (Bürgschaftsurkunden)
+Bank Kreditvertrag
+Kreditzusage Fördermittel
+Verbundpartner Vertrag
+Verträge - Sonstiges (z.B. ESIS)
+zzz_löschen Verträge - Sonstiges (z.B. ESIS)
+Mietaufstellung
+Steuerbescheid
+Steuererklärung
+Sonstiges
+SCHUFA ABLAGE NR
+Aufstellung Baukosten / Eigenleistungen
+Baubeschreibung
+Baugenehmigung/-anzeige/-antrag
+Bauzeichnungen / Grundrisse
+Bewilligung Dienstbarkeiten
+Erbbaurechtsvertrag
+Expose
+Feuerversicherung
+Flurkarte / Lageplan
+Grundbuchauszug
+Kaufvertrag
+Mietverträge/Pachtverträge
+Objektbilder / Fotos
+Teilungserklärung
+Wertermittlung / Gutachten
+Wohnflächenberechnung / Kubatur
+sonstige Verträge
+Sonstiges
+Anlage zur Urkunde
+Grundschuld Zweckerklärungen
+Sonstiges
+Abtretung LV
+Abtretung sonstiges
+Kundenbürgschaften
+Globalabtretung
+Verpfändungen Guthaben/WP eigene
+Schriftverkehr
+Jahresabschluss / GuV
+Sonstiges
+BWA / Planrechnung etc.
+Legitimation
+Schriftverkehr
+Abtretung LV
+Abtretung sonstiges
+Kundenbürgschaften
+Globalabtretung
+Verpfändungen Guthaben/WP eigene
+Anlage zur Urkunde
+Grundschuld Zweckerklärungen
+Sonstiges
+Objektbilder / Fotos
+Grundbuchauszug
+Flurkarte / Lageplan
+Wertermittlung / Gutachten
+Schriftverkehr Kredit
+Aktenvermerk
+Beratungsprotokoll
+VVI
+Avale (Bürgschaftsurkunden)
+Bank Kreditvertrag
+Kreditzusage Fördermittel
+Verbundpartner Vertrag
+Verträge - Sonstiges (z.B. ESIS)
+Legitimation
+Gehaltsnachweis
+Kontoauszug
+Mietaufstellung
+Steuerbescheid
+Steuererklärung
+Sonstiges
+Vermögensübersicht
+Aufstellung Baukosten / Eigenleistungen
+Baubeschreibung
+Baugenehmigung/-anzeige/-antrag
+Bauzeichnungen / Grundrisse
+Bewilligung Dienstbarkeiten
+Erbbaurechtsvertrag
+Expose
+Feuerversicherung
+Flurkarte / Lageplan
+Grundbuchauszug
+Kaufvertrag
+Mietverträge/Pachtverträge
+Objektbilder / Fotos
+Teilungserklärung
+Wertermittlung / Gutachten
+Wohnflächenberechnung / Kubatur
+sonstige Verträge
+Sonstiges
+Anlage zur Urkunde
+Grundschuld Zweckerklärungen
+Sonstiges
+Abtretung LV
+Abtretung sonstiges
+Kundenbürgschaften
+Globalabtretung
+Verpfändungen Guthaben/WP eigene
+Schriftverkehr
+Jahresabschluss / GuV
+Sonstiges
+BWA / Planrechnung etc.
+Briefe
+Formulare
+Sicherungsübereignung Kraftfahrzeuge
+Sicherungsübereignung Maschinen, Einrichtungen
+Sicherungsübereignung Warenlager
+Sicherungsübereignung Sonstiges
+KTV-Antrag

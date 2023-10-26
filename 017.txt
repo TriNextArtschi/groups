@@ -1,0 +1,190 @@
+Kreditantrag
+VVI / ESIS / Tilgungsplan
+Bausparkasse
+IB SH
+KfW
+Aufstellung Baukosten
+Aufstellung Eigenleistungen
+Baubeschreibung
+Baugenehmigung/-anzeige/-antrag
+Bauzeichnungen
+Beleihungswertberechnung
+Erbbaurechtsvertrag
+Flurkarte / Lageplan
+Kaufvertrag
+Objektbesichtigung/Gutacht./Foto
+Objektfotos
+Teilungserklärung
+Werkvertrag
+Wohnflächenberechnung / Kubatur
+GB Auszug
+Schriftverkehr sonstiger
+A_Nachweise über Kredite
+A_sonstige Ausgaben
+A_Unterhaltsverpflichtungen
+E_Einkommensnachw. Selbständige
+E_Einkommensnachweis
+E_EST Erklärung / Bescheid
+E_Gesellsch.-/ Güterrechtsvertr.
+E_KDF-Ermittlung Selbständige
+E_Mieteinnahmen
+E_sonstige Einnahmen
+E_Unterhaltsforderungen
+Eigengeldnachweis
+Vermögensaufstellung
+SCHUFA-Auskunft
+Berater/Vermittler VVI+Protokoll
+Provisionsabrechnung
+Ausweis (zur Bearbeitung)
+Expose (Objekt)
+Modernisierungsmassnamen
+Schriftverkehr Drittgläubiger
+Kontoauszug
+Legitimation
+Kundenstammvertrag
+Darlehensvertrag
+Beratungsprotokoll
+VVI
+Beratung - Unterlagen
+Vermittlung - Unterlagen
+Anschreiben / Deckblatt zum Antrag
+Kreditantrag
+Kreditentscheidungsinformationen
+Provisionsabrechnung
+Kreditprotokolle
+Aktenvermerke / Sonstiges
+Kreditzusage
+Bank Kreditvertrag
+Verbundpartner Vertrag
+Verträge - Sonstiges
+Legitimation
+Selbstauskünfte
+Vermögensübersicht / Nachweis Kredite
+Rating / Scoring
+Kontoauszug
+Schufa Auskünfte
+Gehaltsnachweis
+Mieteinnahmen
+Steuererklärung / Bescheid
+Einkommen - Sonstiges
+Ausgaben - Sonstiges
+Grundbuchauszug
+Baubeschreibung
+Kaufvertrag
+Baugenehmigung/-anzeige/-antrag
+Aufstellung Baukosten / Eigenleistungen
+Flurkarte / Lageplan
+Bauzeichnungen / Grundrisse
+Wohnflächenberechnung / Kubatur
+Teilungserklärung
+Erbbaurechtsvertrag
+Bewilligung Dienstbarkeiten
+Wertermittlung / Gutachten
+Objektbilder / Fotos
+Expose
+Immobilienverwaltung - Sonstiges
+Grundschuld Zweckerklärungen
+Vollstreckbare Ausfertigungen
+Verträge / Urkunden
+Grundschuld / Hypothek - Sonstiges
+Bürgschaften
+Abtretungen
+Verpfändungen
+Fördermittel
+Bausparen
+Versicherungen
+Hypothekenbanken / Verbundbanken
+Verbund - Sonstiges
+Schriftverkehr
+Liquiditätsberechnungen
+Jahresabschluss / GuV
+BWA
+Auskünfte
+§18 KWG-Dokumentationen
+Groß- / Milionenkredite
+E/A Bilanz
+Rating
+Firmenkunde - Sonstiges
+###Test
+Bilanz
+Einkommensteuerbescheid
+Einkommensteuererklärung
+BWA
+Gewinnermittlung
+Lohn- / Gehaltsabrechnung
+Mietvertrag
+Planzahlen
+Sonstige Einkommensunterlagen
+Vorläufige Bilanz/EÜR
+DiFin-Vereinbarung
+Kontoumsätze
+Selbstauskunft
+Eigenmittelnachweis
+Vermögens- und Schuldenaufstellung
+Sonstige Vermögensnachweise
+Existenzgründungskonzept
+Geschäftsbericht
+Gutachten zum Unternehmen
+Sanierungskonzept
+Lebenslauf
+Schufaauskunft
+Kreditantrag / Schriftverkehr
+Auskunft von Fremdbank
+Baubeschreibung
+Baugenehmigung
+Baukostenaufstellung
+Baupläne
+Berechnung Wohnfläche / Kubatur
+Gebäudeversicherung
+Energieausweis
+Erbbaurechtsvertrag
+Expose
+Grundbuchauszug
+Gutachten Immobilie
+Kaufvertrag / Übergabevertrag
+Lageplan
+Lichtbilder Beleihungsobjekt
+Teilungserklärung
+Sonstige Objektunterlagen
+Handelsregisterauszug
+Gesellschafterliste
+Ausweiskopie
+Gesellschaftsvertrag
+Vorvertragliche Informationen
+Beratungsprotokoll
+ESIS-Merkblatt
+Lohn- / Gehaltsabrechnung
+Nachweise
+KfW Bestätigung zum Kreditantrag
+Ausweiskopie
+Baubeschreibung
+Baugenehmigung
+Baukostenaufstellung
+Baupläne
+Berechnung Wohnfläche / Kubatur
+Gebäudeversicherung
+Energieausweis
+Erbbaurechtsvertrag
+Expose
+Grundbuchauszug
+Gutachten Immobilie
+Kaufvertrag / Übergabevertrag
+Lageplan
+Lichtbilder Beleihungsobjekt
+Teilungserklärung
+Sonstige Objektunterlagen
+KfW Bestätigung zum Antrag
+Beratungsprotokoll
+ESIS-Merkblatt
+Vorvertragliche Informationen
+Selbstauskunft
+Bankauskunft Fremdbank
+Kreditantrag
+Schufa-Auskunft
+Prüfbogen wirtsch. Abhängigkeit
+Lohn-/Gehaltsnachweis
+Löschen - Kreditentscheidungsinformation
+Immobesichtigung Value
+Nachweise
+Kreditentscheidungsinformation
+Eigenmittelnachweis

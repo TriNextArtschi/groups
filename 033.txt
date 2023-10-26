@@ -1,0 +1,564 @@
+Anschreiben / Deckblatt zum Antrag
+Kreditantrag
+Kreditentscheidungsinformationen
+Berater/Vermittler VVI
+Provisionsabrechnung
+Legitimation
+SCHUFA Auskunft
+VVI / ESIS / Tilgungsplan
+Darlehensvertrag
+Bausparkasse
+Investitionsbank
+KfW
+Baubeschreibung
+Baugenehmigung/-anzeige/-antrag
+Aufstellung Baukosten
+Aufstellung Eigenleistungen
+Flurkarte / Lageplan
+Bauzeichnungen
+Wohnflächenberechnung / Kubatur
+Beleihungswertberechnung
+Teilungserklärung
+Erbbaurechtsvertrag
+Kaufvertrag
+Objektfotos
+Objektbesichtigung / Gutachten
+Expose (Objekt)
+GB Auszug
+Schriftverkehr Allgemein
+Schriftverkehr Drittgläubiger
+Kontoauszug
+Nachweise über Kredite
+Unterhaltsverpflichtungen
+sonstige Ausgaben
+Einkommensnachweis
+Einkommensnachweis Selbständige
+Gesellsch.-/ Güterrechtsvertr.
+EkSt. Erklärung / Bescheid
+Mieteinnahmen
+Unterhaltsforderungen
+sonstige Einnahmen
+Vermögensaufstellung
+Eigengeldnachweis
+1 - Beschlüsse
+2 -Verträge
+3 - Sicherheiten
+4 - Bonitätsunterlagen
+5 - Schriftverkehr
+6 - Sonstiges
+Anschreiben / Deckblatt zum Antrag
+Kreditantrag
+Kreditentscheidungsinformationen
+Berater/Vermittler VVI
+Provisionsabrechnung
+Legitimation
+SCHUFA Auskunft
+VVI / ESIS / Tilgungsplan
+Darlehensvertrag
+Bausparkasse
+Investitionsbank
+KfW
+Baubeschreibung
+Baugenehmigung/-anzeige/-antrag
+Aufstellung Baukosten
+Aufstellung Eigenleistungen
+Flurkarte / Lageplan
+Bauzeichnungen
+Wohnflächenberechnung / Kubatur
+Beleihungswertberechnung
+Teilungserklärung
+Erbbaurechtsvertrag
+Kaufvertrag
+Objektfotos
+Objektbesichtigung / Gutachten
+Expose (Objekt)
+GB Auszug
+Schriftverkehr Allgemein
+Schriftverkehr Drittgläubiger
+Kontoauszug
+Nachweise über Kredite
+Unterhaltsverpflichtungen
+sonstige Ausgaben
+Einkommensnachweis
+Einkommensnachweis Selbständige
+Gesellsch.-/ Güterrechtsvertr.
+EkSt. Erklärung / Bescheid
+Mieteinnahmen
+Unterhaltsforderungen
+sonstige Einnahmen
+Vermögensaufstellung
+Eigengeldnachweis
+#NAME?
+Rentenbescheid/-information
+CREFO / VC-Auskunft
+#NAME?
+#NAME?
+Bilanzmaterial
+Einkommensnachweise
+Ausweisdokument, Reisepass, etc.
+Vermögen-/Schuldenübersicht, Immobilienaufstellung, etc.
+Kreditverträge Fremdbanken
+Einkommensteuer
+#NAME?
+#NAME?
+Renten-/Lebensversicherungen
+Krankenversicherungsnachweis
+Trennungs-/Scheidungsvereinbarungen
+Unterhaltsnachweise
+Objektfotos
+Flurkarte, Lageplan
+Auszug aus Baulasten-/Altlastenverzeichnis / Baurechtl. Auskunft
+Bauantrag/-genehmigung
+Exposé / Baubeschreibung
+Grundriss, Bauplan, Ansichten
+Berechnung Wohnfläche / Umbauter Raum
+Kostenaufstellung, Bau- und Modernisierungskosten, Eigenleistungen
+Erbbaurechtsvertrag
+Mietvetrag
+Mietaufstellung / Mieterliste
+Kaufvertrag / Übertragungsvertrag
+Teilungserklärung
+Grundbuchauszug /Eintragungsbekanntmachung
+Werkvertrag, Bauvertrag
+Selbstauskunft
+Ehevertrag
+Energieausweis EnEV, Gebäudepass
+Rechnungen / Bauträger-Kaufpreiszahlungen
+Wertgutachten
+Wertermittlung/-indikation
+Bautenstandsbericht
+Zustellungsvollmacht
+Flurkarte, Lageplan
+Auszug aus Baulasten-/Altlastenverzeichnis / Baurechtl. Auskunft
+Bauantrag/-genehmigung
+Exposé / Baubeschreibung
+Grundriss, Bauplan, Ansichten
+Berechnung Wohnfläche / Umbauter Raum
+Kostenaufstellung, Bau- und Modernisierungskosten
+Ausweisdokument, Reisepass, etc.
+Erbbaurechtsvertrag
+Mietvertrag
+Mietaufstellung / Mieterliste
+Kaufvertrag / Übertragungsvertrag
+Teilungserklärung
+Grundbuchauszug /Eintragungsbekanntmachung
+Werkvertrag, Bauvertrag
+Vermögen-/Schuldenübersicht, Immobilienaufstellung, etc.
+Kreditverträge Fremdbanken
+Einkommensteuererklärung
+Einkommensteuerbescheid
+Renten-/Lebensversicherungen
+Krankenversicherung
+Trennungs-/Scheidungsvereinbarung
+Unterhaltsnachweis
+Objektfotos
+Bilanzmaterial
+#NAME?
+#NAME?
+Einkommensnachweis
+Rentenbescheid/-information
+CREFO / VC-Auskunft
+Selbstauskunft
+#NAME?
+Ehevertrag
+Energieausweis EnEV, Gebäudepass
+Rechnungen / Bauträger-Kaufpreiszahlungen
+Wertgutachten
+Wertermittlung/-indikation
+Zustellungsvollmacht
+Bautenstandsbericht
+Begleitschreiben, Schriftverkehr
+KfW Antrag
+KfW Bestätigung zum Antrag
+KfW Bestätigung nach Durchführung
+Arbeitsvertrag
+Besichtigungsbericht
+Grundschuldbestellung
+#NAME?
+#NAME?
+#NAME?
+#NAME?
+Selbstauskunft
+CREFO / VC-Auskunft
+Einkommensteuerbescheid
+Einkommensteuererklärung
+Vermögen-/Schuldenübersicht
+Immobilienaufstellung
+Einkommensnachweis
+Arbeitsvertrag
+Rentenbescheid/-information
+Kreditverträge Fremdbanken
+Renten-/Lebensversicherungen
+Krankenversicherung
+Unterhaltsnachweis
+Ausweisdokument, Reisepass, etc.
+Ehevertrag
+Trennungs-/Scheidungsvereinbarung
+Zustellungsvollmacht
+Begleitschreiben, Schriftverkehr
+KfW Antrag
+KfW Bestätigung zum Antrag
+KfW Bestätigung nach Durchführung
+Exposé / Baubeschreibung
+Wertgutachten
+Wertermittlung/-indikation
+Objektfotos
+Besichtigungsbericht
+Grundbuchauszug /Eintragungsbekanntmachung
+Grundschuldbestellung
+Auszug aus Baulasten-/Altlastenverzeichnis / Baurechtl. Auskunft
+Flurkarte, Lageplan
+Grundriss, Bauplan, Ansichten
+Berechnung Wohnfläche / Umbauter Raum
+Kostenaufstellung, Bau- und Modernisierungskosten
+Mietvertrag
+Mietaufstellung / Mieterliste
+Teilungserklärung
+Kaufvertrag / Übertragungsvertrag
+Bautenstandsbericht
+Werkvertrag, Bauvertrag
+Bauantrag/-genehmigung
+Rechnungen / Bauträger-Kaufpreiszahlungen
+Erbbaurechtsvertrag
+Energieausweis EnEV, Gebäudepass
+Immobilienbestand
+Bankenspiegel
+MPB
+SCHUFA MHB
+DZ Hyp
+Jahresabschluss / EÜR
+BWA inkl. Summen- und Saldenliste
+Selbstauskunft
+CREFO / VC-Auskunft
+Einkommensteuerbescheid
+Einkommensteuererklärung
+Vermögen-/Schuldenübersicht
+Einkommensnachweis
+Arbeitsvertrag
+Rentenbescheid/-information
+Kreditverträge Fremdbanken
+Lebens-/ Rentenversicherung
+Krankenversicherung
+Unterhaltsnachweis
+Ausweisdokument, Reisepass, etc.
+Ehevertrag
+Trennungs-/Scheidungsvereinbarung
+Zustellungsvollmacht
+Schriftverkehr Kreditakte
+Exposé / Baubeschreibung
+Wertgutachten
+Wertermittlung/-indikation
+Objektfotos
+Besichtigungsbericht
+Grundbuchauszug /Eintragungsbekanntmachung
+Grundschuldbestellung
+Auszug aus Baulasten-/Altlastenverzeichnis / Baurechtl. Auskunft
+Flurkarte, Lageplan
+Grundriss, Bauplan, Ansichten
+Berechnung Wohnfläche / Umbauter Raum
+Kostenaufstellung, Bau- und Modernisierungskosten
+Mietvertrag
+Mietaufstellung / Mieterliste
+Teilungserklärung
+Kaufvertrag / Übertragungsvertrag
+Bautenstandsbericht
+Werkvertrag, Bauvertrag
+Bauantrag/-genehmigung
+Rechnungen / Bauträger-Kaufpreiszahlungen
+Erbbaurechtsvertrag
+Energieausweis EnEV, Gebäudepass
+Immobilienbestand
+Bankenspiegel
+MPB
+MHB
+DZ Hyp
+Jahresabschluss / EÜR
+BWA inkl. Summen- und Saldenliste
+Aktennotiz Beratungsunterlagen
+VVI für Darlehensvermittlung und Beratung - IVD
+Risikoaufklärung / Merkblatt zu allg. Risiken
+DZ HYP Darlehensvertragsunterlagen
+MHB Darlehensvertragsunterlagen
+MERKUR PRIVATBANK Darlehensvertragsunterlagen - IVD
+GS-Zweckerklärung (weit)
+GS-Zweckerklärung (eng)
+GS-Zweckerklärung (MHB)
+GS-Zweckerklärung (DZ HYP)
+Abtretung - LV (weit)
+Abtretung - LV (eng)
+Abtretung - Bausparvertrag (weit)
+Abtretung - Bausparvertrag (eng)
+Verpfändung - WP (weit)
+Verpfändung - WP (eng)
+Versicherungspolice
+Abtretung - Miete/Pacht (weit)
+Abtretung - Miete/Pacht (eng)
+KfW
+Kreditprotokoll / Kreditentscheidungsinformation
+sonst. wirt. Unterlagen
+sonst. Objektunterlagen
+Anbahnung Vermittler SV / Kunde inaktiv
+Wichtig / Offen
+Wichtig / Offen
+Schriftverkehr MPB
+Kreditprotokoll / Kreditentscheidungsinformation
+sonst. wirt. Unterlagen
+Selbstauskunft
+Einkommensnachweis
+Arbeitsvertrag
+Rentenbescheid/-information
+Einkommensteuerbescheid
+Einkommensteuererklärung
+Vermögen-/Schuldenübersicht
+Immobilienbestand
+Bankenspiegel
+Kreditverträge Fremdbanken
+Lebens-/ Rentenversicherung
+Krankenversicherung
+Unterhaltsnachweis
+CREFO / VC-Auskunft
+Ausweisdokument, Reisepass, etc.
+Ehevertrag
+Trennungs-/Scheidungsvereinbarung
+Zustellungsvollmacht
+Jahresabschluss / EÜR
+BWA inkl. Summen- und Saldenliste
+sonst. Objektunterlagen
+Exposé / Baubeschreibung
+Wertgutachten
+Wertermittlung/-indikation
+Objektfotos
+Besichtigungsbericht
+Grundbuchauszug /Eintragungsbekanntmachung
+Grundschuldbestellung
+Auszug aus Baulasten-/Altlastenverzeichnis / Baurechtl. Auskunft
+Flurkarte, Lageplan
+Grundriss, Bauplan, Ansichten
+Berechnung Wohnfläche / Umbauter Raum
+Kostenaufstellung, Bau- und Modernisierungskosten
+Mietvertrag
+Mietaufstellung / Mieterliste
+Teilungserklärung
+Kaufvertrag / Übertragungsvertrag
+Bautenstandsbericht
+Werkvertrag, Bauvertrag
+Bauantrag/-genehmigung
+Rechnungen / Bauträger-Kaufpreiszahlungen
+Erbbaurechtsvertrag
+Energieausweis EnEV, Gebäudepass
+Aktennotiz Beratungsunterlagen
+VVI für Darlehensvermittlung und Beratung - IVD
+Risikoaufklärung / Merkblatt zu allg. Risiken
+Vertragsunterlagen ALLIANZ
+Vertragsunterlagen MHB
+Vertragsunterlagen MERKUR PRIVATBANK (IVD)
+GS-Zweckerklärung (weit)
+GS-Zweckerklärung (eng)
+GS-Zweckerklärung (MHB)
+Ansprechpartner Objektbesichtigung --> Wichtig/Offen
+Verpfändung - WP (weit)
+Verpfändung - WP (eng)
+Abtretung - Bausparvertrag (weit)
+Abtretung - Bausparvertrag (eng)
+Abtretung - LV (weit)
+Abtretung - LV (eng)
+Versicherungspolice --> nur Original
+Abtretung - Miete/Pacht (weit)
+Abtretung - Miete/Pacht (eng)
+Zwischenspeicher
+Zwischenspeicher
+Datenschutzerklärung MPB
+Zwischenspeicher
+Wichtig / Offen
+Anbahnung Vermittler SV / Kunde inaktiv
+Schriftverkehr Kreditakte
+Kreditprotokoll / Kreditentscheidungsinformation
+sonst. wirt. Unterlagen
+Selbstauskunft
+Einkommensnachweis
+Arbeitsvertrag
+Rentenbescheid/-information
+Einkommensteuerbescheid
+Einkommensteuererklärung
+Vermögen-/Schuldenübersicht
+Immobilienbestand
+Bankenspiegel
+Kreditverträge Fremdbanken
+Lebens-/ Rentenversicherung
+Krankenversicherung
+Unterhaltsnachweis
+CREFO / VC-Auskunft
+Ausweisdokument, Reisepass, etc.
+Ehevertrag
+Trennungs-/Scheidungsvereinbarung
+Zustellungsvollmacht
+Jahresabschluss / EÜR
+BWA inkl. Summen- und Saldenliste
+sonst. Objektunterlagen
+Exposé / Baubeschreibung
+Wertgutachten
+Wertermittlung/-indikation
+Objektfotos
+Besichtigungsbericht
+Grundbuchauszug /Eintragungsbekanntmachung
+Grundschuldbestellung
+Auszug aus Baulasten-/Altlastenverzeichnis / Baurechtl. Auskunft
+Flurkarte, Lageplan
+Grundriss, Bauplan, Ansichten
+Berechnung Wohnfläche / Umbauter Raum
+Kostenaufstellung, Bau- und Modernisierungskosten
+Mietvertrag
+Mietaufstellung / Mieterliste
+Teilungserklärung
+Kaufvertrag / Übertragungsvertrag
+Bautenstandsbericht
+Werkvertrag, Bauvertrag
+Bauantrag/-genehmigung
+Rechnungen / Bauträger-Kaufpreiszahlungen
+Erbbaurechtsvertrag
+Energieausweis EnEV, Gebäudepass
+Datenschutzerklärung MPB
+Aktennotiz Beratungsunterlagen
+VVI für Darlehensvermittlung und Beratung - IVD
+Risikoaufklärung / Merkblatt zu allg. Risiken
+Vertragsunterlagen DZ-HYP
+Vertragsunterlagen MHB
+Vertragsunterlagen MERKUR PRIVATBANK (IVD)
+GS-Zweckerklärung (weit)
+GS-Zweckerklärung (eng)
+GS-Zweckerklärung (MHB)
+GS-Zweckerklärung (DZ HYP)
+Verpfändung - WP (weit)
+Verpfändung - WP (eng)
+Abtretung - Bausparvertrag (weit)
+Abtretung - Bausparvertrag (eng)
+Abtretung - LV (weit)
+Abtretung - LV (eng)
+Versicherungspolice
+Abtretung - Miete/Pacht (weit)
+Abtretung - Miete/Pacht (eng)
+Wichtig / Offen
+Abnahmeprotokoll / Mängelfreistellung
+Fälligkeitsmitteilung
+Freistellungsvereinbarung
+sonst. Objektunterlagen
+Objektfotos nach Fertigstellung
+Zahlung
+Zweite Kaufpreisrate
+Dritte Kaufpreisrate
+Vierte Kaufpreisrate
+Fünfte Kaufpreisrate
+Sechste Kaufpreisrate
+Siebte Kaufpreisrate
+Primanota
+Grundbuchauszug /Eintragungsbekanntmachung
+Kaufvertrag / Übertragungsvertrag
+Kreditprotokoll / Kreditentscheidungsinformation
+Kaufpreisliste
+Kaufpreisliste
+Zwischenspeicher
+Kreditkontrollbogen
+Beratungsprotokoll
+Vertragsunterlagen DSL-BANK
+Vertragsunterlagen R+V
+Vertragsunterlagen R+V
+Vertragsunterlagen ALLIANZ
+Vertragsunterlagen DSL-BANK
+Selbstauskunft
+Bereits unterschriebene Dokumente
+Verbunddarlehen  - Vertragsbündel
+KfW - Daten zum Antrag
+KfW - Allg. Bedingungen f. Investitionskredite
+KfW - Merkblatt
+Weitere Sicherheiten aus Agree BAP
+Anschreiben R+V
+BaufiSmart - Bestätigung zum Kreditantrag
+Beleihungswertermittlung
+Rating
+KfW - Refi Zusage
+Grundschuldestellungsurkunde
+Grundschuldbestellungsurkunde
+Grundschuldbestellungsurkunde
+Grundschuldbrief
+Grundschuldbrief
+Schriftverkehr Kreditakte
+Schriftverkehr MHB
+Schriftverkehr R+V
+ESIS MERKUR PRIVATBANK
+ESIS MHB
+KfW-Refi-Zusage
+PF MHB
+Selbstauskunft
+Bereits unterschriebene Dokumente
+Verbunddarlehen  - Vertragsbündel
+KfW - Daten zum Antrag
+KfW - Allg. Bedingungen f. Investitionskredite
+KfW - Merkblatt
+Weitere Sicherheiten aus Agree BAP
+Anschreiben R+V
+BaufiSmart - Bestätigung zum Kreditantrag
+Beleihungswertermittlung
+Rating
+KfW - Refi Zusage
+Finanzierungsbestätigung
+Grundschuld-Bestellungsunterlagen
+Darlehensverträge
+Kreditprotokoll / Kreditentscheidungsinformation
+Beratungsprotokoll
+sonst. wirt. Unterlagen
+Selbstauskunft
+Einkommensnachweis
+Arbeitsvertrag
+Rentenbescheid/-information
+Einkommensteuerbescheid
+Einkommensteuererklärung
+Vermögen-/Schuldenübersicht
+Immobilienbestand
+Bankenspiegel
+Kreditverträge Fremdbanken
+Lebens-/ Rentenversicherung
+Krankenversicherung
+Unterhaltsnachweis
+CREFO / VC-Auskunft
+Ausweisdokument, Reisepass, etc.
+Ehevertrag
+Trennungs-/Scheidungsvereinbarung
+Zustellungsvollmacht
+Jahresabschluss / EÜR
+BWA inkl. Summen- und Saldenliste
+sonst. Objektunterlagen
+Exposé / Baubeschreibung
+Wertgutachten
+Wertermittlung/-indikation
+Objektfotos
+Besichtigungsbericht
+Grundbuchauszug /Eintragungsbekanntmachung
+ZZZ_Löschen Grundschuldbestellung
+Auszug aus Baulasten-/Altlastenverzeichnis / Baurechtl. Auskunft
+Flurkarte, Lageplan
+Grundriss, Bauplan, Ansichten
+Berechnung Wohnfläche / Umbauter Raum
+Kostenaufstellung, Bau- und Modernisierungskosten
+Mietvertrag
+Mietaufstellung / Mieterliste
+Teilungserklärung
+Kaufvertrag / Übertragungsvertrag
+Kaufpreisliste
+Bautenstandsbericht
+Werkvertrag, Bauvertrag
+Bauantrag/-genehmigung
+Rechnungen / Bauträger-Kaufpreiszahlungen
+Erbbaurechtsvertrag
+Energieausweis EnEV, Gebäudepass
+Refi-Zusage
+Weitere KfW-Unterlagen + Datenschutz
+Weitere Sicherheiten / Risiko-LV
+Finales Angebot
+Terminierung / Vertragsunterzeichnung
+Kunde inaktiv
+Wichtig / Offen
+Schriftverkehr Marktfolge
+LV Abtretung - Bestätigung
+Versicherungspolice
+WP-Depot Verpfändung - Anzeige / Bestätigung
+LV Abtretung - Anzeige

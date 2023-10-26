@@ -1,0 +1,398 @@
+Beratungsprotokoll IVD
+VVI Darlehensvermittlung IVD
+Schriftverkehr Vermittler
+Vermittlung - Unterlagen
+Bewillig befr ÜZ bis 25 TEUR
+Kreditantrag
+Bewillig befr ÜZ ab 25 TEUR
+Provisionsabrechnung
+Kurzprotokoll
+Kundenauftrag Kreditgeschäft-20
+Abtretung - Abtr. BSV (enge ZE)
+Abtretung - Abtr. BSV (enge ZE) - Baufin.
+Abtretung - Abtr. BSV (weite ZE)
+Abtretung - Sparratenüberwachung BSH
+Legitimation (kein Export)
+Auskünfte (Bestand)
+Informationsvollmacht
+Steuerberatervollmacht
+Wirtschafl. Verh. (Bestand)
+Selbstauskunft
+Anlage Selbstauskunft
+EKSt-Bescheide
+EKSt-Erklärungen
+Kreditspiegel
+VSA + Haushaltsrechnung
+Flurkarte / Lageplan
+Bewertungsunterlagen
+Baugenehmigung/-anzeige/-antrag
+Baupläne/Baubeschreibung
+Auftrag Wertermittlung
+Angaben Beleihungswertermittlung
+Bautenstandsbericht
+Grundstücksbelastung Anmeldung
+Gebäudeversicherungsnachweis
+Gebäudeversicherung Police
+Aktualisierung Grundbuchauszug
+Grundbuchauszug
+Kauf-/Übergabevertrag
+Lichtbilder
+Grundschuldbestellungsauftrag
+Grundschuld Abtretungsauftrag
+Grundschuldabtretung z.G. Bank
+Abtretung - Unterl. Bauspar-Abtr. (Bestand)
+Abtretung - Unterl. LV-Abtr. (Bestand)
+Abtretung - Versicherungsscheine
+Rentenbank
+LuxCredite
+DZ Hyp
+MHB
+MHB ESIS-Merkblatt
+Finanzunterlagen Existenzgründung
+BWA - SVK, Aktennotizen
+BWA mit Summen- u. Saldenliste
+Jahresabschlüsse
+Vorläufige Jahresabschlüsse
+BSH ESIS-Merkblatt
+Akt. Vermögensaufstellung
+Vermögensaufstellung
+DL Kontoauszüge
+Immobilie-Objektbesichtigung
+Sonstiges (Objekt)
+Mietverträge/Mietaufstellungen
+Teilungserklärung
+Beleihungswertermittlung
+Wohnflächenberechnung/Kubatur
+Rentenbank Antrag Refi-DL
+Rentenbank Darlehensabruf
+Beantragung Förderkredit
+Verwendungsnachweis/Rechnungen
+Abtretung - Nachweis Forderung
+Abtretung - Nachweise-64
+SÜ - Versicherungsunterlagen-81
+SÜ - Kfz-Brief
+SÜ - Rechnung
+SÜ - Nutzungsvertrag PV
+SÜ - Verzicht Zubehörhaftung PV
+SÜ - Dienstbarkeitsbest Leitungsrecht
+SÜ - Gestattungsvertrag Stromeitung
+SÜ - Versicherungsunterlagen-82
+SÜ - Modulliste
+SÜ - Rechnung/Angebot
+SÜ - Versicherungsnachweis-83
+SÜ - Versicherungsunterlagen-84
+SÜ - Nachweise-84
+Verpfändung - Nachweise-71
+Verpfändung - Urkunde
+Verpfändung - Depotauszug
+Verpfändung - Nachweis
+Abtretung - Abtr. priv. Rentenvers. (enge ZE)
+Abtretung - Abtr. Rechte LV (weite ZE)
+Abtretung - Abtr. Rechte LV (enge ZE)
+Abtretung - Abtr. Rechte LV (Todesfall)
+Abtretung - Informationen zum Einsatz von LV und RV mit Kapitalwahlrecht bei Finanzierungen
+Abtretung - Abtr. LV Erweiter. d. engen ZE
+Abtretung - Abtr. Rechte LV (Todesf+enge ZE)
+Abtretung - Abtr. Priv. Rentenvers. (enge ZE)
+Abtretung - Abtr. Priv. Rentenvers. (weite ZE)
+Abtretung - Abtr. Priv. LV (enge ZE)
+Abtretung - Abtr./Verpfd.-anzeige an FA
+Abtretung - Abtr.  Forderung (weite ZE)
+Abtretung - Abtr.  Forderung (enge ZE)
+Abtretung - Globalabtretung (weite ZE)
+Abtretung - Abtr. v. Bauforderungen (weite ZE)
+Abtretung - Abtr. von Ansprüchen aus Energielieferung (enge ZE)
+Abtretung - Abtr. von Ansprüchen aus Energielieferung (weite ZE)
+Abtretung - Abtret. v. Miet-/Pachtzinsfordg. (weite ZE)
+Abtretung - Abtret. v. Miet-/Pachtzinsfordg. (enge ZE)
+Abtretung - Abtr. Steuererst. (weite ZE)
+Abtretung - Abtr. v. Bezügen (enge ZE)
+Abtretung - Abtr. Guthaben fr. Bank (weite ZE)
+Abtretung - Abtr. Guthaben fr. Bank (enge ZE)
+Bürgschaft - BÜ weite ZE
+Bürgschaft - BÜ Einzelford.+Haftungszw.beschr
+Bürgschaft - BÜ Zeitbü. für Einzelforderungen
+Bürgschaft - BÜ enge ZE f. Einzelforderungen
+Bürgschaft - BÜ Ausfallbürgschaft
+Darlehen - VVI Förderkredit AVD
+Darlehen - Europ. Verbraucherkreditinfo. bei ÜZ-Krediten
+Darlehen - Europ. Standardinfo. für Verbraucherkredite
+Darlehen - Bankbürgschaft Mängelgewähr
+Darlehen - Bankbürgschaft allgemein
+Darlehen - Bankbürgschaft Lieferung+Leist.
+Darlehen - Bankbürgschaft Vorauszahlung
+Darlehen - Bankbürgschaft Prozess
+Darlehen - Bankbürgschaft Bauhandwerkersicherung
+Darlehen - Bankbürgschaft gem. § 7 MaBV
+Darlehen - Bankbürgschaft nach § 623a
+Darlehen - Darlehensvertrag
+Darlehen - Allg.-Verbraucherdarlehensvertrag für KK-Kredite befristete ÜZ-Möglichkeit
+Darlehen - Allg.-Verbraucherdarlehensvertrag für KK-Kredite unbefristet/kurzfristig AVD
+Darlehen - Immobiliar-Verbraucherdarlehensvertrag als Überziehungsmöglichkeit IVD
+Darlehen - Immobiliar-Verbraucherdarlehensvertrag in Fremdwährung als Überziehungsmöglichkeit IVD
+Darlehen - Kreditvertrag für KK-Kredite sowie R+V-KontoschutzPolice
+Darlehen - Kreditvertrag für KK-Kredite
+Darlehen - Darlehensvertrag mit R+V-RatenschutzPolice
+Darlehen - Darlehensvertrag Vereinbarung einer Sollzinsbegrenzung
+Darlehen - Empfangsbestätigung
+Darlehen - Änderungsvereinbarung für einen Darlehensvertrag
+Darlehen - Kreditvertrag Avalkredite
+Darlehen - Auftrag Übernahme Bankbürgschaft
+Darlehen - Bankbürgschaft Mietbürgschaft
+Darlehen - Bankbürgschaft Mietbürgschaft auf erstes Anfordern
+zzzlöschen-Darlehen - Darlehensvertrag Vereinbarung einer Sollzinsuntergrenze
+Darlehen - Immobiliar-Verbraucherdarlehensvertrag IVD
+zzzlöschen-Darlehen - Immobiliar-Verbraucherdarlehensvertrag in Fremdwährung IVD
+Darlehen - Immobiliar-Verbraucherdarlehensvertrag sowie R+V-RatenschutzPolice IVD
+Darlehen - Allgemein-Verbraucherdarlehensvertrag AVD
+Darlehen - Allgemein-Verbraucherdarlehensvertrag sowie R+V-RatenschutzPolice AVD
+Darlehen - ESIS-Merkblatt
+Darlehen - Immobiliar-Verbraucherdarlehensvertrag als befristete Überziehungsmöglichkeit
+Fördermittel - LfA
+Fördermittel - KfW
+Fördermittel - VVI für als Präsenzgeschäft geschlossene Verträge zum Immobiliar-Förderdarlehen
+Grundschuld - GSZE (enge Fassung)
+Grundschuld - GSZE eng + Abtr. RGA + pers.Haft.
+Grundschuld - GSZE eng + Abtr. Rückgewähranspr.
+Grundschuld - GSZE zur Sicherung der Geschäftsverbindung
+Grundschuld - GSZE weit + Abtr.RGA + pers.Haft.
+Grundschuld - GSZE weit + Abtr. Rückgewähranspr.
+Grundschuld - Negativerklärung
+SÜ - Kfz-Sicherungsschein
+SÜ - SÜ Kfz (weite ZE)
+SÜ - SÜ Kfz (enge ZE)
+SÜ - SÜ Raumsicherungsübereignung (Energiegewinnungsanlage mit Ausnahme von Biogasanlagen) (enge ZE)
+SÜ - Sicherungsschein für Kreditgeber/Leasinggeber
+SÜ - Antrag Eintr. v. beschr. pers. Dienstbarkeiten (für Energiegewinnungsanlagen) sowie eintr. Vorm.
+SÜ - Sicherungsvereinbarung zum Nutzungsvertrag (Betrieb einer Energiegewinnungsanlage)
+SÜ - SÜ RaumSÜ (Energiegewinnungsanlage mit Ausnahme von Biogasanlagen) (weite ZE)
+SÜ - Antrag Eintr. beschr. pers. Dienstbarkeit für Energiegewinnungsanlagen (mit Ausnahme von Biogasanlagen) - (2-Personen-Verhältnis)
+SÜ - Antrag Eintr. beschr. pers. Dienstbarkeiten für Energiegewinnungsanlagen (mit Ausnahme von Biogasanlagen) sowie Eintr. Vorm. - Nichtstandortgrundstück
+SÜ - SÜ  Warenlager (weite ZE)
+SÜ - SÜ  Warenlager Bestandsmeldung
+SÜ - SÜ Kfz-Lager (weite ZE)
+SÜ - SÜ Kfz-Lager mit wechselndem Bestand
+SÜ - SÜ Warenlager (enge ZE)
+SÜ - SÜ mit Übergabeersatz (weite ZE)
+SÜ - SÜ mit Übergabeersatz (enge ZE)
+SÜ - SÜ mit Übergabe (weite ZE)
+SÜ - SÜ mit Übergabe (enge ZE)
+SÜ - SÜ RaumsicherungSÜ best. Gegenstände (weite ZE)
+Verbund - Avalkreditvertrag LuxCredit
+Verbund - Darlehensvertrag MHB
+Verpfändung - Verpfändung von Guthabenforderungen (weite ZE)
+Verpfändung - Verpfändung von Guthabenforderungen (enge ZE)
+Verpfändung - Verpfändung von Wertpapieren (weite ZE)
+Verpfändung - Verpfändung von Wertpapieren (engeZE)
+Verpfändung - Verpfändung von Investmentfondsanteilen (weite ZE)
+Verpfändung - Verpfändung von Investmentfondsanteilen (enge ZE)
+Beratung - Unterlagen
+Anschreiben / Deckblatt zum Antrag
+Kreditentscheidungsinformationen
+Kontoauszüge - Sonstiges
+Gehaltsnachweise
+Mieteinnahmen
+Einkommen - Sonstiges
+Ausgaben - Sonstiges
+Fördermittel - Förderdarlehensvertrag
+Fördermittel - Empfangsbestätigung zum Förderdarlehensvertrag
+Fördermittel - Europäisches Standardisiertes Merkblatt (ESIS-Merkblatt)
+Legitimation (kein Export)
+Beratungsprotokoll IVD
+VVI Darlehensvermittlung IVD
+Vermittlung - Unterlagen
+Beratung - Unterlagen
+Schriftverkehr Vermittler
+Anschreiben / Deckblatt zum Antrag
+Kreditantrag
+Kundenauftrag Kreditgeschäft-20
+Kurzprotokoll
+Bewillig befr ÜZ bis 25 TEUR
+Bewillig befr ÜZ ab 25 TEUR
+Kreditentscheidungsinformationen
+Provisionsabrechnung
+Auskünfte (Bestand)
+Selbstauskunft
+Anlage Selbstauskunft
+Gehaltsnachweise
+EKSt-Bescheide
+EKSt-Erklärungen
+Kreditspiegel
+VSA + Haushaltsrechnung
+Akt. Vermögensaufstellung
+Vermögensaufstellung
+Kontoauszüge - Sonstiges
+DL Kontoauszüge
+Mieteinnahmen
+Einkommen - Sonstiges
+Ausgaben - Sonstiges
+Informationsvollmacht
+Steuerberatervollmacht
+Wirtschafl. Verh. (Bestand)
+Baugenehmigung/-anzeige/-antrag
+Baupläne/Baubeschreibung
+Wohnflächenberechnung/Kubatur
+Flurkarte / Lageplan
+Bewertungsunterlagen
+Kauf-/Übergabevertrag
+Mietverträge/Mietaufstellungen
+Grundbuchauszug
+Aktualisierung Grundbuchauszug
+Immobilie-Objektbesichtigung
+Lichtbilder
+Auftrag Wertermittlung
+Angaben Beleihungswertermittlung
+Beleihungswertermittlung
+Bautenstandsbericht
+Grundstücksbelastung Anmeldung
+Gebäudeversicherungsnachweis
+Gebäudeversicherung Police
+Teilungserklärung
+Sonstiges (Objekt)
+Grundschuldbestellungsauftrag
+Grundschuld Abtretungsauftrag
+Grundschuldabtretung z.G. Bank
+Abtretung - Nachweis Forderung
+Abtretung - Nachweise-64
+SÜ - Versicherungsunterlagen-81
+SÜ - Kfz-Brief
+SÜ - Rechnung
+SÜ - Nutzungsvertrag PV
+SÜ - Verzicht Zubehörhaftung PV
+SÜ - Dienstbarkeitsbest Leitungsrecht
+SÜ - Gestattungsvertrag Stromeitung
+SÜ - Versicherungsunterlagen-82
+SÜ - Modulliste
+SÜ - Rechnung/Angebot
+SÜ - Versicherungsnachweis-83
+SÜ - Versicherungsunterlagen-84
+SÜ - Nachweise-84
+Verpfändung - Nachweise-71
+Verpfändung - Urkunde
+Verpfändung - Depotauszug
+Verpfändung - Nachweis
+Abtretung - Unterl. Bauspar-Abtr. (Bestand)
+Abtretung - Versicherungsscheine
+Abtretung - Unterl. LV-Abtr. (Bestand)
+Rentenbank Antrag Refi-DL
+Rentenbank Darlehensabruf
+Beantragung Förderkredit
+Verwendungsnachweis/Rechnungen
+Rentenbank
+BSH ESIS-Merkblatt
+LuxCredite
+DZ Hyp
+MHB
+MHB ESIS-Merkblatt
+Finanzunterlagen Existenzgründung
+BWA - SVK, Aktennotizen
+BWA mit Summen- u. Saldenliste
+Jahresabschlüsse
+Vorläufige Jahresabschlüsse
+Abtretung - Abtr.  Forderung (weite ZE)
+Abtretung - Abtr.  Forderung (enge ZE)
+Abtretung - Abtr. Steuererst. (weite ZE)
+Abtretung - Globalabtretung (weite ZE)
+Abtretung - Abtr. v. Bauforderungen (weite ZE)
+Abtretung - Abtr. v. Bezügen (enge ZE)
+Abtretung - Abtr. Guthaben fr. Bank (weite ZE)
+Abtretung - Abtr. priv. Rentenvers. (enge ZE)
+Abtretung - Abtr. Rechte LV (weite ZE)
+Abtretung - Abtr. Rechte LV (enge ZE)
+Abtretung - Abtr. Rechte LV (Todesfall)
+Abtretung - Informationen zum Einsatz von LV und RV mit Kapitalwahlrecht bei Finanzierungen
+Abtretung - Abtr. LV Erweiter. d. engen ZE
+Abtretung - Abtr. BSV (enge ZE)
+Abtretung - Abtr. BSV (enge ZE) - Baufin.
+Abtretung - Abtr. BSV (weite ZE)
+Abtretung - Sparratenüberwachung BSH
+Abtretung - Abtr. Guthaben fr. Bank (enge ZE)
+Abtretung - Abtr. Rechte LV (Todesf+enge ZE)
+Abtretung - Abtr. Priv. Rentenvers. (enge ZE)
+Abtretung - Abtr. Priv. Rentenvers. (weite ZE)
+Abtretung - Abtr. Priv. LV (enge ZE)
+Abtretung - Abtr. von Ansprüchen aus Energielieferung (enge ZE)
+Abtretung - Abtr. von Ansprüchen aus Energielieferung (weite ZE)
+Abtretung - Abtr./Verpfd.-anzeige an FA
+Abtretung - Abtret. v. Miet-/Pachtzinsfordg. (weite ZE)
+Abtretung - Abtret. v. Miet-/Pachtzinsfordg. (enge ZE)
+Bürgschaft - BÜ weite ZE
+Bürgschaft - BÜ Einzelford.+Haftungszw.beschr
+Bürgschaft - BÜ Zeitbü. für Einzelforderungen
+Bürgschaft - BÜ enge ZE f. Einzelforderungen
+Bürgschaft - BÜ Ausfallbürgschaft
+Darlehen - Auftrag Übernahme Bankbürgschaft
+Darlehen - Bankbürgschaft Mietbürgschaft
+Darlehen - Bankbürgschaft Mängelgewähr
+Darlehen - Bankbürgschaft Mietbürgschaft auf erstes Anfordern
+Darlehen - Bankbürgschaft allgemein
+Darlehen - Bankbürgschaft Lieferung+Leist.
+Darlehen - Bankbürgschaft Vorauszahlung
+Darlehen - Bankbürgschaft Prozess
+Darlehen - Bankbürgschaft Bauhandwerkersicherung
+Darlehen - Bankbürgschaft gem. § 7 MaBV
+Darlehen - Bankbürgschaft nach § 623a
+Darlehen - VVI Förderkredit AVD
+Darlehen - Europ. Verbraucherkreditinfo. bei ÜZ-Krediten
+Darlehen - Europ. Standardinfo. für Verbraucherkredite
+Darlehen - ESIS-Merkblatt
+Darlehen - Immobiliar-Verbraucherdarlehensvertrag als befristete Überziehungsmöglichkeit
+Darlehen - Immobiliar-Verbraucherdarlehensvertrag als Überziehungsmöglichkeit IVD
+Darlehen - Immobiliar-Verbraucherdarlehensvertrag in Fremdwährung als Überziehungsmöglichkeit IVD
+Darlehen - Immobiliar-Verbraucherdarlehensvertrag IVD
+Darlehen - Immobiliar-Verbraucherdarlehensvertrag sowie R+V-RatenschutzPolice IVD
+Darlehen - Allg.-Verbraucherdarlehensvertrag für KK-Kredite befristete ÜZ-Möglichkeit
+Darlehen - Allg.-Verbraucherdarlehensvertrag für KK-Kredite unbefristet/kurzfristig AVD
+Darlehen - Allgemein-Verbraucherdarlehensvertrag AVD
+Darlehen - Allgemein-Verbraucherdarlehensvertrag sowie R+V-RatenschutzPolice AVD
+Darlehen - Kreditvertrag für KK-Kredite sowie R+V-KontoschutzPolice
+Darlehen - Kreditvertrag für KK-Kredite
+Darlehen - Darlehensvertrag
+Darlehen - Darlehensvertrag mit R+V-RatenschutzPolice
+Darlehen - Darlehensvertrag Vereinbarung einer Sollzinsbegrenzung
+Darlehen - Empfangsbestätigung
+Darlehen - Änderungsvereinbarung für einen Darlehensvertrag
+Darlehen - Kreditvertrag Avalkredite
+Fördermittel - VVI für als Präsenzgeschäft geschlossene Verträge zum Immobiliar-Förderdarlehen
+Fördermittel - Förderdarlehensvertrag
+Fördermittel - Empfangsbestätigung zum Förderdarlehensvertrag
+Fördermittel - Europäisches Standardisiertes Merkblatt (ESIS-Merkblatt)
+Fördermittel - LfA
+Fördermittel - KfW
+Grundschuld - GSZE (enge Fassung)
+Grundschuld - GSZE eng + Abtr. RGA + pers.Haft.
+Grundschuld - GSZE eng + Abtr. Rückgewähranspr.
+Grundschuld - GSZE zur Sicherung der Geschäftsverbindung
+Grundschuld - GSZE weit + Abtr.RGA + pers.Haft.
+Grundschuld - GSZE weit + Abtr. Rückgewähranspr.
+Grundschuld - Negativerklärung
+SÜ - Antrag Eintr. v. beschr. pers. Dienstbarkeiten (für Energiegewinnungsanlagen) sowie eintr. Vorm.
+SÜ - Sicherungsvereinbarung zum Nutzungsvertrag (Betrieb einer Energiegewinnungsanlage)
+SÜ - Antrag Eintr. beschr. pers. Dienstbarkeit für Energiegewinnungsanlagen (mit Ausnahme von Biogasanlagen) - (2-Personen-Verhältnis)
+SÜ - Antrag Eintr. beschr. pers. Dienstbarkeiten für Energiegewinnungsanlagen (mit Ausnahme von Biogasanlagen) sowie Eintr. Vorm. - Nichtstandortgrundstück
+SÜ - SÜ mit Übergabeersatz (weite ZE)
+SÜ - SÜ mit Übergabeersatz (enge ZE)
+SÜ - SÜ mit Übergabe (weite ZE)
+SÜ - SÜ mit Übergabe (enge ZE)
+SÜ - SÜ  Warenlager (weite ZE)
+SÜ - SÜ  Warenlager Bestandsmeldung
+SÜ - SÜ RaumsicherungSÜ best. Gegenstände (weite ZE)
+SÜ - SÜ Warenlager (enge ZE)
+SÜ - SÜ RaumSÜ (Energiegewinnungsanlage mit Ausnahme von Biogasanlagen) (weite ZE)
+SÜ - SÜ Raumsicherungsübereignung (Energiegewinnungsanlage mit Ausnahme von Biogasanlagen) (enge ZE)
+SÜ - Sicherungsschein für Kreditgeber/Leasinggeber
+SÜ - SÜ Kfz (weite ZE)
+SÜ - SÜ Kfz-Lager (weite ZE)
+SÜ - SÜ Kfz-Lager mit wechselndem Bestand
+SÜ - SÜ Kfz (enge ZE)
+SÜ - Kfz-Sicherungsschein
+Verbund - Avalkreditvertrag LuxCredit
+Verbund - Darlehensvertrag MHB
+Verpfändung - Verpfändung von Guthabenforderungen (weite ZE)
+Verpfändung - Verpfändung von Guthabenforderungen (enge ZE)
+Verpfändung - Verpfändung von Wertpapieren (weite ZE)
+Verpfändung - Verpfändung von Wertpapieren (engeZE)
+Verpfändung - Verpfändung von Investmentfondsanteilen (weite ZE)
+Verpfändung - Verpfändung von Investmentfondsanteilen (enge ZE)
+zzzlöschen-Darlehen - Immobiliar-Verbraucherdarlehensvertrag in Fremdwährung IVD
+zzzlöschen-Darlehen - Darlehensvertrag Vereinbarung einer Sollzinsuntergrenze

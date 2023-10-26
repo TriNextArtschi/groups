@@ -1,0 +1,138 @@
+Ausweis (zur Bearbeitung)
+Darlehensvermittlervertrag + VVI
+Beratungsprotokoll
+Kreditantrag
+Kreditentscheidungsinformationen
+SCHUFA-Auskunft
+VVI / ESIS / Tilgungsplan
+Darlehensvertrag (AVD)
+Bausparkasse
+IB SH
+KfW
+LV
+Aufstellung Baukosten
+Aufstellung Eigenleistungen
+Baubeschreibung
+Baugenehmigung/-anzeige/-antrag
+Bauzeichnungen
+Beleihungswertberechnung
+Erbbaurechtsvertrag
+Expose (Objekt)
+Flurkarte / Lageplan
+Kaufvertrag
+Modernisierungsmaßnahmen
+Objektbesichtigung/Gutacht./Foto
+Objektfotos
+Teilungserklärung
+Werkvertrag
+Wohnflächenberechnung / Kubatur
+GB Auszug
+Bausparkasse
+Schriftverkehr Europace
+Schriftverkehr sonstiger
+Nachweise über Kredite
+sonstige Ausgaben
+Unterhaltsverpflichtungen
+Eigengeldnachweis
+Einkommensnachw. Selbständige
+Einkommensnachweis
+Renteninformation
+EST Erklärung / Bescheid
+Gesellsch.-/ Güterrechtsvertr.
+KDF-Ermittlung Selbständige
+Mieteinnahmen
+sonstige Einnahmen
+Unterhaltsforderungen
+Kontoauszug
+Vermögensaufstellung
+Vertragsunterlagen
+Grundschulden
+Grundschulden
+Bürgschaften/Garantien
+Ausweis (zur Bearbeitung)
+Darlehensvermittlervertrag
+Beratungsprotokoll
+Kreditantrag
+Kreditentscheidungsinformationen
+SCHUFA-Auskunft
+VVI / ESIS / Tilgungsplan (nicht verwenden)
+Darlehensvertrag (AVD)
+Bausparkasse
+IB SH
+KfW
+LV
+Aufstellung Baukosten
+Aufstellung Eigenleistungen
+Baubeschreibung
+Baugenehmigung/-anzeige/-antrag
+Bauzeichnungen
+Beleihungswertberechnung
+Erbbaurechtsvertrag
+Expose (Objekt)
+Flurkarte / Lageplan
+Kaufvertrag
+Modernisierungsmaßnahmen
+Objektbesichtigung/Gutacht./Foto
+Objektfotos
+Teilungserklärung
+Werkvertrag
+Wohnflächenberechnung / Kubatur
+zzz löschen GB Auszug
+Bausparkasse
+Schriftverkehr Europace (nicht verwenden)
+Schriftverkehr sonstiger
+Nachweise über Kredite
+sonstige Ausgaben
+Unterhaltsverpflichtungen
+Eigengeldnachweis
+Einkommensnachw. Selbständige
+Einkommensnachweis
+Renteninformation
+EST Erklärung / Bescheid
+Gesellsch.-/ Güterrechtsvertr.
+KDF-Ermittlung Selbständige
+Mieteinnahmen
+sonstige Einnahmen
+Unterhaltsforderungen
+Kontoauszug
+Vermögensaufstellung
+zz_Vertragsunterlagen
+BWA
+Jahresabschluss
+Planrechnungen
+Bürgschaft
+Abtretung Lebensversicherung
+Abtretung Depot
+Sicherungsübereignung
+Verwendungsnachweis
+Valutierungsauftrag
+Erledigte Pfändung
+Pfändung /Beschluss
+Engagement (zum Zustellungszeitpunkt)
+Sperren/Kreditkarten/Depots
+Drittschuldnererklärung
+Drittschuldnerzahlungen / Zahlungsaufträge
+P-Konto Retouren / Kontoverwaltung
+gerichtliche Beschlüsse
+P-Konto Freibetragserhöhung
+Schriftverkehr Gläubiger
+interner Schriftverkehr
+Schriftverkehr Insolvenz
+Aussetzung / Aussetzungsende
+Aufhebung
+Grundschuld Zweckerkläsrung
+GB Auszug
+Schließfach / GA
+Esis / Beratungsprotokoll (Doku)
+Selbstauskunft
+VVI
+Empfangsbestätigung
+Referenzwertdokument
+Kreditentscheidung (BaufiSmart)
+VVI
+ESIS / Beratungsprotokoll (Doku)
+Empfangsbestätigung
+Referenzwertdokument
+Kreditentscheidung (BaufiSmart)
+Avalvertrag
+Avalunterlagen

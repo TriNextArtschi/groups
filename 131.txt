@@ -1,0 +1,174 @@
+Beratungsprotokoll
+VVI
+Beratung - Unterlagen
+Vermittlung - Unterlagen
+Anschreiben / Deckblatt zum Antrag
+Kreditantrag
+Kreditentscheidungsinformationen
+Provisionsabrechnung
+Kreditprotokolle
+Aktenvermerke / Sonstiges
+Kreditzusage
+Bank Kreditvertrag
+Verbundpartner Vertrag
+Verträge - Sonstiges
+Legitimation
+Selbstauskünfte
+Vermögensübersicht / Nachweis Kredite
+Rating / Scoring
+Kontoauszug
+Schufa Auskünfte
+Gehaltsnachweis
+Mieteinnahmen
+Steuererklärung / Bescheid
+Einkommen - Sonstiges
+Ausgaben - Sonstiges
+Grundbuchauszug
+Baubeschreibung
+Kaufvertrag
+Baugenehmigung/-anzeige/-antrag
+Aufstellung Baukosten / Eigenleistungen
+Flurkarte / Lageplan
+Bauzeichnungen / Grundrisse
+Wohnflächenberechnung / Kubatur
+Teilungserklärung
+Erbbaurechtsvertrag
+Bewilligung Dienstbarkeiten
+Wertermittlung / Gutachten
+Objektbilder / Fotos
+Expose
+Immobilienverwaltung - Sonstiges
+Grundschuld Zweckerklärungen
+Vollstreckbare Ausfertigungen
+Verträge / Urkunden
+Grundschuld / Hypothek - Sonstiges
+Bürgschaften
+Abtretungen
+Verpfändungen
+Fördermittel
+Bausparen
+Versicherungen
+Hypothekenbanken / Verbundbanken
+Verbund - Sonstiges
+Schriftverkehr
+Liquiditätsberechnungen
+Jahresabschluss / GuV
+BWA
+Auskünfte
+§18 KWG-Dokumentationen
+Groß- / Milionenkredite
+E/A Bilanz
+Rating
+Firmenkunde - Sonstiges
+Beratungsprotokoll / Beratungsverzicht
+Legitimationsunterlagen (privat) (Personalausweise / Reisepass)
+Legitimationsunterlagen (gewerblich)  (HR-Auszüge, Gesellschafterlisten etc.)
+Volksbank-Darlehen
+Verbund-Darlehen
+Fördermitteldarlehen KfW, NRW.BANK, LR (inkl. Antrag etc.)
+KDF-Berechnung
+KDF-Berechnung
+StB-Vollmacht / DIFIN
+Checkliste § 19.2
+Organigramm
+GS-Bestellung / Grundschuldbrief / Abtretungserklärung
+Grundschuld-Zweckerklärung
+Grundbuchauszug
+Objektunterlagen
+Wertermittlung / Gutachten
+Bürgschaften
+Abtretungen (LV, Globalzession, RV etc.)
+Verpfändungen
+Sicherungsübereignungen (nebst Anlagen) sämtlicher Art
+allgemeinen Schriftverkehr
+externe Darlehen (z.B. SPK)
+betriebswirtschaftliche Auswertung mit Summen- und Saldenliste
+Jahresabschluss / EÜR
+Gehaltsnachweise / Rentenbescheide/-informationen
+VSÜ/Selbstauskunft + Auswertung
+Steuererklärung / Steuerbescheid
+Ablösevollmacht
+Verbund
+Wohngebäudeversicherung
+01_Bauwerksberechnungen
+07_Energieausweis
+99_Auftrag Objektbesichtigung
+___
+15_Erbbaurechtsvertrag
+____
+06_Exposé
+17_notarieller Immobilien-Kaufvertrag
+04_Kostenaufstellung
+08_Mietverträge
+05_Objektfotos
+13_Flurkarte, Lageplan
+16_notarielle Teilungserklärung
+09_Werkvertrag, Bauvertrag
+12_Bauantrag, Bauanzeige
+03_Baubeschreibung
+11_Baugenehmigung
+10_Baulastenverzeichnis/Altlastenkataster
+02_Bauplan, Grundriss
+14_sonstige Objektunterlagen
+Grundbuchauszug
+Wohngebäudeversicherung (+ Realrechtsanm. u. -bestätigung)
+Wertermittlung / Gutachten (inkl. Besichtigungsbericht u. Auftrag)
+Objektunterlagen (vollständig)
+Beratungsprotokoll / Beratungsverzicht
+Legitimationsunterlagen (privat) (Personalausweis / Reisepass)
+Legitimationsunterlagen (gewerblich) (HR-Auszüge, Gesellschafterlisten etc.)
+letzte drei Gehaltsnachweise
+letzter Rentenbescheid /-information
+letzte Einkommensteuererklärung
+letzter Einkommensteuerbescheid
+ausgefüllte Selbstauskunft mit Nachweisen (z.B. Rückkaufswerte Lebens/-Rentenversicherungen)
+aktuelle betriebswirtschaftliche Auswertung mit Summen- und Saldenliste
+letzter Jahresabschluss (ersatzweise betriebswirtschaftliche Auswertung Dezember mit Summen- und Saldenliste)
+Planzahlen für die nächsten zwei Jahre (Rentabilität- und Liquidität)
+Liste der offenen Posten (Debitoren und Kreditoren)
+Businessplan
+Steuerberater-Vollmacht
+DiFin-Vereinbarung
+Checkliste § 19.2
+Organigramm
+KDF-Berechnung + Anlagen (gewerblich oder privat)
+VSÜ-Auswertungen mit sämtlichen Nachweisen (für Upload E-Akte)
+Volksbank-Darlehen
+Verbund-Darlehen
+Fördermitteldarlehen KfW, NRW.BANK, LR (inkl. Antrag etc.)
+GS-Bestellung / Grundschuldbrief / Abtretungserklärung
+Grundschuld-Zweckerklärung
+Bauwerksberechnungen
+Bauplan, Grundriss
+Baubeschreibung
+Kostenaufstellung
+Objektfotos
+Exposé
+Energieausweis
+Mietverträge
+Werkvertrag, Bauvertrag
+Baulastenverzeichnis/Altlastenkataster
+Baugenehmigung
+Bauantrag, Bauanzeige
+Flurkarte, Lageplan
+sonstige Objektunterlagen
+Erbbaurechtsvertrag
+notarielle Teilungserklärung
+Auftrag Objektbesichtigung
+Grundbuchauszug
+Objektunterlagen (vollständig)
+Wertermittlung / Gutachten (inkl. Besichtigungsbericht und Auftrag)
+Wohngebäudeversicherung (+ Realrechtsanmeldung und -bestätigung)
+Wohngebäudeversicherung
+Original Zulassungsbescheinigung Teil II (Fzg.-Brief)
+Kopie Versicherungsnachweis
+Kaufvertrag (für Fahrzeug bzw. Maschine)
+Original-Versicherungspolice
+Bürgschaften
+Abtretungen (LV, Globalzession, RV etc.)
+Verpfändungen
+Sicherungsübereignungen (nebst Anlagen) sämtlicher Art
+allgemeiner Schriftverkehr
+notarieller Immobilien-Kaufvertrag
+Kreditvertrag (Avale, Kontokorrent)
+Sicherheitenfreigabe / -änderung

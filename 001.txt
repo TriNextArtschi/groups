@@ -1,0 +1,285 @@
+Ausweis (zur Bearbeitung)
+Darlehensvermittlervertrag + VVI
+Kreditantrag
+SCHUFA-Auskunft
+VVI / ESIS / Tilgungsplan
+Bausparkasse
+IB SH
+KfW
+Aufstellung Baukosten
+Aufstellung Eigenleistungen
+Baubeschreibung
+Baugenehmigung/-anzeige/-antrag
+Bauzeichnungen
+Beleihungswertberechnung
+Erbbaurechtsvertrag
+Expose (Objekt)
+Flurkarte / Lageplan
+Kaufvertrag
+Modernisierungsmaßnahmen
+Objektbesichtigung/Gutacht./Foto
+Objektfotos
+Teilungserklärung
+Werkvertrag
+Wohnflächenberechnung / Kubatur
+GB Auszug
+Schriftverkehr Europace
+Schriftverkehr sonstiger
+Nachweise über Kredite
+sonstige Ausgaben
+Unterhaltsverpflichtungen
+Eigengeldnachweis
+Einkommensnachw. Selbständige
+Einkommensnachweis
+EST Erklärung / Bescheid
+Gesellsch.-/ Güterrechtsvertr.
+KDF-Ermittlung Selbständige
+Mieteinnahmen
+sonstige Einnahmen
+Unterhaltsforderungen
+Kontoauszug
+Vermögensaufstellung
+Kreditentscheidungsinformationen
+LV
+Bausparkasse
+ALT  Antrag/Beschlussunterlagen
+Aufsichtsratsbeschluss
+Auszahlungsvoraussetzungen
+Uebergabecheckliste Darlehen
+Kreditantrag
+Kreditbeschluss
+SCHUFA-Auskunft
+Berater/Vermittler VVI+Protokoll
+Auszahlungsanweisung
+Darlehensvertrag
+Einziehungsauftrag Darlehen
+Darlehensvertrag
+VVI / ESIS / Tilgungsplan
+Zusatzvereinbarungen
+Bausparkasse
+IB SH
+KfW
+Aufstellung Baukosten
+Aufstellung Eigenleistungen
+Baubeschreibung
+Baugenehmigung/-anzeige/-antrag
+Bauzeichnungen
+Beleihungswertberechnung
+Erbbaurechtsvertrag
+Flurkarte / Lageplan
+Kaufvertrag
+Objektbesichtigung/Gutacht./Foto
+Objektfotos
+Objektfotos
+Teilungserklärung
+Werkvertrag
+Wohnflächenberechnung / Kubatur
+Erklärungen z.G. Dritter (GS)
+Erklärungen z.G. PSD
+GB Auszug
+GS Bestellungsurkunde
+GS Brief
+Notarbestätigung
+Zweckerklärung
+BSV - Zusatzunterlagen
+BSV - Abtretungserklärung
+BSV - Abtretungsbestätigung
+Bürgschaft - Zusatzunterlagen
+Bürgschaft z.G. PSD außer MaBV
+LV - Zusatzunterlagen
+LV - Abtretungserklärung
+LV - Abtretungsbestätigung
+MaBV
+Sonst. Abtretung - Zusatzunterl.
+Sonst. Abtretung - Erklärung
+Sonst. Abtretung - Bestätigung
+Verpfändung  - Zusatzunterlagen
+Verpfändung - Bestätigung
+Verpfändung - Erklärung
+ALT Schriftverkehr
+Forward / Wiedervorlage
+Schriftverkehr Drittgläubiger
+Schriftverkehr Kunde
+Schriftverkehr Leistungsstörung
+Schriftverkehr Notar
+Schriftverkehr sonstige Sicherh.
+Schriftverkehr sonstiger
+Vorfälligkeitsentschädigung
+A_Nachweise über Kredite
+A_sonstige Ausgaben
+A_Unterhaltsverpflichtungen
+ALT Wirtschaftl. Verhält.
+E_Einkommensnachw. Selbständige
+E_Einkommensnachweis
+E_EST Erklärung / Bescheid
+E_Gesellsch.-/ Güterrechtsvertr.
+E_KDF-Ermittlung Selbständige
+E_Mieteinnahmen
+E_sonstige Einnahmen
+E_Unterhaltsforderungen
+Eigengeldnachweis
+Vermögensaufstellung
+erledigte Antragsunterlagen
+erledigte Objektunterlagen
+erledigte Sicherheitenunterlagen
+erledigte sonstige Erklärungen
+erledigte Vertragsunterlagen
+Adresse
+Ausschluss Mitgliedschaft
+Betreuung
+Gläubigerwechsel (Kto.-Übertr.)
+Kundenstammvertrag
+Legitimation
+Mitgliedschaft
+POSTIDENT
+Referenzkonto
+Steueridentifikationsnummer
+Unterschriftenprobe/Namensänd.
+Zustellvollmacht Post not.begl.
+Beendigung Geschäftsbeziehung
+Datenübermittlung/Telefonkontakt
+Informationsbogen Einleger
+Kundenvollmacht
+Vertrag zugunsten Dritter
+Kundenauftrag
+Neukundenfragebogen
+Freistellungsauftrag
+Kirchensteuer
+Bescheinigung
+Steuerstatus
+Nachlass
+OnlineBK/TelefonBK
+Depot Vertragsunterlagen
+Depotauflösung
+Kundenaufträge
+Schriftverkehr
+BankCard/PIN
+Daueraufträge
+Einzugsermächtigung
+Giro Schriftverkehr
+Kontolöschung
+Kontoübertragung
+Lastschriftwiderruf
+Mietkaution
+SCHUFA (Giro)
+sonstige Unterlagen (Passiv)
+Überziehungslimit
+Giroantrag
+Girounterlagen ALT
+Kreditkarte/PIN
+Giroantrag
+Verein_Deckblatt _e.V.
+Verein_Deckblatt_BGB-Ges.GbR
+Verein_Deckblatt_nicht rechtsf.
+Verein_Deckblatt_sonstige
+Verein_Deckblatt_Stiftung
+Verein_Gesellschaftsvertrag
+Verein_Gründungsprotokoll
+Verein_Protokolle
+Verein_Registerauszug
+Verein_Satzung
+Verein_sonstige Unterlagen
+Verein_Stiftungsgenehmigung
+Verein_Vertretungsberechtigte
+Verein_Vollmacht
+Verein_wirtschaftl.Berechtigte
+Legitimation
+steuerliche Ansässigkeit
+Depot Vertragsunterlagen
+Depotauflösung
+Kundenaufträge
+Schriftverkehr
+WP Überträge
+KK-Vertrag
+Union Investment
+Empfangsbestätigung
+Darlehensvertrag (AVD)
+Ausweis (zur Bearbeitung)
+Berater/Vermittler VVI+Protokoll
+Kreditantrag
+Kreditentscheidungsinformationen
+Provisionsabrechnung
+SCHUFA-Auskunft
+VVI / ESIS / Tilgungsplan
+Darlehensvertrag
+Bausparkasse
+LV
+GB Auszug
+Bausparkasse
+Schriftverkehr Drittgläubiger
+Schriftverkehr sonstiger
+Nachweise über Kredite
+sonstige Ausgaben
+Unterhaltsverpflichtungen
+Eigengeldnachweis
+Einkommensnachw. Selbständige
+Einkommensnachweis
+EST Erklärung / Bescheid
+Gesellsch.-/ Güterrechtsvertr.
+KDF-Ermittlung Selbständige
+Mieteinnahmen
+sonstige Einnahmen
+Unterhaltsforderungen
+Kontoauszug
+Vermögensaufstellung
+Weitere Objektunterlagen
+Renteninformation
+Kreditantrag
+Renteninformation
+Beratungsprotokoll
+Vertragsunterlagen
+GB Auszug
+Bausparkasse
+Ausweis (zur Bearbeitung)
+Darlehensvermittlervertrag + VVI
+Beratungsprotokoll
+Kreditantrag
+Kreditentscheidungsinformationen
+SCHUFA-Auskunft
+VVI / ESIS / Tilgungsplan
+Darlehensvertrag (AVD)
+Bausparkasse
+IB SH
+KfW
+LV
+Aufstellung Baukosten
+Aufstellung Eigenleistungen
+Baubeschreibung
+Baugenehmigung/-anzeige/-antrag
+Bauzeichnungen
+Beleihungswertberechnung
+Erbbaurechtsvertrag
+Expose (Objekt)
+Flurkarte / Lageplan
+Kaufvertrag
+Modernisierungsmaßnahmen
+Objektbesichtigung/Gutacht./Foto
+Objektfotos
+Teilungserklärung
+Werkvertrag
+Wohnflächenberechnung / Kubatur
+GB Auszug
+Bausparkasse
+Schriftverkehr Europace
+Schriftverkehr sonstiger
+Nachweise über Kredite
+sonstige Ausgaben
+Unterhaltsverpflichtungen
+Eigengeldnachweis
+Einkommensnachw. Selbständige
+Einkommensnachweis
+Renteninformation
+EST Erklärung / Bescheid
+Gesellsch.-/ Güterrechtsvertr.
+KDF-Ermittlung Selbständige
+Mieteinnahmen
+sonstige Einnahmen
+Unterhaltsforderungen
+Kontoauszug
+Vermögensaufstellung
+Vertragsunterlagen
+MHB Liquiditätsrechnung und Szenarien
+Übergabeprotokoll
+Kreditprotokoll
+Bodenrichtwert
+Teast

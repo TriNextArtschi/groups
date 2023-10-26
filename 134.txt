@@ -1,0 +1,329 @@
+Beratungsprotokoll
+VVI
+Beratung - Unterlagen
+Vermittlung - Unterlagen
+Anschreiben / Deckblatt zum Antrag
+Kreditantrag
+Kreditentscheidungsinformationen
+Provisionsabrechnung
+Kreditprotokolle
+Aktenvermerke / Sonstiges
+Kreditzusage
+Bank Kreditvertrag
+Verbundpartner Vertrag
+Verträge - Sonstiges
+Legitimation
+Selbstauskünfte
+Vermögensübersicht / Nachweis Kredite
+Rating / Scoring
+Kontoauszug
+Schufa Auskünfte
+Gehaltsnachweis
+Mieteinnahmen
+Steuererklärung / Bescheid
+Einkommen - Sonstiges
+Ausgaben - Sonstiges
+Grundbuchauszug
+Baubeschreibung
+Kaufvertrag
+Baugenehmigung/-anzeige/-antrag
+Aufstellung Baukosten / Eigenleistungen
+Lageplan/Flurkarte
+Bauzeichnungen / Grundrisse
+Wohnflächenberechnung / Kubatur
+Teilungserklärung
+Erbbaurechtsvertrag
+Bewilligung Dienstbarkeiten
+Wertermittlung / Gutachten
+Objektbilder / Fotos
+Expose
+Immobilienverwaltung - Sonstiges
+Grundschuld Zweckerklärungen
+Vollstreckbare Ausfertigungen
+Verträge / Urkunden
+Grundschuld / Hypothek - Sonstiges
+Bürgschaften
+Abtretungen
+Verpfändungen
+Fördermittel
+Bausparen
+Versicherungen
+Hypothekenbanken / Verbundbanken
+Verbund - Sonstiges
+Schriftverkehr
+Liquiditätsberechnungen
+Jahresabschluss / GuV
+BWA
+Auskünfte
+§18 KWG-Dokumentationen
+Groß- / Milionenkredite
+E/A Bilanz
+Rating
+Firmenkunde - Sonstiges
+Kreditantrag (Antragsrelevant)
+Zinskalkulation (Antragsrelevant)
+Einkommensunterlagen bei Privatkunden (Antragsrelevant)
+Eigenkapitalnachweis
+Selbstauskunft (Antragsrelevant)
+Beratungsprotokoll bei IVD (Antragsrelevant)
+Lichtbild(er) o. Expose (Antragsrelevant)
+Lageplan, Flurkarte (Antragsrelevant)
+Nachweis Ursprungsbaujahr/Baugesuch (Antragsrelevant)
+Genehmigte(s) Baugesuch(e) (Antragsrelevant)
+Wohn-/Nutzflächenberechnung (Antragsrelevant)
+Grundriss (Antragsrelevant)
+Teilungserklärung
+Auskunft Baulastenverzeichnis
+Bei erfolgten bzw. geplanten Renovierungsmaßnahmen: Formulare 700 063 bzw. 700 064 (Antragsrelevant)
+Evtl. Exposé / Wertgutachten sofern vorhanden (Antragsrelevant)
+Energieausweis
+Vollmacht zur Einsicht in amtl. Register (z.B. Baulastenverzeichnis) - Formular Nr. 700 062 (Antragsrelevant))
+Vorl. Objektbewertung (Antragsrelevant)
+Grundbuchauszug (Antragsrelevant)
+Werkvertrag / Bauvertrag (Antragsrelevant)
+Baukostenaufstellung: Formular Nr. 700 057 (Antragsrelevant)
+Aufstellung Eigenleistungen (Antragsrelevant)
+Rohbauversicherungsschein
+Kaufvertrag / Übertragungsvertrag (ggf. Entwurf)
+Nachweis Nettokaltmieten je WE (Antragsrelevant)
+Gebäudeversicherungsnachweis
+Erbbaurechtsvertrag (Antragsrelevant)
+aktueller Erbbauzins (Antragsrelevant)
+Bewilligungserklärung (Antragsrelevant)
+Beratungsprotokoll bei IVD (sofern Beratung erfolgt ist)
+Begleitschreiben
+Aktenvermerke
+Bearbeitungshinweise
+Kreditantrag (zum Antrag)
+ZZ Löschen: Systemgestützter Kreditbeschluss Baufi  (zum Antrag)
+Kreditentscheidungsinformation Vermittler (zum Antrag)
+Zinskalkulation (Konditionstableau, Mischkalkulationsberechnung) (zum Antrag)
+ZZ Löschen: Tool: Ermittlung Kondition u. risikorelevanz  (zum Antrag)
+ZZ Löschen: Sensitivitätsanalyse (zum Antrag)
+Unterlagen zum Tilgungsersatzinstrument  (zum Antrag)
+Systemgestützter Kreditbeschluss
+ZZ Löschen: Checkliste
+Ablösevollmacht
+Verwendungsnachweise
+Personalausweis, Reisepass, Ausweisdokument
+ZZ Löschen: Aufenthaltstitel, Niederlassungserlaubnis
+ZZ Löschen: Ehevertrag
+ZZ Löschen: Heiratsurkunde
+ZZ Löschen: Scheidungsfolgevereinbarung / Scheidungsurteil
+Sonstige Nachweise (Ehevertrag, Scheidungsfolgevereinbarung, etc.)
+Selbstauskunft (zum Antrag)
+ZZ Löschen: Vermögensaufstellung, Vermögensübersicht
+Schufa-Auskünfte (zum Antrag)
+Liqui-Berechnungen
+Einkommensunterlagen bei Privatkunden (Gehaltsabrechnungen)
+ZZ Löschen
+Einkommensteuererklärung
+Einkommensteuerbescheid
+ZZ Löschen: Lohnsteuerbescheinigung
+ZZ Löschen: Rentenbescheid
+Renteninformation/Rentenbescheid
+ZZ Löschen: Nachweis Arbeitsvertrag
+Nachweis Mietverträge
+ZZ Löschen: Nachweis Elterngeldbescheid
+Nachweis sonstige Einkünfte/Ausgaben (Elterngeld, DL, Waisenrente, Pflegegeld, Einspeisevergütung usw.)
+ZZ Löschen: Nachweis private oder betriebliche Altersvorsorge
+Kontoauszug, Finanzstatus
+ZZ Löschen: Nachweis der privaten Krankenversicherung
+ZZ Löschen: Nachweis Darlehensverbindlichkeiten
+ZZ Löschen:Nachweis sonstige Ausgaben
+ZZ Löschen:Unterhaltsnachweis
+Eigenkapitalnachweis (vor Auszahlung)
+Prüfungsberichte
+Jahresabschlüsse, EÜR (zum Antrag)
+Jahres-BWA, aktuelle BWA inkl. SUSA (zum Antrag)
+Einkommensteuererklärung (zum Antrag)
+Vermögensaufstellung/Selbstauskunft der Kreditnehmer/Gesellschafter (zum Antrag)
+Einkommensunterlagen bei abhängig Beschäftigten (zum Antrag)
+Sonstige Einkommensnachweise (z.B. Kaltmieten)  (zum Antrag)
+Bank-/Büroauskunft bei gewerblichen Neukunden  (zum Antrag)
+Planrechnung/Finanzplan/Investitionsrechnung (soweit aus dem derzeitigen Cash Flow die künftige Kapitaldienstfähigkeit nicht darstellbar ist (zum Antrag)
+Gesellschaftsverträge bei juristischen Personen und Personengesellschaften (zur Überprüfung der Verkettung im Hinblick auf Beherrschung) (zum Antrag)
+Lichtbilder (zum Antrag)
+Lageplan/Flurkarte (zum Antrag)
+Nachweis Ursprungsbaujahr (zum Antrag)
+Genehmigtes Baugesuch / Baupläne (alle bestehenden!) Bei Bestandsobjekten (zum Antrag) Bei Neubauvorhaben (vor Auszahlung)
+ZZ Löschen: Nachweis Baugenehmigung Bei Bestandsobjekten (zum Antrag) Bei Neubauvorhaben (vor Auszahlung)
+Wohn-/Nutzflächenberechnung  Bei Bestandsobjekten (zum Antrag) Bei Neubauvorhaben (vor Auszahlung)
+Grundriss der Wohnung mit eingetragener Wohnungsnummer aus Aufteilungsplan (auch von Kellerräumen, Stellplätzen und Garage) (zum Antrag)
+Teilungserklärung (immer bei Gewerbeanteil, Familienbesitz und bei Objekten bis zu 3 Wohneinheiten (vor Auszahlung)
+ZZ Löschen: Auskunft Baulastenverzeichnis (außerhalb Kleindarlehensgrenze und bei „Ensemblebebauung“ zwingend) (vor Auszahlung)
+Bei erfolgten bzw. geplanten Renovierungsmaßnahmen: Formulare 700 063 bzw. 700 064 / Aufstellung Renovierung/Modernisierung (zum Antrag)
+Evtl. Expose / Wertgutachten (sofern vorhanden) (zum Antrag)
+Energieausweis (vor Auszahlung)
+ZZ Löschen: Vorläufige Objektbewertung (sofern vorhanden)
+Grundbuchauszug (unbeglaubigt, nicht älter als 3 Monate) (zum Antrag)
+Bau-/Werkvertrag bei Neubauvorhaben (vor Auszahlung)
+Baubeschreibung
+Baukostenaufstellung: Formular Nr. 700 057 (zum Antrag)
+Aufstellung Eigenleistungen (zum Antrag)
+Rohbauversicherungsnachweis bei Neubauvorhaben  (vor Auszahlung)
+Kaufvertrag/Übertragungsvertrag/Schenkungsvertrag/ Erbvertrag, sonstiger Notarvertrag (vor Auszahlung)
+Bei vermieteten Objekten: Nachweis Nettokaltmieten je Wohneinheit/bei Gewerbe durch Mietverträge belegt (nach Vermietung)
+Gebäudeversicherungsnachweis (bei Sicherungswert  > 500 TEUR)  Bei Bestandsobjekten (vor Auszahlung) Bei Neubau-/Kaufobjekten (Nach Abschluss der Versicherung)
+Erbbaurecht: Erbbaurechtsvertrag/aktueller Erbauzins (zum Antrag)
+ZZ Löschen: Erbbaurecht: aktueller Erbbauzins (zum Antrag)
+Bewilligungserklärung (vorrangige wertmindernde Rechte Abt. II) (zum Antrag)
+Bewertungsauftrag VR-Wert (u. a. bei Objektwert über 1,5 Mio. EUR) (zum Antrag)
+ZZ Löschen: Bautenstandsberichte (auf Anforderung)
+Systemgestützte Wertermittlung
+Besichtigungsbericht
+ZZ Löschen: Immobilienbewertungsauftrag für ein Gutachten
+Vollmacht zur Einsicht in amtliche Register
+ZZ Löschen: Checkliste zur Sicherheitenprüfung
+Bestätigung zur Objektbesichtigung Verbund
+Fälligkeitsmitteilung vom Notar
+Sonstige Objektunterlagen (neu)
+Darlehensvertrag, Empfangsbestätigung
+ESIS-Merkblatt
+ZZ Löschen: Merkblatt Besichtigung Dati Team
+ZZ Löschen: Merkblatt Schätzwert
+ZZ Löschen: Modellrechnung
+Belastungskonto Änderung
+ZZ Löschen: Auszahlungscheckliste
+Schuldübernahme
+ZZ Löschen: Darlehensauszahlung
+ZZ Löschen: Zahlplan/Umsatzabfrage
+Neuzinsvereinbarung
+ZZ Löschen: Ratenaussetzung
+Ratenänderung/Ratenaussetzung
+Finanzierungsbestätigung
+KK-Vertrag
+Vorvertragliche Information
+Avalkreditvertrag
+Bürgschaftserklärung
+Sonstige Unterlagen
+Fördermittel
+ZZ Löschen: Zusagedaten - Zwischenfin. Zweckerklärung
+ZZ Löschen:  Darlehensvertrag
+Verwendungsnachweise
+ZZ Löschen: Bestätigung nach Durchführung
+ZZ Löschen: Schriftverkehr DZ Bank
+sonstiges
+Bausparen
+Versicherungen
+Hypothekenbanken/Verbundbanken
+ZZ Löschen: Abschlusserklärung
+ZZ Löschen: Benachrichtigungsvollmacht und Verpflichtungserklärung
+ZZ Löschen: Schriftverkehr
+ZZ Löschen: Einverständniserkl.Treuhandzahl.
+Sonstiges
+Schriftverkehr
+ZZ Löschen:   Auskunft zur Ablösung von Verbindlichkeiten/Auskunftsvollmacht
+ZZ Löschen: Ablösung von Verbindlichkeiten
+ZZ Löschen: Auftrag zur Grundschuldlöschung
+ZZ Löschen: sonstiges
+Grundschuld-Zweckerklärung / Sicherungsvereinbarung BSH
+ZZ Löschen: Anschreiben an den Notar
+Grundschuldbestellung
+ZZ Löschen: Sicherungsvereinbarung BSH
+Grundschuldabtretung
+ZZ Löschen: Negativerklärung
+ZZ Löschen: Grundstücksbelastung Anmeldung und Versicherungsbestätigung
+ZZ Löschen: Grundschuld Pfandentlassung einzelner Flurstücke
+ZZ Löschen: Grundschuld Einräumung des Vorrangs
+Grundschuld-Löschungsbewilligung
+Freistellungserklärung nach MaBV
+ZZ Löschen: Checkliste zur Sicherheitenprüfung
+ZZ Löschen: Prüfung der Sicherheiten-/Vermögenswert-Erfassung im Rahmen Stichprobenprüfung
+sonstiges
+Abtretungserklärung
+Abtretungsanzeige
+Abtretungsbestätigung
+Unterlagen zur Sicherheit
+ZZ Löschen: Checkliste zur Sicherheitenprüfung
+ZZ Löschen: Prüfung der Sicherheiten-/Vermögenswert-Erfassung im Rahmen Stichprobenprüfung
+sonstiges
+Verpfändungserklärung
+Anzeige an Drittschuldner
+Bestätigung Drittschuldner
+Unterlagen zur Sicherheit
+ZZ Löschen: zur Sicherheitenprüfung
+ZZ Löschen: Prüfung der Sicherheiten-/Vermögenswert-Erfassung im Rahmen Stichprobenprüfung
+sonstiges
+Sonstige Unterlagen
+Unterlagen zur Information ohne Archivierung
+Beratungsprotokoll bei IVD (sofern Beratung erfolgt ist)
+Baufi-Checkliste (PFLICHT)/Bearbeitungshinweise
+Antragsunterlagen Vermittler
+Zinskalkulation (Konditionstableau, Mischkalkulationsberechnung)
+Unterlagen zum Tilgungsersatzinstrument
+Ablösevollmacht
+Verwendungsnachweise
+Selbstauskunft
+Einkommensunterlagen bei Privatkunden (Gehaltsabrechnungen)
+Steuerunterlagen
+Renteninformation/Rentenbescheid
+Mieteinnahmen – Nachweise
+Nachweis sonstige Einkünfte/Ausgaben (Elterngeld, DL, Waisenrente, Pflegegeld, Einspeisevergütung usw.)
+Kontoauszüge / Eigenkapitalnachweis
+Sonstige Nachweise (Ehevertrag, Scheidungsfolgevereinbarung, etc.)
+Jahresabschlüsse, EÜR
+Jahres-BWA, aktuelle BWA inkl. SUSA
+Vermögensaufstellung/Selbstauskunft der Kreditnehmer/Gesellschafter
+Bank-/Büroauskunft bei gewerblichen Neukunden
+Planrechnung/Finanzplan/Investitionsrechnung (Cash Flow)
+Gesellschaftsverträge
+Lichtbilder
+Lageplan/Flurkarte
+Nachweis Ursprungsbaujahr
+Genehmigtes Baugesuch / Baupläne (alle bestehenden!)
+Wohn-/Nutzflächenberechnung
+Grundriss der Wohnung (inkl. Nummer) aus Aufteilungsplan
+Teilungserklärung
+erfolgte bzw. geplante Renovierungsmaßnahmen
+Evtl. Expose / Wertgutachten (sofern vorhanden)
+Energieausweis
+Grundbuchauszug
+Bau-/Werkvertrag bei Neubauvorhaben
+Baubeschreibung
+Baukostenaufstellung: Formular Nr. 700 057
+Aufstellung Eigenleistungen
+Rohbauversicherungsnachweis bei Neubauvorhaben
+Kaufvertrag/Übertragungsvertrag/Schenkungsvertrag/ Erbvertrag, sonstiger Notarvertrag
+Nachweis Nettokaltmieten je Wohneinheit/bei Gewerbe durch Mietverträge belegt (nach Vermietung)
+Gebäudeversicherungsnachweis
+Erbbaurecht: Erbbaurechtsvertrag/aktueller Erbbauzins
+Bewertungsauftrag VR-Wert (u. a. bei Objektwert über 1,5 Mio. EUR)
+Bewilligungserklärung (vorrangige wertmindernde Rechte Abt. II)
+Systemgestützte Wertermittlung
+Besichtigungsbericht
+Vollmacht zur Einsicht in amtliche Register
+Bestätigung zur Objektbesichtigung Verbund
+Sonstige Objektunterlagen
+Kreditzusage
+Bank Kreditverträge
+Verbundpartner Vertrag
+Verträge - sonstiges
+Fördermittel
+Verwendungsnachweise
+Sonstiges
+Bausparen
+Versicherung
+Verbund - Sonstiges
+Grundschuld-Zweckerklärung / Sicherungsvereinbarung BSH
+Grundschuldbestellung
+Grundschuldabtretung
+Grundschuld-Löschungsbewilligung
+Freistellungserklärung nach MaBV
+sonstiges
+Abtretungen
+Verpfändungen
+Personalausweis, Reisepass, Ausweisdokument
+sonstiges
+Entwurf Kaufvertrag (wird NICHT archiviert)
+Sensitivitätsanalyse
+Checkliste
+Jahresabschlüsse EÜR
+BWA
+Steuererklärung
+Grundbuchauszug
+Lageplan
+Lichtbilder
+Abtretung/Verpfändung
+Sicherungsübereignung
+Vermittlerangaben

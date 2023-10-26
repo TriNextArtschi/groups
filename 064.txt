@@ -1,0 +1,364 @@
+Beratungsprotokoll
+z_löschen_ESIS/VVI
+Beratung - Unterlagen
+Vermittlung - Unterlagen
+Legitimation
+Selbstauskünfte
+Vermögensnachweis
+z_löschen_Rating / Scoring
+Kontoauszug
+Schufa Auskünfte
+Lohn- / Gehaltsnachweis
+Mieteinnahmen
+Steuererklärung / Bescheid
+Einkommen - Sonstiges
+Ausgaben - Sonstiges
+Grundbuchauszug
+z_löschen_Baubeschreibung
+Kaufvertrag
+z_löschen_Baugenehmigung/-anzeige/-antrag
+Aufstellung Baukosten / Eigenleistungen
+Lageplan / Flurkarte
+z_löschen_Bauzeichnungen / Grundrisse
+z_löschen_Wohnflächenberechnung / Kubatur
+Teilungserklärung
+Erbbaurechtsvertrag
+Bewilligung Dienstbarkeiten
+Wertermittlung / Gutachten
+Objektbilder / Fotos
+Objektbeurteilungsbogen
+Immobilienverwaltung - Sonstiges
+Schriftverkehr
+Beratungsprotokoll
+VVI
+Beratung - Unterlagen
+Vermittlung - Unterlagen
+Anschreiben / Deckblatt zum Antrag
+Kreditantrag
+Kreditentscheidungsinformationen
+Provisionsabrechnung
+Kreditprotokolle
+Aktenvermerke / Sonstiges
+Kreditzusage
+Bank Kreditvertrag
+Verbundpartner Vertrag
+Verträge - Sonstiges
+Legitimation
+Selbstauskünfte
+Vermögensübersicht / Nachweis Kredite
+Rating / Scoring
+Kontoauszug
+Schufa Auskünfte
+Gehaltsnachweis
+Mieteinnahmen
+Steuererklärung / Bescheid
+Einkommen - Sonstiges
+Ausgaben - Sonstiges
+Grundbuchauszug
+Baubeschreibung
+Kaufvertrag
+Baugenehmigung/-anzeige/-antrag
+Aufstellung Baukosten / Eigenleistungen
+Flurkarte / Lageplan
+Bauzeichnungen / Grundrisse
+Wohnflächenberechnung / Kubatur
+Teilungserklärung
+Erbbaurechtsvertrag
+Bewilligung Dienstbarkeiten
+Wertermittlung / Gutachten
+Objektbilder / Fotos
+Expose
+Immobilienverwaltung - Sonstiges
+Grundschuld Zweckerklärungen
+Vollstreckbare Ausfertigungen
+Verträge / Urkunden
+Grundschuld / Hypothek - Sonstiges
+Bürgschaften
+Abtretungen
+Verpfändungen
+Fördermittel
+Bausparen
+Versicherungen
+Hypothekenbanken / Verbundbanken
+Verbund - Sonstiges
+Schriftverkehr
+Liquiditätsberechnungen
+Jahresabschluss / GuV
+BWA
+Auskünfte
+§18 KWG-Dokumentationen
+Groß- / Milionenkredite
+E/A Bilanz
+Rating
+Firmenkunde - Sonstiges
+Eigenkapitalnachweis
+Datenschutzerklärung Value AG
+Beratungsprotokoll
+ESIS/VVI
+Beratung - Unterlagen
+Vermittlung - Unterlagen
+Eigenkapitalnachweis
+Selbstauskünfte / Meine Finanzierung
+Vermögensübersicht / Nachweis Kredite
+Rating / Scoring
+Kontoauszug
+Schufa Auskünfte
+Lohn- / Gehaltsnachweis
+Mieteinnahmen
+Steuererklärung / Bescheid
+Einkommen - Sonstiges
+Ausgaben - Sonstiges
+Datenschutzerklärung Value AG
+Grundbuchauszug
+Baubeschreibung
+Kaufvertrag
+Baugenehmigung/-anzeige/-antrag
+Aufstellung Baukosten / Eigenleistungen
+Bauplan / Lageplan
+Bauzeichnungen / Grundrisse
+Wohnflächenberechnung / Kubatur
+Teilungserklärung
+Erbbaurechtsvertrag
+Bewilligung Dienstbarkeiten
+Wertermittlung / Gutachten
+Objektbilder / Fotos / Expose
+Besichtigungsprotokoll / Beurteilungsbogen
+Immobilienverwaltung - Sonstiges
+Schriftverkehr
+Legitimation
+Kreditzusage
+Bank Kreditvertrag
+Verbundpartner Vertrag
+Verträge - Sonstiges
+Anschreiben / Deckblatt zum Antrag
+Kreditantrag
+Kreditentscheidungsinformationen
+Provisionsabrechnung
+Kreditprotokolle
+Aktenvermerke / Sonstiges
+Grundschuld Zweckerklärungen
+Vollstreckbare Ausfertigungen
+Verträge / Urkunden
+Grundschuld / Hypothek - Sonstiges
+Bürgschaften
+Abtretungen
+Verpfändungen
+Fördermittel
+Bausparen
+Versicherungen
+Hypothekenbanken / Verbundbanken
+Verbund - Sonstiges
+Liquiditätsberechnungen
+Jahresabschluss / GuV
+BWA
+Auskünfte
+§18 KWG-Dokumentationen
+Groß- / Milionenkredite
+E/A Bilanz
+Rating
+Firmenkunde - Sonstiges
+Beratungsprotokoll
+VVI
+Beratung - Unterlagen
+Vermittlung - Unterlagen
+Anschreiben / Deckblatt zum Antrag
+Kreditantrag
+Kreditentscheidungsinformationen
+Provisionsabrechnung
+Kreditprotokolle
+Aktenvermerke / Sonstiges
+Kreditzusage
+Bank Kreditvertrag
+Verbundpartner Vertrag
+Verträge - Sonstiges
+Legitimation
+Selbstauskünfte
+Vermögensübersicht / Nachweis Kredite
+Rating / Scoring
+Kontoauszug
+Schufa Auskünfte
+Gehaltsnachweis
+Mieteinnahmen
+Steuererklärung / Bescheid
+Einkommen - Sonstiges
+Ausgaben - Sonstiges
+Grundbuchauszug
+Baubeschreibung
+Kaufvertrag
+Baugenehmigung/-anzeige/-antrag
+Aufstellung Baukosten / Eigenleistungen
+Flurkarte / Lageplan
+Bauzeichnungen / Grundrisse
+Wohnflächenberechnung / Kubatur
+Teilungserklärung
+Erbbaurechtsvertrag
+Bewilligung Dienstbarkeiten
+Wertermittlung / Gutachten
+Objektbilder / Fotos
+Expose
+Immobilienverwaltung - Sonstiges
+Grundschuld Zweckerklärungen
+Vollstreckbare Ausfertigungen
+Verträge / Urkunden
+Grundschuld / Hypothek - Sonstiges
+Bürgschaften
+Abtretungen
+Verpfändungen
+Fördermittel
+Bausparen
+Versicherungen
+Hypothekenbanken / Verbundbanken
+Verbund - Sonstiges
+Schriftverkehr
+Liquiditätsberechnungen
+Jahresabschluss / GuV
+BWA
+Auskünfte
+§18 KWG-Dokumentationen
+Groß- / Milionenkredite
+E/A Bilanz
+Rating
+Firmenkunde - Sonstiges
+Gebäudeversicherung
+Nachweis Kredit
+Expose
+Kreditentscheidungsinformation
+BSH
+MHB
+KfW
+Labo
+Mietvertrag
+Pflichtunterlagenliste
+Baubeschreibung
+Baugenehmigung/-anzeige/-antrag
+Bauzeichnungen/Grundrisse
+Flächenberechnungen
+Energieausweis
+Kreditentscheidungsinformation
+Beratungsprotokoll
+z_löschen_ESIS/VVI
+Beratung - Unterlagen
+Vermittlung - Unterlagen
+Selbstauskünfte
+Vermögensnachweis
+Eigenkapitalnachweis
+Nachweis Kredit
+Kontoauszug
+Schufa Auskünfte
+Lohn- / Gehaltsnachweis
+Mieteinnahmen
+Steuererklärung / Bescheid
+Einkommen - Sonstiges
+Ausgaben - Sonstiges
+Datenschutzerklärung Value AG
+Gebäudeversicherung
+Expose
+Mietvertrag
+Baubeschreibung
+Baugenehmigung/-anzeige/-antrag
+Bauzeichnungen/Grundrisse
+Flächenberechnungen
+Energieausweis
+Grundbuchauszug
+Baubeschreibung
+Kaufvertrag
+Baugenehmigung/-anzeige/-antrag
+Aufstellung Baukosten / Eigenleistungen
+Lageplan / Flurkarte
+Bauzeichnungen / Grundrisse
+z_löschen_Wohnflächenberechnung / Kubatur
+Teilungserklärung
+Erbbaurechtsvertrag
+Bewilligung Dienstbarkeiten
+Wertermittlung / Gutachten
+Objektbilder / Fotos
+Objektbeurteilungsbogen
+Immobilienverwaltung - Sonstiges
+Pflichtunterlagenliste
+Schriftverkehr
+Legitimation
+BSH
+MHB
+KfW
+Labo
+Jahresabschluss 2021
+Jahresabschluss 2020
+Jahresabschluss 2019
+BWA's incl. SuSa
+Planzahlen/-rechnungen
+ESIS / VVI
+Bank Kreditvertrag (IVD)
+Grundschuld Zweckerklärung
+Vollstreckbare Ausfertigung
+z_löschen_Grundschuld / Hypothek - Sonstiges
+Checkliste / Laufzettel
+Darlehen BSH
+Darlehen DZ Hyp
+Darlehen MHB
+Darlehen R+V
+Kreditvertrag Aval ab 50 TEUR
+Förderkredit (Darlehen ab 50 TEUR)
+Bürgschaft
+Abtretung Bausparvertrag
+Abtretung Forderung
+Abtretung Lebens-/Retenversicherung
+Verpfändung Bausparvertrag
+Verpfändung Guthabenforderung
+Verpfändung Lebens-/Rentenversicherung
+Datenschutzerklärung Value AG
+Sonstiges
+Jahresabschluss 2021
+Jahresabschluss 2020
+Jahresabschluss 2019
+BWA's incl. SuSa
+Planzahlen/-rechnungen
+Selbstauskünfte
+Vermögensnachweis
+Eigenkapitalnachweis
+Nachweis Kredit
+Kontoauszug
+Schufa Auskünfte
+Lohn- / Gehaltsnachweis
+Mieteinnahmen
+Steuererklärung / Bescheid
+Einkommen - Sonstiges
+Ausgaben - Sonstiges
+Pflichtunterlagenliste
+Schriftverkehr
+Legitimation
+Jahresabschluss 2022
+Jahresabschluss 2022
+Jahresabschluss 2021
+Jahresabschluss 2020
+Jahresabschluss 2019
+BWA's incl. SuSa
+Planzahlen/-rechnungen
+LR
+LfA
+Steuerberatervollmacht
+TVEDIFIN Teiln./Verpfl.Erklärung
+Verpfändung
+Abtretung
+Bürgschaft (Ausfall-BÜ R+V usw.)
+BÜ Bürgschaftsbank Schriftverk.
+Jahresabschluss 2023
+Jahresabschluss 2023
+Jahresabschluss 2022
+Jahresabschluss 2023
+Jahresabschluss - Auswertung
+BWA's incl. SuSa
+BWA's incl. SuSa
+BWA - Auswertung
+Berechnung KDF
+Jahresabschluss - Auswertung
+BWA's incl. SuSa
+BWA's incl. SuSa
+BWA - Auswertung
+Berechnung KDF
+Organigramm
+Organigramm
+DZ Hyp
+DZ Hyp
+sonstige wirtschaftl. Unterlagen
+sonstige wirtschaftl. Unterlagen
+Nachweis Rente

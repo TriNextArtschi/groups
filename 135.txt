@@ -1,0 +1,245 @@
+Darlehenszusage
+Antrag Fördermittel
+Bestätigung nach Durchführung
+Schriftverkehr Fördermittel
+Anschreiben / Deckblatt zum Antrag -> löschen
+Kreditantrag -> löschen
+Kreditentscheidungsinformationen -> löschen
+Provisionsabrechnung -> löschen
+Kreditprotokolle
+Aktennotiz
+Kreditvertrag KK inkl. Anlagen
+Darlehensvertrag inkl. Anlagen
+Darlehensverträge Förderinstitute
+Kreditrahmenvertrag
+Legitimation
+Selbstauskünfte
+Vermögensübersicht / Nachweis Kredite
+Objektunterlagen (unbelastet + fremdbelastet)
+Wirtschaftliche Verhältnisse
+Scheidungsurteil
+Gehaltsnachweise
+Miet- / Pachteinnahmen
+Steuererklärung / Bescheid
+Zeugnisse, Lebenslauf, etc.
+Konzepte / Businessplan
+Grundbuchauszüge
+Baubeschreibung, Bauzeichnungen
+Kaufverträge / Überlassungsverträge
+Miet- und Pachtverträge
+Realrechtsbestätigung / Versicherungsnachweis
+Flurkarten, Grundrisse
+Bauträgervertrag
+Bauantrag / Baugenehmigung
+Teilungserklärung / Abgeschlossenheitsbescheinigung
+Erbbaurecht
+Dienstbarkeiten
+Wertermittlung / Gutachten
+Objektbilder / Fotos
+Expose inkl. Fotos
+Baulastenverzeichnis
+Grundschuld Zweckerklärungen
+Grundschuldbestellungen - einfache und vollstreckbare Ausfertigungen
+Abtretungen
+Grundschuldbrief
+Handelsregister, Gesellschafterliste, Gewerbeanmeldung
+Gesellschaftsverträge
+Organigramm
+Verwendungsnachweise von Objektfinanzierungen
+Erledigte Unterlagen
+Erledigte Darlehensverträge
+Hypothekenbanken / Verbundbanken -> löschen
+Verbund -> löschen
+Schriftverkehr
+Planunterlagen, Liquiditätsberechnungen, Rentabilität, Summen- und Saldenlisten
+Jahresabschlüsse / OP-Listen
+BWA
+§18 KWG-Dokumentationen
+Schufa-Auskünfte + Ermächtigung
+KDF
+Rangänderung Darlehen, Kapitalbelassungserklärung
+Dokumentation der Auswertung und Rating / Verzicht auf Offenlegung
+Soll/Ist-Vergleich
+Beratungsprotokoll
+VVI
+Beratung - Unterlagen
+Vermittlung - Unterlagen
+Anschreiben / Deckblatt zum Antrag
+Kreditantrag
+Kreditentscheidungsinformationen
+Provisionsabrechnung
+Kreditprotokolle
+Aktenvermerke / Sonstiges
+Kreditzusage
+Bank Kreditvertrag
+Verbundpartner Vertrag
+Verträge - Sonstiges
+Legitimation
+Selbstauskünfte
+Vermögensübersicht / Nachweis Kredite
+Rating / Scoring
+Kontoauszug
+Schufa Auskünfte
+Gehaltsnachweis
+Mieteinnahmen
+Steuererklärung / Bescheid
+Einkommen - Sonstiges
+Ausgaben - Sonstiges
+Grundbuchauszug
+Baubeschreibung
+Kaufvertrag
+Baugenehmigung/-anzeige/-antrag
+Aufstellung Baukosten / Eigenleistungen
+Flurkarte / Lageplan
+Bauzeichnungen / Grundrisse
+Wohnflächenberechnung / Kubatur
+Teilungserklärung
+Erbbaurechtsvertrag
+Bewilligung Dienstbarkeiten
+Wertermittlung / Gutachten
+Objektbilder / Fotos
+Expose
+Immobilienverwaltung - Sonstiges
+Grundschuld Zweckerklärungen
+Vollstreckbare Ausfertigungen
+Verträge / Urkunden
+Grundschuld / Hypothek - Sonstiges
+Bürgschaften
+Abtretungen
+Verpfändungen
+Fördermittel
+Bausparen
+Versicherungen
+Hypothekenbanken / Verbundbanken
+Verbund - Sonstiges
+Schriftverkehr
+Liquiditätsberechnungen
+Jahresabschluss / GuV
+BWA
+Auskünfte
+§18 KWG-Dokumentationen
+Groß- / Milionenkredite
+E/A Bilanz
+Rating
+Firmenkunde - Sonstiges
+Avalvertrag
+DZ HYP / MHB / R+V/ BSH Verträge
+Konsortialkredite
+Term-Sheet, VR-FinanzPlan, Berater-VVI, KondiRechner
+Projektentgeltvereinbarung
+Katasterunterlagen
+Objektbesichtigung / Bautenstandsbericht
+Bürgschaften inkl. Anlagen
+öffentliche Bürgschaft (Bank, Bund, ec)
+Sicherungsübereignung inkl. Anlagen
+Verpfändung inkl. Anlagen
+sonstige Sicherheitendokumente inkl. Anlagen
+Löschungsbewilligungen
+Grundschuldabtretungen, privatschr. Abtretungen, Sicherungsvereinbarungen
+Einmalvalutierungserklärungen
+Pfandentlassung
+Freistellungsvereinbarung nach §3 MaBv
+Stillhalteerklärung
+Generalvollmacht
+Schufa-Auskünfte + Ermächtigung
+Steuerberatervollmacht
+Bank-an-Bank-Auskunft
+§18 KWG-Dokumentationen
+Urkunde Bürgschaft inkl. Anlagen
+Prüfungsberichte
+Sonstiges
+Kreditprotokolle
+Aktennotiz
+Kreditantrag -> löschen
+Kreditentscheidungsinformationen -> löschen
+Provisionsabrechnung -> löschen
+Anschreiben / Deckblatt zum Antrag -> löschen
+Avalvertrag
+DZ HYP / MHB / R+V/ BSH Verträge
+Konsortialkredite
+Term-Sheet, VR-FinanzPlan, Berater-VVI, KondiRechner
+Projektentgeltvereinbarung
+Darlehensvertrag inkl. Anlagen
+Darlehensverträge Förderinstitute
+Kreditvertrag KK inkl. Anlagen
+Kreditrahmenvertrag
+Darlehenszusage
+Schriftverkehr Fördermittel
+Bestätigung nach Durchführung
+Antrag Fördermittel
+Schriftverkehr
+Legitimation
+Sonstiges
+Wertermittlung / Gutachten
+Grundbuchauszüge
+Flurkarten, Grundrisse
+Miet- und Pachtverträge
+Kaufverträge / Überlassungsverträge
+Baubeschreibung, Bauzeichnungen, Wohn- & Nutzflächenberechnung
+Realrechtsbestätigung / Versicherungsnachweis
+Bauantrag / Baugenehmigung
+Expose inkl. Fotos
+Erbbaurecht
+Bauträgervertrag
+Baulastenverzeichnis
+Katasterunterlagen
+Teilungserklärung / Abgeschlossenheitsbescheinigung
+Dienstbarkeiten
+Objektbesichtigung / Bautenstandsbericht
+Objektbilder / Fotos
+Verwendungsnachweise
+Grundschuld Zweckerklärungen
+Grundschuldbrief
+Grundschuldbestellungen - einfache und vollstreckbare Ausfertigungen
+Löschungsbewilligungen
+Grundschuldabtretungen, privatschr. Abtretungen, Sicherungsvereinbarungen
+Einmalvalutierungserklärungen
+Pfandhaftentlassung
+Freistellungsvereinbarung nach §3 MaBv
+Stillhalteerklärung
+öffentliche Bürgschaft (Bank, Bund, ec)
+Bürgschaften inkl. Anlagen
+Abtretungen
+Sicherungsübereignung inkl. Anlagen
+Verpfändung inkl. Anlagen
+sonstige Sicherheitendokumente inkl. Anlagen
+Urkunde Bürgschaft inkl. Anlagen
+Generalvollmacht
+Handelsregister, Gesellschafterliste, Gewerbeanmeldung
+Gesellschaftsverträge
+Organigramm
+Vermögensübersicht / Nachweis Kredite
+Selbstauskünfte
+Wirtschaftliche Verhältnisse
+Objektunterlagen (unbelastet + fremdbelastet)
+Scheidungsurteil
+Steuererklärung / Bescheid
+Gehaltsnachweise
+Miet- / Pachteinnahmen
+Zeugnisse, Lebenslauf, etc.
+zzz löschen
+Schufa-Auskünfte + Ermächtigung
+zzz löschen
+zzz löschen
+§18 KWG-Dokumentationen
+Dokumentation der Auswertung und Rating / Verzicht auf Offenlegung
+Jahresabschlüsse / OP-Listen
+BWA inkl. Summen- und Saldenliste / OP-Listen
+Planunterlagen, Liquiditätsberechnungen, Rentabilität
+KDF
+Rangänderung Darlehen, Kapitalbelassungserklärung
+Soll/Ist-Vergleich
+Schufa-Auskünfte + Ermächtigung
+Konzepte / Businessplan
+§18 KWG-Dokumentationen
+Erledigte Unterlagen
+Erledigte Darlehensverträge
+Hypothekenbanken / Verbundbanken -> löschen
+Verbund -> löschen
+Prüfungsberichte
+Checkliste zur Beurteilung der wirtsch. Abhängigkeit
+Teaser
+Immo-Meta-Reverse inkl. DZ Hyp Darlehen
+Bank-an-Bank-Auskunft
+Steuerberatervollmacht
+VR-Immo-Rating / Rating für Investoren

@@ -1,0 +1,479 @@
+Kreditprotokoll
+VVI / ESIS / Tilgungsplan
+Bausparkasse
+IB SH
+KfW
+Baukostenaufstellung
+Gebäudeversicherung
+Baubeschreibung / Exposé
+Baugenehmigung/-anzeige/-antrag
+Bautenstandsbericht
+zusammengefasste Objektunterlagen
+Zzz löschen- Bel.-Wert-Ermittlung vereinf. Verf. - Wohnhaus
+Lageplan / Flurkarte
+Kaufverträge
+Energieausweis
+Lichtbilder
+Teilungserklärung
+Bel.-Wert-Ermittlung KSI
+Flächenberechnungen
+Grundschuldbrief
+Sonstiges
+zusammengefasste Einkommensunterlagen
+Liquiditätsrechnung
+Kapitaldienstberechnung ecf
+EK Nachweis -Rentenbescheid-
+EK Nachweis -Gehalt-
+Einkommenssteuerbescheid
+Anlage Vermögenssituation -DL-Auszüge fremd-
+Anlage Vermögenssituation -Guthabensnachw. Depot-
+EK Nachweis -Mieten-
+Analyse Vermögensaufstellung
+Anlage Vermögenssituation -GB-Auszüge-
+Vermögenssituation
+Vermögensaufstellung
+Zzz löschen- Entscheidungsempfehlung
+Zzz löschen- VVI DL-Verm. und Ber. Immobiliar-Verbraucher-DL-Verträge
+Aktennotiz-Beschlüsse
+Zzz löschen- Genokredit-Protokoll
+Mietvertrag
+Projektdaten
+Brief fremd
+Kontoauszug Fremdmittel
+Legitimation
+Kundenstammvertrag
+Darlehensvertrag
+Beratungsprotokoll
+VVI
+Beratung - Unterlagen
+Vermittlung - Unterlagen
+Anschreiben / Deckblatt zum Antrag
+Kreditantrag
+Kreditentscheidungsinformationen
+Provisionsabrechnung
+Kreditprotokolle
+Aktenvermerke / Sonstiges
+Kreditzusage
+Bank Kreditvertrag
+Verbundpartner Vertrag
+Verträge - Sonstiges
+Legitimation
+Selbstauskünfte
+Vermögensübersicht / Nachweis Kredite
+Rating / Scoring
+Kontoauszug
+Schufa Auskünfte
+Gehaltsnachweis
+Mieteinnahmen
+Steuererklärung / Bescheid
+Einkommen - Sonstiges
+Ausgaben - Sonstiges
+Grundbuchauszug
+Baubeschreibung
+Kaufvertrag
+Baugenehmigung/-anzeige/-antrag
+Aufstellung Baukosten / Eigenleistungen
+Flurkarte / Lageplan
+Bauzeichnungen / Grundrisse
+Wohnflächenberechnung / Kubatur
+Teilungserklärung
+Erbbaurechtsvertrag
+Bewilligung Dienstbarkeiten
+Wertermittlung / Gutachten
+Objektbilder / Fotos
+Expose
+Immobilienverwaltung - Sonstiges
+Grundschuld Zweckerklärungen
+Vollstreckbare Ausfertigungen
+Verträge / Urkunden
+Grundschuld / Hypothek - Sonstiges
+Bürgschaften
+Abtretungen
+Verpfändungen
+Fördermittel
+Bausparen
+Versicherungen
+Hypothekenbanken / Verbundbanken
+Verbund - Sonstiges
+Schriftverkehr
+Liquiditätsberechnungen
+Jahresabschluss / GuV
+BWA
+Auskünfte
+§18 KWG-Dokumentationen
+Groß- / Milionenkredite
+E/A Bilanz
+Rating
+Firmenkunde - Sonstiges
+Beratungsprotokoll
+VVI
+Beratung - Unterlagen
+Vermittlung - Unterlagen
+Anschreiben / Deckblatt zum Antrag
+Kreditantrag
+Kreditentscheidungsinformationen
+Provisionsabrechnung
+Kreditprotokolle
+Aktenvermerke / Sonstiges
+Kreditzusage
+Bank Kreditvertrag
+Verbundpartner Vertrag
+Verträge - Sonstiges
+Legitimation
+Selbstauskünfte
+Vermögensübersicht / Nachweis Kredite
+Rating / Scoring
+Kontoauszug
+Schufa Auskünfte
+Gehaltsnachweis
+Mieteinnahmen
+Steuererklärung / Bescheid
+Einkommen - Sonstiges
+Ausgaben - Sonstiges
+Grundbuchauszug
+Baubeschreibung
+Kaufvertrag
+Baugenehmigung/-anzeige/-antrag
+Aufstellung Baukosten / Eigenleistungen
+Flurkarte / Lageplan
+Bauzeichnungen / Grundrisse
+Wohnflächenberechnung / Kubatur
+Teilungserklärung
+Erbbaurechtsvertrag
+Bewilligung Dienstbarkeiten
+Wertermittlung / Gutachten
+Objektbilder / Fotos
+Expose
+Immobilienverwaltung - Sonstiges
+Grundschuld Zweckerklärungen
+Vollstreckbare Ausfertigungen
+Verträge / Urkunden
+Grundschuld / Hypothek - Sonstiges
+Bürgschaften
+Abtretungen
+Verpfändungen
+Fördermittel
+Bausparen
+Versicherungen
+Hypothekenbanken / Verbundbanken
+Verbund - Sonstiges
+Schriftverkehr
+Liquiditätsberechnungen
+Jahresabschluss / GuV
+BWA
+Auskünfte
+§18 KWG-Dokumentationen
+Groß- / Milionenkredite
+E/A Bilanz
+Rating
+Firmenkunde - Sonstiges
+Brief Volksbank
+Zzz löschen- Aktennotiz
+WKR Anlagen zum Vertrag (ESIS, VVI usw.)
+Mail
+Verwendungsnachweise
+Konditionen (Term Sheet)
+Sicherungsübereignungen (KFZ, Maschinen usw.)
+KFZ-Brief
+Rückbest. Verpfändung
+Rückbest. Abtretung BSV
+Bausparvertrag
+LV-Police
+Rückbest. Abtretung LV
+Bestätigung Rückkaufswert
+Bürgschaft BüBa
+Financial Covenant / sonst. Sicherungsvereinbarung
+Zzz löschen- KSI Sicherheitenblatt
+SCHUFA-Auskunft
+Ausweiskopie
+Geburts- / Abstammungsurkunde
+Heiratsurkunde u. Namensänderung
+sonstige Legitimationsunterlage
+Antrag Sonderkredit
+Schriftverkehr Sonderkredit -allgemein-
+Anlage Vermögenssituation - LV-Rückkaufswerte-
+Selbstauskunft
+KfW Bestätigung
+Konditionen
+Zzz löschen- Aktennotiz
+Brief fremd
+WKR Vertragsanlagen (ESIS, Beratungsprotokolle, VVI usw.)
+ZZZ_Konditionen (Term Sheet)_ nicht verwenden_unter Kreditvertrag speichern
+Mail
+Sonstiges
+Zzz löschen- Verwendungsnachweise
+Verwendungsnachweis
+Aktennotiz-Beschlüsse
+Zzz löschen- Entscheidungsempfehlung
+Kreditprotokoll (PK/FK)
+Zzz löschen- Kreditprotokoll Privat
+Zzz löschen- KSI Sicherheitenblatt
+Zzz löschen- VVI DL-Verm. und Ber. Immobiliar-Verbraucher-DL-Verträge
+Zzz löschen- Analyse Vermögensaufstellung
+Haushaltsplan (Kommunen)
+Zzz löschen- Anlage Vermögenssituation -DL-Auszüge fremd-
+Zzz löschen- Anlage Vermögenssituation -GB-Auszüge-
+Zzz löschen- Anlage Vermögenssituation -Guthabensnachw. Depot-
+Zzz löschen- Anlage Vermögenssituation - LV-Rückkaufswerte-
+Zzz löschen- Rating
+Einkommensteuerbescheid (inkl. St-Bescheid f. einheitl. ges. Gewinnfeststellung)
+EK Nachweis -Gehalt-
+Mietaufstellung
+EK Nachweis -Rentenbescheid-
+Zzz löschen- Kapitaldienstberechnung ecf
+Zzz löschen- Kontoauszug Fremdmittel
+Zzz löschen- Liquiditätsrechnung
+Vermögensaufstellung (inkl. Anlagen) inkl. Analyse
+Bausparvertrag
+Zzz löschen- Bestätigung Rückkaufswert
+Bürgschaft BüBa
+sonst. Sicherungsvereinbarung
+Grundschuldbrief
+KFZ-Brief
+LV-Police
+Zzz löschen- Rückbest. Abtretung BSV
+Zzz löschen- Rückbest. Abtretung LV
+Verpfändungen (Guthaben Fremdbank, Depots, usw.)
+Sicherungsübereignungen (KFZ, Maschinen usw.)
+Lageplan / Flurkarte
+Baubeschreibung / Exposé
+Baugenehmigung/-anzeige/-antrag
+Baukostenaufstellung
+Bautenstandsbericht
+Zzz löschen- Bel.-Wert Ermittlung groß (OpenOffice/Excel)
+Zzz löschen- Bel.-Wert-Ermittlung KSI
+Bel.-Wert-Ermittlung
+Zzz löschen- Bel.-Wert-Ermittlung vereinf. Verf. - Wohnhaus
+Gebäudeversicherung
+Energieausweis
+Kaufverträge
+Flächenberechnung
+Lichtbilder
+Mietverträge
+Teilungserklärung
+Antrag Sonderkredit
+KfW Bestätigung
+Schriftverkehr Sonderkredit -allgemein-
+Zzz löschen- Selbstauskunft
+SCHUFA-Auskunft
+Konditionen
+Ausweiskopie
+Geburts- / Abstammungsurkunde
+Heiratsurkunde u. Namensänderung
+sonstige Legitimationsunterlage
+VVI / ESIS / Tilgungsplan
+Darlehensvertrag
+Bausparkasse
+IB SH
+KfW
+Legitimation
+Kundenstammvertrag
+Einkommensteuererklärung (inkl. einheitl. ges. Gewinnfeststellung)
+JA mit Erläuterungen/testierter JA/(testierter)Konzernabschluss/EÜR und Gewinnerm.
+Betriebswirtschaftliche Auswertung
+Liqui.-Planung/Planungsrechnung
+Bauplan
+Creditreform
+Selbstauskunft (inkl. Analyse)
+Zzz löschen- Haushaltsplan
+Grundbuchauszug
+Grundbuchauszug
+Bauplan
+Selbstauskunft
+Zzz löschen- Verwendungsnachweise
+zusammengefasste Einkommensunterlagen
+zusammengefasste Objektunterlagen
+Sonstige Unterlagen zu wirtsch. Verh.
+Sonstige Objektunterlagen
+JA Analyse / EÜR-Analyse (Geno-FBS-Analyse)
+JA Bilanzbericht / BWA-Analyse (QSA-Analyse)
+Einkommens- u. Liqui-Analyse (QSA-Analyse)
+EÜR-GENO-FBS Analyse(inkl. einheitl. Feststellungen)
+Brief fremd
+WKR Vertragsanlagen (ESIS, Beratungsprotokolle, VVI usw.)
+ZZZ_Konditionen (Term Sheet)_nicht verwenden
+Mail
+Sonstiges
+Verwendungsnachweis
+Aktennotiz-Beschlüsse
+Kreditprotokoll
+EÜR-GENO-FBS Analyse (inkl. einheitl. Feststellungen)
+JA Analyse / EÜR-Analyse (Geno-FBS-Analyse)
+JA Bilanzbericht / BWA-Analyse (QSA-Analyse)
+Einkommens- u. Liqui-Analyse (QSA-Analyse)
+zusammengefasste Einkommensunterlagen
+Sonstige Unterlagen zu wirtsch. Verh.
+JA mit Erläuterungen/testierter JA/(testierter) Konzernabschluss/EÜR und Gewinnerm.
+Betriebswirtschaftliche Auswertung
+Vermögensaufstellung (inkl. Anlagen und Analyse)
+Einkommensteuererklärung (inkl. einheitl. ges. Gewinnfeststellung)
+Einkommensteuerbescheid (inkl. St-Bescheid f. einheitl. ges. Gewinnfeststellung)
+EK Nachweis -Gehalt-
+Mietaufstellung
+EK Nachweis -Rentenbescheid-
+Liqui.-Planung/Planungsrechnung
+Selbstauskunft (inkl. Analyse)
+Haushaltsplan (Kommunen)
+Bausparvertrag
+Bürgschaft BüBa
+Grundschuldbrief
+KFZ-Brief
+LV-Police
+Sicherungsübereignungen (KFZ, Maschinen usw.)
+sonst. Sicherungsvereinbarung
+Verpfändungen (Guthaben Fremdbank, Depots, usw.)
+zusammengefasste Objektunterlagen
+Sonstige Objektunterlagen
+Baubeschreibung / Exposé
+Baugenehmigung/-anzeige/-antrag
+Baukostenaufstellung
+Bauplan
+Bautenstandsbericht
+Bel.-Wert-Ermittlung
+Gebäudeversicherung
+Energieausweis
+Flächenberechnung
+Grundbuchauszug
+Kaufverträge
+Lageplan / Flurkarte
+Lichtbilder
+Mietverträge
+Teilungserklärung
+Antrag Sonderkredit
+KfW Bestätigung
+Schriftverkehr Sonderkredit -allgemein-
+Creditreform
+SCHUFA-Auskunft
+Darlehen - Der Kunde wünscht (nur FK)
+Zusage Sonderkredit
+Kapitaldienstberechnung FK
+GS-Best. einf. Ausf.
+GS-Best. vollstr. Ausf.
+GS Best. ohne Zwangsvollstr.
+Abtretung BSV
+Abtretung LV
+sonst. Abtretung
+GS sonstiges
+Bestätigung zu Kreditantrag KfW
+Verwendungsnachweis Sonderkredit
+Konditionen (Term Sheet)
+Konditionen (Term Sheet)
+Bausparvertrag
+Zzz löschen- Rückbest. Abtretung BSV
+Zzz löschen- Rückbest. Abtretung LV
+Bürgschaft BüBa
+Zzz löschen- Bestätigung Rückkaufswert
+sonst. Sicherungsvereinbarung
+Grundschuldbrief
+KFZ-Brief
+LV-Police
+Verpfändungen (Guthaben Fremdbank, Depots, usw.)
+Sicherungsübereignungen (KFZ, Maschinen usw.)
+Abtretung BSV
+Abtretung LV
+GS-Best. einf. Ausf.
+GS-Best. vollstr. Ausf.
+GS Best. ohne Zwangsvollstr.
+sonst. Abtretung
+GS sonstiges
+Antrag Sonderkredit
+Schriftverkehr Sonderkredit -allgemein-
+KfW Bestätigung
+Verwendungsnachweis Sonderkredit
+Bestätigung zu Kreditantrag KfW
+EÜR-GENO-FBS Analyse(inkl. einheitl. Feststellungen)
+JA Analyse / EÜR-Analyse (Geno-FBS-Analyse)
+JA Bilanzbericht / BWA-Analyse (QSA-Analyse)
+Einkommens- u. Liqui-Analyse (QSA-Analyse)
+zusammengefasste Einkommensunterlagen
+Sonstige Unterlagen zu wirtsch. Verh.
+JA mit Erläuterungen/testierter JA/(testierter)Konzernabschluss/EÜR und Gewinnerm.
+Betriebswirtschaftliche Auswertung
+Vermögensaufstellung (inkl. Anlagen) inkl. Analyse
+Einkommensteuererklärung (inkl. einheitl. ges. Gewinnfeststellung)
+Einkommensteuerbescheid (inkl. St-Bescheid f. einheitl. ges. Gewinnfeststellung)
+EK Nachweis -Gehalt-
+Mietaufstellung
+EK Nachweis -Rentenbescheid-
+Liqui.-Planung/Planungsrechnung
+Selbstauskunft (inkl. Analyse)
+Kapitaldienstberechnung FK
+Haushaltsplan (Kommunen)
+Pfändung - noch aktiv (Altbestand)
+Pfändung - Erledigung
+Pfändung - Schriftverkehr
+Pfändung - Eingang
+Pfändung - Aussetzung
+Pfändung - erledigt (Altbestand)
+Pfändung - Aufhebungserklärung
+Schriftverkehr Abwicklung
+Rückzahlungsvereinbarung Markt
+Terminnachricht
+Abgabe an VR-Inkasso
+Abwicklung Sonstiges
+Abgabe an Cerditreform
+Rückzahlungsvereinbarung -Schriftverkehr
+Drittschuldnererklärung
+GV Mitteilung (+ Kosten)
+Rückzahlungsvereinbarung - P-Konto
+Schuldnerberatung - Anschreiben
+Ratenzahlungsvereinbarung - gekündigt
+Schuldnerberatung - Anschreiben
+Kündigung wege Inso (Habensaldo)
+Insolvenzverfahren - Beschluss
+Forderungsanmeldung Insolvenzverfahren
+Insolvenzverfahren - Schriftverkehr
+Antrag Zwangsversteigerung
+Abwicklung Grundschulden / Hypothek
+Antrag Zwangsverwaltung
+Bericht Zwangsverwalter
+Beschluss-Verkehrswert
+Anordnungsbeschluss
+Kaufvertrag
+Forderungsanmeldung
+Löschungsbewilligung
+Antrag auf Erlass Mahnbescheid
+Widerspruch auf Mahnbescheid
+EV Vermögensverzeichnis
+Eigener Pfüb.
+Vollstreckbarer Titel
+Antrag auf Erlass eines Vollstreckungsbescheids
+Vollstreckungsauftrag an den Gerichtsvollzieher - zur Vollstreckung von Geldforderungen
+Drittschuldnererklärung Eingang eig. PfÜB
+Antrag auf Erlass einer richterlichen Durchsuch.
+Schuldanerkenntnis Zwangsvollstreckungsklausel
+Kündigungsandrohung
+Androhung Kündigung w/Pfändung (Sollstand)
+Androhung Kündigung w/Pfändung (Haben)
+Kündigung Geschäftsverbindung
+Kündigung wegen Kontopfändung (Haben)
+Kap.-Dienst-Berechnung Maßnahmenplan
+Maßnahmenplan
+Bestandsaufnahme
+Sanierungskonzept
+Pfändung - Engagementausdruck
+Schriftverkehr Rechtsanwalt
+Anmeldung Verteilungstermin
+Sicherheiten-  Realisationswert berechnen
+Kapitaldienstberechnung EWB
+EWB Sicherheitenzusammenst. & -bewertung
+Beshcluss zur Bildung einer Einzelrisikovorsorge
+EWB Stellungnahme zur Bildung einer Einzelrisikovorsorge
+Ad-hoc Meldung EWB
+EWB Beurteilung KDF
+EWB-Beschluss -Altbestand-
+EWB Meldung  ausfallgefährdeter Engagements
+Aktennotiz-Beschlüsse
+Abschreibungsbeschluss (AFA)
+Schriftverkehr- Amtsgericht
+Teilungsplan-Protokoll
+Gerichtskostenrechnung (Gerichtskosten MB)
+Haftbefehl
+Treuhandauftrag
+Bürgen Inanspruchnahme (Sicherheiten)
+Sicherheiten-Verwertung (beweglich)
+Mahnung-Consulting
+Zwangssicherungshypothek
+Guthabennachweis/Depotauszüge
+Guthabennachweis/Depotauszüge
+Guthabennachweise/Depotauszüge

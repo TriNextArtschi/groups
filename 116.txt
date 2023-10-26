@@ -1,0 +1,78 @@
+ZZZ löschen
+VVI (Immobiliendarlehen)
+VVI (nicht Immobiliendarlehen)
+ZZZ löschen
+Antragsrating
+Finanzierungsbestätigung
+Kreditprotokoll Nachtrag
+Info zum Kreditengagement
+Kreditprotokolle
+Auszahlungsgenehmigung
+Darlehensvertrag
+Darlehensvertrag (Ergänzung)
+Darlehensvertrag (Sollzinssicherheit)
+Darlehnsvertrag (VerbrKrG)
+Legitimations-Unterlagen
+Selbstauskunft
+Selbstausk. (AnaCredit-Meldedaten)
+ZZZZ löschen Selbstauskunft (AnaCredit-Meldedaten)
+Kontoauszug
+Auskünfte
+Gehaltsnachweise
+Sonstige wirtschaftl. Unterlagen
+Einkommensteuererklärung
+Eigenkapitalnachweis
+Mietaufstellung
+Grundbuchauszug
+Baubeschreibung
+Kaufvertrag
+Baugenehmigung/-anzeige/-antrag
+Aufstellung Baukosten / Eigenleistungen
+Flurkarte / Lageplan
+Mietaufstellungen/Mietverträge
+Wohnflächenberechnung / Kubatur
+Teilungserklärung
+Erbbaurechtsverträge
+Lasten und Beschränkungen
+Wertermittlung / Gutachten
+Objektbilder / Fotos
+Expose
+GS-Bestallungsurkunde vollstreckbare Ausfertigung
+Grundschuld Zweckerklärungen
+Vollstreckbare Ausfertigungen
+zzz Löschen
+Grundschuld/Hypothek Abtretung
+Bürgschaften
+Abtretungen
+Verpfändungen
+zzz löschen
+zzzBausparen
+Brandversicherungsnachweis
+Hypothek Löschungsfäh. Quittung
+zzz löschen
+Schriftverkehr
+Liquiditätsrechnung
+Jahresabschluss
+BWA
+Auskünfte
+ZZZ löschen
+Selbstauskunft (AnaCredit-Meldedaten)
+Rechnungen/Nachweise
+Rating Firmenkunde
+ZZZ Dokument LöschenFirmenkunde - Sonstiges
+Prüfungsberichte (intern/extern)
+Sonderkonditionsantrag
+Darlehensvertrag (Zinsverl)
+Sicherungsvereinbarung
+Grundriss / Bauplan
+xxxxxxlöschen  Steuererklärung / Bescheid
+Sicherungsübereignung
+Sicherungsvereinbarung
+Einkommensteuerbescheid
+Planzahlen
+Besichtigungsbogen
+Kreditentscheidungsinformation
+Fördermittel Unterlagen
+xxxx Sonstige priv.Einkommenunterl.
+aussortierte Unterlagen
+Energieausweis

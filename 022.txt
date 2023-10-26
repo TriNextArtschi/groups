@@ -1,0 +1,45 @@
+Kreditantrag
+VVI / ESIS / Tilgungsplan
+Bausparkasse
+IB SH
+KfW
+Aufstellung Baukosten
+Aufstellung Eigenleistungen
+Baubeschreibung
+Baugenehmigung/-anzeige/-antrag
+Bauzeichnungen
+Beleihungswertberechnung
+Erbbaurechtsvertrag
+Flurkarte / Lageplan
+Kaufvertrag
+Objektbesichtigung/Gutacht./Foto
+Objektfotos
+Teilungserklärung
+Werkvertrag
+Wohnflächenberechnung / Kubatur
+GB Auszug
+Schriftverkehr sonstiger
+A_Nachweise über Kredite
+A_sonstige Ausgaben
+A_Unterhaltsverpflichtungen
+E_Einkommensnachw. Selbständige
+E_Einkommensnachweis
+E_EST Erklärung / Bescheid
+E_Gesellsch.-/ Güterrechtsvertr.
+E_KDF-Ermittlung Selbständige
+E_Mieteinnahmen
+E_sonstige Einnahmen
+E_Unterhaltsforderungen
+Eigengeldnachweis
+Vermögensaufstellung
+SCHUFA-Auskunft
+Berater/Vermittler VVI+Protokoll
+Provisionsabrechnung
+Ausweis (zur Bearbeitung)
+Expose (Objekt)
+Modernisierungsmassnamen
+Schriftverkehr Drittgläubiger
+Kontoauszug
+Legitimation
+Kundenstammvertrag
+Darlehensvertrag

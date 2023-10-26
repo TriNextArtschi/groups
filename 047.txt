@@ -1,0 +1,438 @@
+Anschreiben / Deckblatt zum Antrag
+Kreditantrag
+Kreditentscheidungsinformationen
+Berater/Vermittler VVI
+Provisionsabrechnung
+Legitimation
+SCHUFA Auskunft
+VVI / ESIS / Tilgungsplan
+Darlehensvertrag
+Bausparkasse
+Investitionsbank
+KfW
+Baubeschreibung
+Baugenehmigung/-anzeige/-antrag
+Aufstellung Baukosten
+Aufstellung Eigenleistungen
+Flurkarte / Lageplan
+Bauzeichnungen
+Wohnflächenberechnung / Kubatur
+Beleihungswertberechnung
+Teilungserklärung
+Erbbaurechtsvertrag
+Kaufvertrag
+Objektfotos
+Objektbesichtigung / Gutachten
+Expose (Objekt)
+GB Auszug
+Schriftverkehr Allgemein
+Schriftverkehr Drittgläubiger
+Kontoauszug
+Nachweise über Kredite
+Unterhaltsverpflichtungen
+sonstige Ausgaben
+Einkommensnachweis
+Einkommensnachweis Selbständige
+Gesellsch.-/ Güterrechtsvertr.
+EkSt. Erklärung / Bescheid
+Mieteinnahmen
+Unterhaltsforderungen
+sonstige Einnahmen
+Vermögensaufstellung
+Eigengeldnachweis
+1 - Beschlüsse
+2 -Verträge
+3 - Sicherheiten
+4 - Bonitätsunterlagen
+5 - Schriftverkehr
+6 - Sonstiges
+Anschreiben / Deckblatt zum Antrag
+Kreditantrag
+Kreditentscheidungsinformationen
+Berater/Vermittler VVI
+Provisionsabrechnung
+Legitimation
+SCHUFA Auskunft
+VVI / ESIS / Tilgungsplan
+Darlehensvertrag
+Bausparkasse
+Schriftverkehr Allgemein
+Kontoauszug
+Nachweise über Kredite
+Unterhaltsverpflichtungen
+sonstige Ausgaben
+Einkommensnachweis
+Einkommensnachweis Selbständige
+Gesellsch.-/ Güterrechtsvertr.
+EkSt. Erklärung / Bescheid
+Mieteinnahmen
+Unterhaltsforderungen
+sonstige Einnahmen
+Vermögensaufstellung
+Eigengeldnachweis
+1 - Kundenstammvertrag
+2 - Legitimation
+3 - Vollmacht
+4 - Freistellungsauftrag / NV-Besch.
+5 - Mitgliedschaft
+6 - Schriftverkehr
+7 - Sonstiges
+bankeigene Verträge
+Verbundpartner
+Sonstiges - Verträge
+Beratungsprotokoll
+Sonstiges - Bürgschaften
+Verträge
+Anträge/Zusagen
+Sonstiges - Fördermittel
+Verträge / Urkunden
+Vollstreckbare Ausfertigungen
+GS-Zweckerklärungen
+Einmalvalutierungserklärungen
+Grundschuld-Briefe
+Sonstiges - Grundschuld / Hypothek
+Objektunterlagen
+Verträge
+Kaufverträge
+Miet-/ Pachtverträge
+Teilungserklärungen
+Erbbaurechtsverträge
+Bewilligung Dienstbarkeiten
+Wertermittlungen / Gutachten
+Objektbilder
+Grundbuchunterlagen
+Grundbuchauszüge
+Sonstiges - Immobilien-verwaltung
+Kreditverwaltung
+Abtretungserklärungen
+Sonstiges - Abtretungen
+Aktenvermerke
+Kreditanträge/-zusagen
+Kreditprotokolle
+Sonstiges - Kreditbeschlüsse
+Erg. Bewertungsunterlagen
+Sicherheiten/ auch erl.
+Sonstiges - Sicherheitenverwaltung
+Verpfändung Guthaben, WP eigen
+Verpfändung Guthaben, WP fremd
+Sonstiges - Verpfändungen
+Liquiditätsberechnungen
+Jahresabschl./GuV-Berechnungen
+BWA
+Auskünfte  
+§18 KWG-Dokumentationen
+Groß- / Milionenkredite
+E/A Bilanz
+Rating
+Sonstiges - Wirtschaftliche Verhältnisse
+Kreditanträge
+Sicherheiten
+Forderungsverwaltung
+Kreditverwaltung
+KWG
+Verwendungsnachweise
+Zahlungsnachweise
+Sonstiges - Schriftverkehr
+Schufa-Auskünfte
+Selbstauskünfte
+Einkommen
+ESt.Unterlagen
+Vermögensaufst. /Selbstausk.
+Steuerbescheid
+Gehaltsnachweis
+Steuererklärung
+Mieteinkünfte
+Vermögensübersicht
+Rating
+Sonstige Bonitätsunterlagen
+Sonstiges - Legitimation
+bankeigene Verträge
+Verbundpartner
+Sonstiges - Verträge
+Beratungsprotokoll
+Sonstiges - Bürgschaften
+Verträge
+Anträge/Zusagen
+Sonstiges - Fördermittel
+Verträge / Urkunden
+Vollstreckbare Ausfertigungen
+GS-Zweckerklärungen
+Einmalvalutierungserklärungen
+Grundschuld-Briefe
+Sonstiges - Grundschuld / Hypothek
+Objektunterlagen
+Verträge
+Kaufverträge
+Miet-/ Pachtverträge
+Teilungserklärungen
+Erbbaurechtsverträge
+Bewilligung Dienstbarkeiten
+Wertermittlungen / Gutachten
+Objektbilder
+Grundbuchunterlagen
+Grundbuchauszüge
+Sonstiges - Immobilien-verwaltung
+Kreditverwaltung
+Abtretungserklärungen
+Sonstiges - Abtretungen
+Aktenvermerke
+Kreditanträge/-zusagen
+Kreditprotokolle
+Sonstiges - Kreditbeschlüsse
+Erg. Bewertungsunterlagen
+Sicherheiten/ auch erl.
+Sonstiges - Sicherheitenverwaltung
+Verpfändung Guthaben, WP eigen
+Verpfändung Guthaben, WP fremd
+Sonstiges - Verpfändungen
+Liquiditätsberechnungen
+Jahresabschl./GuV-Berechnungen
+BWA
+Auskünfte  
+§18 KWG-Dokumentationen
+Groß- / Milionenkredite
+E/A Bilanz
+Rating
+Sonstiges - Wirtschaftliche Verhältnisse
+Kreditanträge
+Sicherheiten
+Forderungsverwaltung
+Kreditverwaltung
+KWG
+Verwendungsnachweise
+Zahlungsnachweise
+Sonstiges - Schriftverkehr
+Schufa-Auskünfte
+Selbstauskünfte
+Einkommen
+ESt.Unterlagen
+Vermögensaufst. /Selbstausk.
+Steuerbescheid
+Gehaltsnachweis
+Steuererklärung
+Mieteinkünfte
+Vermögensübersicht
+Rating
+Sonstige Bonitätsunterlagen
+Sonstiges - Legitimation
+Rechnungen/Verwendungsnachweise
+Baufi-Dialog
+L+G/Rente/Kindergeld
+Mieteinkünfte
+Sonstige Einkommensnachweise
+Kontoauszüge
+Darlehensverträge Fremdbanken
+Vermögensnachweise
+Steuererklärung
+Steuerbescheid
+Bonitätsauskünfte
+Bankenspiegel
+Analyse
+BWA
+Bilanz/EÜR
+Planrechnung
+Businessplan
+Gesellschaftsverträge
+HR-Auszüge
+Vollmachten
+Objektbilder
+Exposé
+Fremde Gutachten
+Kaufvertrag/Übergabevertrag
+Grundbuchauszug/Vollmacht zum Abruf
+Lageplan
+Baupläne
+Baugenehmigung
+Baubeschreibung
+Energieausweis
+Aufstellung Baukosten
+Aufstellung Eigenleistung
+Teilungserklärung
+Miet-/ Pachtverträge
+Erbbaurechtsverträge
+Baulasten-/Altlastenkataster
+Brandversicherungsnachweis
+Zzz Löschen -  ---
+Zzz Löschen -  ---
+Zzz Löschen -  ---
+Zzz Löschen -  ---
+Aktenvermerk
+Sonstiges - Sicherheiten
+Zzz Löschen -  ---
+Beratungsprotokoll
+Selbstauskunft
+Abtretung
+Verpfändung
+Sicherungsübereignung
+Bürgschaft
+Antragsunterlagen
+Kreditantrag Bank (inkl. VVI, Terminbestätigung, Schufa)
+Kreditantrag BSH/MHB/ ect.
+Sonstige Antragsunterlagen
+Rating
+Sonstige Bonitätsunterlagen
+Auftrag zur Wertermittlung
+Objektbesichtigung
+Teilungserklärung
+Leibgeding/Reallast
+Sonstige Objektunterlagen
+Schriftverkehr
+Sonstiges - Kundenverwaltung
+Legitimation
+Beratungsprotokoll
+VVI + Terminbestätigung
+Beratung - Unterlagen
+Vermittlung - Unterlagen
+Anschreiben / Deckblatt zum Antrag
+Kreditantrag
+Kreditentscheidungsinformationen
+Provisionsabrechnung
+Kreditprotokolle
+Aktenvermerke / Sonstiges
+Kreditzusage
+Bank Kreditvertrag
+Verbundpartner Vertrag
+Verträge - Sonstiges
+Legitimation
+Selbstauskünfte
+Vermögensübersicht / Nachweis Kredite
+Rating / Scoring
+Kontoauszug
+Schufa Auskünfte
+Gehaltsnachweis
+Mieteinnahmen
+Steuererklärung / Bescheid
+Einkommen - Sonstiges
+Ausgaben - Sonstiges
+Grundbuchauszug + Vollmacht zum Abruf
+Baubeschreibung
+Kaufvertrag
+Baugenehmigung/-anzeige/-antrag
+Aufstellung Baukosten / Eigenleistungen
+Flurkarte / Lageplan
+Bauplan / Grundrisse
+Wohnflächenberechnung / Kubatur
+Teilungserklärung
+Erbbaurechtsvertrag
+Bewilligung Dienstbarkeiten
+Wertermittlung / Gutachten
+Objektbilder / Fotos
+Expose
+Immobilienverwaltung - Sonstiges
+Grundschuld Zweckerklärungen
+Vollstreckbare Ausfertigungen
+Verträge / Urkunden
+Grundschuld / Hypothek - Sonstiges
+Bürgschaften
+Abtretungen
+Verpfändungen
+Fördermittel
+Bauspardarlehen
+Versicherungsdarlehen
+Hypothekenbanken / Verbundbanken
+Verbund - Sonstiges
+Schriftverkehr
+Liquiditätsberechnungen / Analyse
+Jahresabschluss / GuV
+BWA
+Auskünfte
+§18 KWG-Dokumentationen
+Groß- / Milionenkredite
+E/A Bilanz
+Rating
+Firmenkunde - Sonstiges
+Rechnungen/Verwendungsnachweis
+Fremdbank Kreditvertrag
+Bonitätsauskünfte
+Bankenspiegel
+Rente
+Kindergeld
+Übergabevertrag
+Leibgeding/Reallast
+Objektbesichtigung
+Miet-/Pachtverträge
+Brandversicherungsnachweis
+Sicherungsübereignung
+Planrechnungen
+Businessplan
+Gesellschaftsverträge
+HR-Auszüge
+Kreditantrag - Angebote
+Eigenkapitalnachweise
+Fördermittel - Antrag
+Fördermittel - Bestätigung zum Antrag
+Beratungsunterlagen
+Legitimation
+Ehevertrag
+Heiratsurkunde
+Anschreiben/ Deckblatt zum Antrag
+Kreditantrag
+Kreditentscheidungsinformation
+Rechnungen/ Verwendungsnachweis
+Vermögensübersicht/ Selbstauskünfte
+Einkommen - Sonstiges
+Gehaltsnachweis
+Rente
+Kindergeld
+Steuererklärung/ Bescheid
+Mieteinnahmen
+Ausgaben - Sonstiges
+Baubeschreibung
+Baugenehmigung/-anzeige/-antrag
+Aufstellung Baukosten / Eigenleistungen
+Wohnflächenberechnung / Kubatur
+Expose
+Kaufvertrag
+Übergabevertrag
+Miet-/Pachtverträge
+Teilungserklärung
+Erbbaurechtsvertrag
+Leibgeding/Reallast
+Bewilligung Dienstbarkeiten
+Wertermittlung / Gutachten
+Objektbilder / Fotos
+Fremdgutachten/ -besichtigung
+Objektbesichtigung Vollmacht
+Flurkarte/ Lageplan
+Bauplan / Grundrisse
+Grundbuchauszug + Vollmacht zum Abruf
+Brandversicherungsnachweis
+Immobilienverwaltung - Sonstiges
+Energieausweis
+Baulasten-/Altlastenkataster
+Grundschuld / Hypothek - Sonstiges
+Nachweis Vermögenswert Abtretung
+Nachweis Vermögenswert Verpfändung
+SÜ Kraftfahrzeuge
+SÜ Maschinen, Einrichtungen
+SÜ Warenlager
+Wertermittlung SÜ
+Unterlagen zum Bürgen
+Antrag zur Bürgschaftsübernahme
+Antrag Ausfallbürgschaft
+Kommunalbürgschaften
+Fördermittel Antrag
+Fördermittel BzA
+Schriftverkehr
+0
+0
+0
+0
+0
+0
+Gesellschaftsverträge
+HR-Auszüge
+Planzahlen/ Soll-Ist-Vergleiche
+Businessplan
+Analyse wirtschatliche Unterlagen
+Jahresabschluss/ GuV
+BWA
+Auskünfte
+Rating
+Firmenkunde - Sonstiges
+Bankenspiegel
+Steuerberater-Vollmacht
+Organigramm
+Kontoauszug
+Projektunterlagen
+Test

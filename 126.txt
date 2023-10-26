@@ -1,0 +1,169 @@
+Beratungsprotokoll (Vermittler)
+VVI (Beratungsverzicht)
+Akten- / Gesprächsnotizen / Beratungsinfos
+zzz löschen Vermittlung - Unterlagen
+Kreditvertrag Bank
+Kreditvertrag Fördermittel
+Kreditvertrag Verbund
+Kreditvertrag META
+Legitimation
+zzz löschen FK Selbstauskunft / VSÜ
+zzz löschen FK Nachweise Selbstauskunft / VSÜ
+zzz löschen Rating / Scoring
+Kontoauszüge (KK)
+SCHUFA-Auskunft
+Gehaltsabrechnungen / Bezügemitteilung
+Mieteinnahmen / Pachteinnahmen
+Steuererklärung / Steuerbescheid
+zzz löschen Einkommen - Sonstiges
+Wirtschaftliche Verhältnisse - Sonstiges
+Grundbuchauszug
+Baubeschreibung
+Kaufvertrag / Entwurf
+Bauantrag / Baugenehmigung
+SanReMo / Baukosten / Eigenleistungen
+Flurkarte / Lageplan
+Bauzeichnungen / Grundrisse / Ansichten
+Nutz- / Wohnflächenberechnung
+Teilungserklärung / Aufteilungsplan
+Erbbaurechtsvertrag
+Bewilligung Dienstbarkeiten
+Wertermittlung / Gutachten
+Objektbilder / Fotos
+Exposé
+Immobilienunterlagen - Sonstiges
+Grundschuld Zweckerklärungen
+Vollstreckbare Ausfertigungen
+Grundschuldbrief / Urkunden
+Grundschuld / Hypothek - Sonstiges
+Bürgschaft (Kunde)
+Abtretung (LV / RV / BSV)
+Verpfändung (eigene)
+Schriftverkehr (Bank)
+Baufi-Selbstauskunft (Terminvereinbarungsbroschüre)
+Jahresabschluss / EÜR
+BWA inkl. Anlagen
+Sonstige Unterlagen (FK)
+zzz löschen Sonstige Unterlagen (gewerblich)
+zzz löschen Aufstellung SanReMo (geplant)
+Energieausweis
+Rückgewährsansprüche / Einmalvalutierungserklärung
+Bürgschaft (Sonstige)
+Abtretung (Globalzession)
+Abtretung (Forderungen)
+Verpfändung (fremde)
+Sicherungsübereignung (Kfz)
+Sicherungsübereignung (Maschine / BGA)
+Sicherungsübereignung (Warenlager)
+Sicherungsübereignung (Sonstige)
+Sonstige Sicherheiten - Sonstiges
+Privatschriftliche Abtretung (BSH / DZ HYP / R+V)
+zzz löschen Sicherungsvereinbarung (BSH)
+Sicherungsvereinbarung (BSH)
+Schriftverkehr (Verbund)
+Schriftverkehr (Fördermittel / Sonderkredit)
+Kindergeld
+Rentenbescheid
+Lohnersatzleistungen
+Schriftverkehr (Sonstige)
+Aufstellung SanReMo (bereits durchgeführt)
+Nachweis aktueller Erbbauzins
+Beitrag private KV/PV
+Fremddarlehen / Leasing- / Kreditraten
+Unterhaltsverpflichtungen
+Nachweise Eigenkapital
+Selbstauskunft (FK) / Vermögensübersicht
+Sonstige Ausgaben
+Sonstige Einkünfte
+Kreditvertrag Bank
+Kreditvertrag Fördermittel
+Kreditvertrag Verbund
+Kreditvertrag META
+Gehaltsabrechnungen / Bezügemitteilung
+Rentenbescheid
+Kindergeld
+Lohnersatzleistungen
+Mieteinnahmen / Pachteinnahmen
+Sonstige Einkünfte
+Fremddarlehen / Leasing- / Kreditraten
+Beitrag private KV/PV
+Unterhaltsverpflichtungen
+Sonstige Ausgaben
+SCHUFA-Auskunft
+Kontoauszüge (KK)
+Steuererklärung / Steuerbescheid
+Nachweise Eigenkapital
+Selbstauskunft (FK) / Vermögensübersicht
+Jahresabschluss / EÜR
+BWA inkl. Anlagen
+Sonstige Unterlagen (FK)
+Wirtschaftliche Verhältnisse - Sonstiges
+zzz löschen FK Nachweise Selbstauskunft / VSÜ
+zzz löschen FK Selbstauskunft / VSÜ
+zzz löschen Sonstige Unterlagen (gewerblich)
+zzz löschen Einkommen - Sonstiges
+zzz löschen Rating / Scoring
+Exposé
+Objektbilder / Fotos
+Bauzeichnungen / Grundrisse / Ansichten
+Nutz- / Wohnflächenberechnung
+Baubeschreibung
+Energieausweis
+Aufstellung SanReMo (bereits durchgeführt)
+zzz löschen Aufstellung SanReMo (geplant)
+SanReMo / Baukosten / Eigenleistungen
+Grundbuchauszug
+Flurkarte / Lageplan
+Kaufvertrag / Entwurf
+Bauantrag / Baugenehmigung
+Teilungserklärung / Aufteilungsplan
+Erbbaurechtsvertrag
+Nachweis aktueller Erbbauzins
+Bewilligung Dienstbarkeiten
+Wertermittlung / Gutachten
+Immobilienunterlagen - Sonstiges
+Grundschuld Zweckerklärungen
+Sicherungsvereinbarung (BSH)
+Privatschriftliche Abtretung (BSH / DZ HYP / R+V)
+Grundschuldbrief / Urkunden
+Vollstreckbare Ausfertigungen
+Rückgewährsansprüche / Einmalvalutierungserklärung
+Grundschuld / Hypothek - Sonstiges
+zzz löschen Sicherungsvereinbarung (BSH)
+Bürgschaft (Kunde)
+Bürgschaft (Sonstige)
+Sicherungsübereignung (Kfz)
+Sicherungsübereignung (Maschine / BGA)
+Sicherungsübereignung (Warenlager)
+Sicherungsübereignung (Sonstige)
+Abtretung (LV / RV / BSV)
+Abtretung (Forderungen)
+Abtretung (Globalzession)
+Verpfändung (eigene)
+Verpfändung (fremde)
+Sonstige Sicherheiten - Sonstiges
+Schriftverkehr (Bank)
+Schriftverkehr (Verbund)
+Schriftverkehr (Fördermittel / Sonderkredit)
+Schriftverkehr (Sonstige)
+Liquiditätsrechnung
+Abtretung (LV / RV / BSV) Bestätigung / Schriftverkehr
+Bürschaft Sonstige Schriftverkehr
+Sicherungsübereignung (Kfz) Rechnung / Kfz-Brief  / Schriftverkehr
+Sicherungsübereignung (Maschine / BGA) Rechnung / Seriennummer  / Schriftverkehr / Sonstiges
+Sicherungsübereignung (Warenlager) Schriftverkehr / Sonstiges
+Sicherungsübereignung (Sonstige) Schriftverkehr / Sonstiges
+Bürschaft (Kunde) Schriftverkehr / Sonstiges
+Abtretung (Forderungen) Bestätigung / Schriftverkehr / Sonstiges
+Abtretung (Globalzession) Bestätigung / Schriftverkehr / Sonstiges
+Verpfändung (fremde) Bestätigung / Schriftverkehr / Sonstiges
+Gebäudeversicherung
+Gebäudeversicherung
+Liquiditätsrechnung
+Renteninformation
+Renteninformation
+Mietzahlungen / Pachtzahlungen
+Hilfscontainer
+Mietzahlungen / Pachtzahlungen
+Unterhaltseinkünfte
+Unterhaltseinkünfte

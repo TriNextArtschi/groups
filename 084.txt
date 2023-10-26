@@ -1,0 +1,235 @@
+Beratungsprotokolle
+XXX_löschen_VVI
+Kalkulationen
+Kreditentscheidungsinformation / Vermittler
+XXX_löschen_Anschreiben / Deckblatt zum Antrag
+XXX_löschen_Kreditantrag
+XXX_löschen_Kreditentscheidungsinformationen
+XXX_löschen_Provisionsabrechnung
+Kreditprotokolle / Beschlüsse
+Aktenvermerke / Sonstiges
+Kreditzusage / Fördermittel
+Bank Kreditvertrag
+Verbundpartner Vertrag
+Verträge / Sonstiges
+Handelsregister-Auszug
+Selbstauskünfte / Vermögensübersicht
+Nachweis Vermögen
+Rating
+Nachweis Verbindlichkeiten
+Schufa Auskünfte
+Gehaltsnachweise
+Mieteinnahmen
+Steuererklärung
+Einkommen - Sonstiges
+Ausgaben - Sonstiges
+Grundbuchauszug
+Baubeschreibung
+Kaufvertrag
+Baugenehmigung/-anzeige/-antrag
+Aufstellung Baukosten / Eigenleistungen
+Flurkarte / Lageplan
+Bauplan / Bauzeichnung / Grundriss
+Wohnflächenberechnung / Kubatur
+Teilungserklärung
+Erbbaurechtsvertrag
+XXX_löschen_Bewilligung Dienstbarkeiten
+Expose / WE Gutachten extern
+Objektbilder / Fotos
+XXX_löschen_Expose
+Immobilienverwaltung - Sonstiges
+Grundschuld Zweckerklärungen
+Vollstreckbare Ausfertigungen / GS-Brief
+Sicherungsvereinbarung
+Abtretung Rückgewähransprüche
+Bürgschaftserklärung
+Anzeige, Bestätigungsschreiben Drittschuldner, Nachweise sonstige
+FoA/Verpf. Erklärung
+Fördermittel
+Bausparen
+Versicherungen
+Hypothekenbanken / Verbundbanken
+Verbund - Sonstiges
+Schriftverkehr
+Liquiditätsberechnungen
+Jahresabschluss / GuV
+BWA
+Auskünfte
+§18 KWG-Dokumentationen
+Groß- / Milionenkredite
+E/A Bilanz
+Rating
+Firmenkunde - Sonstiges
+XXX_löschen_1. ESIS
+SEPA Einzug
+Steuerbescheid
+Rentennachweise
+Liquirechnung
+Analysen
+Jahresabschluss
+BWA
+weitere Unterlagen / sonstiges
+Bürgschaft Saldenbestätigung
+Aktennotizen
+Prüfungsberichte extern
+Verwendungsnachweise
+Gesellschafts-Vertrag
+Genossenschaftsreg. Auszug
+Partnerschaftsreg. Auszug
+Sonstige Legi Firma
+Heiratsurkunde
+Betreuerausweis
+Ausweis
+Meldebescheinigung
+Sonstige Legi nat Pers
+FoA/Verpf. Drittschuldnerbestätigung
+Versicherungspolicen
+Forderungsaufstellung / Bestandslisten
+Nachweise und Saldenbestätigungen
+AB - erledigte Unterlagen
+Übergabe Unterlagen §18 KWG
+Einverständniserklärung Value AG
+Beratungsprotokolle
+Kalkulationen
+Kreditentscheidungsinformation / Vermittler
+Dokument. Prüfung Gruppe verbundener Kunden nach CRR
+#LÖSCHEN_Aktenvermerke / Sonstiges
+SEPA Einzug
+Kreditzusage / Fördermittel / Schriftverkehr
+Kreditverträge
+#LÖSCHEN_Verbundpartner Vertrag
+Bankbürgschaften
+Schriftverkehr
+Aktennotizen
+#LÖSCHEN_Prüfungsberichte extern
+Gesellschafts-Vertrag/Liste
+Genossenschaftsreg. Auszug
+Partnerschaftsreg. Auszug
+Gewerbeanmeldung / Sonstige Legi Firma
+Heiratsurkunde
+Betreuerausweis
+Ausweis
+Meldebescheinigung
+Sonstige Legi nat Pers
+Handelsregister-Auszug
+Jahresabschluss
+BWA
+Liquirechnung
+Selbstauskunft / Vermögensaufstellung / Bankenspiegel
+Gehaltsnachweise
+Rentennachweise
+#LÖSCHEN_Mieteinnahmen
+Sonstiges / Wirtschaftliche Unterlagen
+Vermögen / Schuldenaufstellung
+Weitere BWA
+Vermittlungsgeschäft
+Rating
+#LÖSCHEN_Schufa u. Creditreform Auskünfte
+Steuererklärung
+Steuerbescheid
+Analysen
+Grundbuchauszug
+Mietnachweis / Mietvertrag
+Kaufvertrag / Übergabevertrag
+Wertgutachten
+Versicherungsbestätigung
+#LÖSCHEN_Flurkarte / Lageplan
+#LÖSCHEN_Bauzeichnungen / Grundrisse
+#LÖSCHEN_Wohnflächenberechnung / Kubatur
+#LÖSCHEN_Teilungserklärung
+#LÖSCHEN_Erbbaurechtsvertrag
+Expose / WE Gutachten extern
+Objektbilder / Fotos
+Weitere Unterlagen
+Abtretung Rückgewähransprüche
+Zweckerklärung
+Sicherungsvereinbarung
+Vollstreckbare Ausfertigung / GS-Brief
+weitere Unterlagen / sonstiges
+FoA/Verpf. - Drittschuldnerbestätigung
+FoA/Verpf. - Versicherungspolicen
+FoA/Verpf. - Forderungsaufstellung / Bestandslisten
+FoA/Verpf. - Nachweise und Saldenbestätigungen
+BÜ - Bürgschaftserklärung
+BÜ - Saldenbestätigung / Schriftw. BüBank
+FoA/Verpf. - Anzeige, Bestätigungsschreiben Drittschuldner, Nachweise sonstige
+FoA/Verpf. - Erklärung
+#LÖSCHEN_Bausparen
+#LÖSCHEN_Versicherungen
+#LÖSCHEN_Hypothekenbanken / Verbundbanken
+#LÖSCHEN_Verbund - Sonstiges
+AB - erledigte Unterlagen
+#LÖSCHEN_Übergabe Unterlagen §18 KWG
+Einverständniserklärung Value AG
+Verwendungsnachweise
+Vereins-Satzung/Register
+Vereins-Gründungsprotokoll
+Gebäudeversicherung
+SÜ - Vertrag
+Rentabilitätsvorschau / Planrechnung
+Businessplan / Lebenslauf
+Gebäudeversicherung
+Steuerunterlagen
+Protokoll der Kundenerläuterung
+Bauunterlagen
+Steuerunterlagen
+Sonstiges
+Energieausweis
+Energieausweis
+Kreditprotokolle / Beschlüsse
+FoA/Verpf. - BSV Abtr. Baufi (enge ZE)
+SÜ - Kfz - Briefe
+SÜ - Versicherung
+SÜ - Versicherungsbestätigung
+SÜ - Warenbestandslisten
+Aktennotizen
+Rating
+Vermögen / Schuldenaufstellung
+BWA
+Weitere BWA
+Steuerbescheid
+Steuererklärung
+Gehaltsnachweise
+Sonstiges / Wirtschaftliche Unterlagen
+Vermittlungsgeschäft
+Liquirechnung
+Analysen
+Jahresabschluss
+Steuerunterlagen
+Selbstauskunft / Vermögensaufstellung / Bankenspiegel
+Sonstiges
+Rentennachweise
+Businessplan / Lebenslauf
+Rentabilitätsvorschau / Planrechnung
+AB - erledigte Unterlagen
+Einverständniserklärung Value AG
+Aktennotizen
+Rating
+Vermögen / Schuldenaufstellung
+BWA
+Weitere BWA
+Steuerbescheid
+Steuererklärung
+Gehaltsnachweise
+Sonstiges / Wirtschaftliche Unterlagen
+Vermittlungsgeschäft
+Liquirechnung
+Analysen
+Jahresabschluss
+Steuerunterlagen
+Selbstauskunft / Vermögensaufstellung / Bankenspiegel
+Sonstiges
+Rentennachweise
+Businessplan / Lebenslauf
+Rentabilitätsvorschau / Planrechnung
+Expose / WE Gutachten extern
+Kaufvertrag / Übergabevertrag
+Mietnachweis / Mietvertrag
+Weitere Unterlagen
+Grundbuchauszug
+Wertgutachten
+Objektbilder / Fotos
+Gebäudeversicherung
+Versicherungsbestätigung
+Bauunterlagen
+Energieausweis

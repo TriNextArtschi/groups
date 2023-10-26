@@ -1,0 +1,226 @@
+Beratung - Unterlagen - keine Archivierung
+Vermittlung - Unterlagen - keine Archivierung
+Kreditentscheidungsinformationen
+Aktenvermerke / Sonstiges
+Verbundpartner Vertrag
+Legitimation
+Selbstauskünfte  /Vermögensaufstellung
+Nachweis sonstiges Vermögen
+sonstige Unterlagen (Kontoauszug, etc.)
+Schufa Auskünfte
+Einkommensnachweis Lohn, Gehalt, Rente
+Steuererbescheid
+Einkommennachweise - Sonstiges
+Grundbuchauszug
+Grundstücksübertragungsvertrag
+Baugenehmigung
+Baukostenaufstellung
+Flurkarte / Lageplan
+Bauzeichnungen / Grundrisse
+Wohnflächenberechnung / Kubatur
+Teilungserklärung etc.
+Bewilligung Dienstbarkeiten
+Wertermittlung / Gutachten
+Objektbilder / Fotos
+Baubeschreibung
+Sonstige Unterlagen
+Grundschuld Zweckerklärungen
+Grundschuldbestellungsurkunde
+Verträge / Urkunden
+Grundschuld / Hypothek - Sonstiges
+Bürgschaften - Bonitätsunterlagen
+Abtretungen / Verpfändung
+zzz löschen Verpfändungen
+Fördermittelantrag
+Bausparen
+Versicherungen
+Hypothekenbanken / Verbundbanken
+Verbund - Sonstiges
+Schriftverkehr
+Kdf-Berechnung Mind
+Jahresabschluss
+BWA
+Auskünfte
+Planungsunterlagen
+EÜR / Gewinnermittlung
+Rating ???
+Sonstiges
+Mietverträge
+Messvorschriften / Bewertungsauftrag
+Gebäudeversicherung
+Steuererklärung
+Nachweis Immobilienvermögen
+Nachweis Fremdverbindlichkeiten
+Mietaufstellung
+Energieausweis
+Fördermittelantrag
+Beratung - Unterlagen - keine Archivierung
+Vermittlung - Unterlagen - keine Archivierung
+zzz löschen Kreditentscheidungsinformationen
+Fördermittelantrag
+Aktenvermerke / Sonstiges
+Grundstücksübertragungsvertrag
+Baubeschreibung
+Objektbilder / Fotos
+Grundbuchauszug
+Baugenehmigung
+Flurkarte / Lageplan
+Baukostenaufstellung
+Bauzeichnungen / Grundrisse
+Wohnflächenberechnung / Kubatur
+Mietverträge
+Mietaufstellung
+Teilungserklärung etc.
+Wertermittlung / Gutachten
+Bewilligung Dienstbarkeiten
+Energieausweis
+Messvorschriften
+Gebäudeversicherung
+Sonstige Unterlagen
+Selbstauskünfte  /Vermögensaufstellung
+Nachweis Immobilienvermögen
+Nachweis sonstiges Vermögen
+Nachweis Fremdverbindlichkeiten
+Einkommensnachweis Lohn, Gehalt, Rente
+Einkommennachweise - Sonstiges
+sonstige Unterlagen (Kontoauszug, etc.)
+Schufa Auskünfte
+Steuererklärung
+Steuerbescheid
+Bankenspiegel
+Jahresabschluss / GuV
+EÜR / Gewinnermittlung
+BWA inkl. SuSa und Vorjahresvergleich
+Ertragsvorschau
+zzz löschen Auskünfte
+zzz löschen Rating
+Sonstiges
+Gesellschaftsvertrag
+Bürgschaften - Bonitätsunterlagen
+Abtretungen/Verpfändungen - Bewertungsunterlagen
+SÜ - Bewertungsunterlagen
+Bausparen
+Versicherungen
+Hypothekenbanken / Verbundbanken
+Verbund - Sonstiges
+Schriftverkehr
+Einkommensnachweise künftig
+Beratung - Unterlagen - keine Archivierung
+Antragsunterlagen Verbund
+gesonderte Gewinnfeststellung (GbR)
+KdF-Berechnung
+Liquiditätsplan
+Businessplan
+Debitoren-/Kreditorenliste
+Warenbestandsliste
+Bürgschaftsbank
+Haftungsfreistellung / Ausfall-BÜ
+Handelsregister/Gewerbeanmeldung
+Gesellschafterliste (notariell)
+Notarieller Gründungsvertrag
+Satzung
+Transparenzregisterauszug
+Steuernummer
+Beratung - Unterlagen - keine Archivierung
+Vermittlung - Unterlagen - keine Archivierung
+Antragsunterlagen Verbund
+Kreditentscheidungsinformationen
+Fördermittelantrag
+Aktenvermerke / Sonstiges
+Selbstauskünfte  /Vermögensaufstellung
+Nachweis Immobilienvermögen
+Nachweis sonstiges Vermögen
+Nachweis Fremdverbindlichkeiten
+Einkommensnachweis Lohn, Gehalt, Rente
+Einkommensnachweise künftig
+Einkommennachweise - Sonstiges
+sonstige Unterlagen (Kontoauszug, etc.)
+Schufa Auskünfte
+Steuererklärung
+Steuererbescheid
+Grundstücksübertragungsvertrag
+Baubeschreibung
+Objektbilder / Fotos
+Grundbuchauszug
+Baugenehmigung
+Flurkarte / Lageplan
+Baukostenaufstellung
+Bauzeichnungen / Grundrisse
+Wohnflächenberechnung / Kubatur
+Mietverträge
+Mietaufstellung
+Teilungserklärung etc.
+Wertermittlung / Gutachten
+Bewilligung Dienstbarkeiten
+Energieausweis
+Messvorschriften / Bewertungsauftrag
+Gebäudeversicherung
+Sonstige Unterlagen
+Bürgschaften - Bonitätsunterlagen
+Abtretungen / Verpfändung
+Schriftverkehr
+Fördermittelantrag
+Aktenvermerke / Sonstiges
+Bürgschaften - Bonitätsunterlagen
+Abtretungen/Verpfändungen - Bewertungsunterlagen
+SÜ - Bewertungsunterlagen
+Bürgschaftsbank
+Haftungsfreistellung / Ausfall-BÜ
+Schriftverkehr
+Handelsregister/Gewerbeanmeldung
+Gesellschafterliste (notariell)
+Notarieller Gründungsvertrag
+Satzung
+Transparenzregisterauszug
+Steuernummer
+Gesellschaftsvertrag
+Angebot der Anlage
+Kaufvertrag der Anlage
+Garantiebestimmungen von Modulen und Wechselrichtern
+Ertrasgprognose / Wirtschaftlichkeitsberechnung
+Versicherungsnachweis
+Lichtbilder
+Wartungsvertrag
+Lageplan mit Standort der Anlage sowie eingezeichneten Modulen
+Baugenehmigung
+Einspeisezusage / -vertrag
+Netzverträglichkeitsprüfung / vorl. Leistungsreservierung
+Netzanschlusszusage
+Dierektvermarktervertrag
+Stromabnahmevertrag (PPA)
+Projektbeschreibung
+Beschlussfassung der kummunalen Entscheidungsgremien (Bebauungs- und Flächennutzungsplan)
+Nachweis der Zuschlagserteilung aus dem Ausschreibungsverfahren der Bundesnetzagentur
+Ferngasleitungsplan und Zustimmung des Gasbetreibers zur Bebauung
+Gestattungsvertrag zwischen Anlagenbetreiber und Grundstückseigentümer (bei Aufdachanlagen)
+Miet- und Pachtvertrag
+Grundbuchauszug der gepachteten Grundstücke
+Kabeltrassenplanung
+Ergebnis der Netzverträglichkeitsprüfung
+Projektübernahmevertrag
+Marktpreisgutachten für PPA-Verträge
+Rechtliches PPA-Gutachten
+DZ Privatbank - LuxCredit - keine Archivierung
+Konditionsermittlung - keine Archivierung
+Verwendungsnachweis
+Verwendungsnachweis
+Verwendungsnachweis
+BND - Bestätigung nach Durchführung
+BND - Bestätigung nach Durchführung
+BND - Bestätigung nach Durchführung
+Vertragsbündel
+Sonstige Unterlagen
+Post-Ident
+Grundschuldbestellung Verbund
+Antwortschreiben
+Bau- / Altlasten, Denkmalschutz
+Bau- / Altlasten, Denkmalschutz
+Bau- / Altlasten, Denkmalschutz
+Expose
+Bauantrag, Bauanzeige
+Expose
+Bauantrag, Bauanzeige
+Bauantrag, Bauanzeige
+Expose
+Aufenthaltserlaubnis
+Steuerberatervollmacht

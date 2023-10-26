@@ -1,0 +1,468 @@
+VVI
+Beratungsprotokoll
+Anschreiben / Deckblatt zum Antrag
+Kreditantrag / Aktenvermerk löschen
+Kreditentscheidungsinformationen/Kreditantrag/Aktenvermerk
+Konditions-/Margenberechnung
+Darlehensvertrag VB
+Fördermittel Darlehensvertrag
+Fördermittel Antrag/Zusage
+Güterstandserklärung
+Selbstauskunft
+Nachweise Fremdbankdarlehen
+Kontoauszug
+Gehaltsnachweis
+Einkommenssteuererklärung/-bescheid
+Einkommen - Sonstiges
+Ausgaben - Sonstiges
+Grundbuchauszug
+Baubeschreibung
+Kauf- /Übertragungsvertrag
+Baugenehmigung/-anzeige/-antrag
+(Bau-) Kostenaufstellung/ Eigenleistungen
+Flurkarte/Lageplan
+Bauzeichnungen/Grundrisse
+Wohn-/Nutzfläche
+Teilungserklärungen inkl. Aufteilungsplan und aller Nachträge
+Erbbaurechtsvertrag
+Eintragungsbewilligung für Rechte in Abt. II
+Wertermittlung/Gutachten
+Objektbilder
+Exposé
+Energieausweis
+Grundschuldzweckerklärungen
+Einmalvalutierungserklärung
+Negativerklärung
+Bürgschaften
+Abtretungen
+Verpfändungen
+Fördermittel
+Bausparen
+Versicherungen
+Hypothekenbanken / Verbundbanken
+Verbund - Sonstiges
+sonstiger Schriftverkehr
+Beratungsprotokoll
+VVI
+Beratung - Unterlagen
+Vermittlung - Unterlagen
+Anschreiben / Deckblatt zum Antrag
+Kreditantrag
+Kreditentscheidungsinformationen
+Provisionsabrechnung
+Kreditprotokolle
+Aktenvermerke / Sonstiges
+Kreditzusage
+Bank Kreditvertrag
+Verbundpartner Vertrag
+Verträge - Sonstiges
+Legitimation
+Selbstauskünfte
+Vermögensübersicht / Nachweis Kredite
+Rating / Scoring
+Kontoauszug
+Schufa Auskünfte
+Gehaltsnachweis
+Mieteinnahmen
+Steuererklärung / Bescheid
+Einkommen - Sonstiges
+Ausgaben - Sonstiges
+Grundbuchauszug
+Baubeschreibung
+Kaufvertrag
+Baugenehmigung/-anzeige/-antrag
+Aufstellung Baukosten / Eigenleistungen
+Flurkarte / Lageplan
+Bauzeichnungen / Grundrisse
+Wohnflächenberechnung / Kubatur
+Teilungserklärung
+Erbbaurechtsvertrag
+Bewilligung Dienstbarkeiten
+Wertermittlung / Gutachten
+Objektbilder / Fotos
+Expose
+Immobilienverwaltung - Sonstiges
+Grundschuld Zweckerklärungen
+Vollstreckbare Ausfertigungen
+Verträge / Urkunden
+Grundschuld / Hypothek - Sonstiges
+Bürgschaften
+Abtretungen
+Verpfändungen
+Fördermittel
+Bausparen
+Versicherungen
+Hypothekenbanken / Verbundbanken
+Verbund - Sonstiges
+Schriftverkehr
+Liquiditätsberechnungen
+Jahresabschluss / GuV
+BWA
+Auskünfte
+§18 KWG-Dokumentationen
+Groß- / Milionenkredite
+E/A Bilanz
+Rating
+Firmenkunde - Sonstiges
+ESIS I
+Bearbeitungsbogen löschen
+Änderungsvereinbarung
+MHB Darlehensvertrag
+BSH Darlehensvertrag
+DZ Hyp Darlehensvertrag
+R+V Darlehensvertrag
+Schufa
+Personalausweis
+Reisepass
+Heiratsurkunde
+Renteninformation
+Rentenbescheid
+Arbeitsvertrag/Arbeitgeberbestätigung
+Elterngeldbescheid
+Besichtigungsvollmacht
+Vermessungs- und Katasterunterlagen
+Baulastenverzeichnis
+Altlastenkataster
+sonstige Objektunterlagen
+Mietverträge/-aufstellung
+Kundenbürgschaften
+Abtretung Bausparvertrag
+Abtretung Lebensversicherung
+Abtretung Guthaben löschen
+Verpfändung Wertpapier
+Verpfändung Guthaben
+Überweisung (KP / Ablösung) löschen
+Vermögensnachweise
+Wohngebäudeversicherung
+Bau- und Werkvertrag
+Grundschuldbestellung löschen
+Vertragsunterlagen löschen
+Informationsbogen
+Kreditprotokoll löschen
+Kaufvertragsentwurf
+Realrechtsbestätigung löschen
+Darlehensvertrag
+ESIS
+Überweisung löschen
+Empfangsbestätigung
+Informationsbogen
+Grundschuldzweckerklärung
+Besichtigungsvollmacht
+Erläuterungsbroschüre
+Auszahlungsflyer
+Ablösevollmacht
+Anschreiben Drittsicherungsgeber
+AGB
+Besichtigungsbericht
+Kreditprotokoll löschen
+Modellrechnung löschen
+Bearbeitungsbogen löschen
+Modellrechnung/Marge
+Kreditantrag/Votum M u. MF/Votum Controlling
+Beschlussunterlagen Förderbank löschen
+HR-Auszüge löschen
+Güterstandserklärung löschen
+Heiratsurkunde löschen
+Personalausweis löschen
+Reisepass mit Meldebescheinigung löschen
+Schufa
+Darlehensvertrag VB
+Änderungsvereinbarung löschen
+SEPA-Mandat löschen
+LR Darlehensvertrag/Zusagen löschen
+Checkliste Hochrisikopositionen (VB und Fördermittel)
+Fördermittel Darlehensvertrag
+Checkliste Hochrisikopositionen (LR, KfW) löschen
+Beihilfebescheinigungen/ De-minimis löschen
+Arbeitsvertrag / Arbeitgeberbestätigung löschen
+Ausgaben - Sonstiges löschen
+ESt-Erklärung
+sonstige Unterlagen
+Elterngeldbescheid löschen
+Gehaltsnachweis
+Kontoauszug
+Nachweise Fremdbankdarlehen
+Rentenbescheid löschen
+Renteninformation
+Selbstauskunft inkl. Nachweise
+Vermögensanalyse
+(Bau-) Kostenaufstellung/Eigenleistungen
+Altlastenkataster
+Baulastenverzeichnis
+Baubeschreibung
+Baugenehmigung/-anzeige/-antrag
+Bau- und Werkvertrag
+Bauzeichnungen/Grundrisse
+Besichtigungsbericht
+Besichtigungsvollmacht
+Energieausweis
+Erbbaurechtsvertrag
+Exposé
+Flurkarte/Lageplan
+Grundbuchauszug
+Kaufvertragsentwurf
+Kauf- /Übertragungsvertrag
+Mietverträge/-aufstellung
+Objektbilder
+sonstige Objektunterlagen
+Realrechtsbestätigung löschen
+Teilungserklärung inkl. Aufteilungsplan und aller Nachträge
+Eintragungsbewilligung für Rechte in Abt. II
+Vermessungs- und Katasterunterlagen
+Wertermittlung/Gutachten
+Wohn-/Nutzfläche
+Wertindikation
+Grundschuldzweckerklärungen
+Einmalvalutierungserklärung löschen
+Negativerklärung
+Abtretung Bausparvertrag
+Abtretung Lebensversicherung
+Abtretung Guthaben löschen
+Verpfändung Wertpapier
+Kundenbürgschaften
+Verpfändung Guthaben
+Grundschuldbestellung löschen
+sonstiger Schriftverkehr
+Überweisung (KP / Ablösung) löschen
+Vertragsunterlagen löschen
+Quick Check xxlöschen
+Beschlussunterlagen Konsortialpartner löschen
+sonstige Registerauszüge/ Unterlagen zu Registerauszügen löschen
+Gesellschaftsvertrag löschen
+Protokolle/Beschlüsse zu Gesellschaftsverträgen xxlöschen
+Gesellschafterliste xxlöschen
+Creditreform xxlöschen
+GvK Prüfbogen
+Beteiligungen xxlöschen
+Organigramm/Verflechtungsinfo
+Transparenzregister löschen
+Unternehmenskaufvetrag xxlöschen
+Bankauskunft
+Fördermittel Antrag/Zusage
+Kreditvertrag Konsortialkunde löschen
+sonstige Vertragsunterlagen Konsortialpartner löschen
+WKR Beratungsverzicht xxlöschen
+Beratungsverzicht
+WKR-Beratungsprotokoll/-verzicht, ESIS I, VVI
+Beratungsverzicht löschen
+ESIS I löschen
+VVI löschen
+ESt-Bescheid
+Lebenslauf
+Rating
+Jahresabschluss
+E/Ü-Rechnung
+bwA
+Offene Posten Listen xxlöschen
+Kontennachweis xxlöschen
+Planzahlen
+Miet-/ Pachtverträge
+Steuerberater-Vollmacht löschen
+Mietaufstellung
+Bilanzanalyse
+KDF-Berechnung
+Liquiditätsrechnung xxlöschen
+Investitionskostenaufstellung
+Gebäudeversicherung löschen
+Gebäude-/Bauversicherungen
+Abgeschlossenheitsbescheinigung löschen
+Standortanalyse löschen
+Bautenstandsberichte
+Objektkalkulation löschen
+Baugrundgutachten
+Freistellungsbescheinigung löschen
+Bürgschaften von Dritten (NBB, R+V, DZ ..) inkl. Antrag
+Sicherungsübereignung löschen
+Sicherheitenpoolvertrag löschen
+Strukturierungsentgelt löschen
+Rückgewähransprüche
+sonstige Steuerunterlagen löschen
+Bilanzanalyse
+bwA
+ESt-Erklärung
+ESt-Bescheid
+sonstige Unterlagen
+E/Ü-Rechnung
+Gehaltsnachweis
+Bearbeitungsbogen löschen
+Beschlussunterlagen Konsortialpartner
+Quick Check
+Modellrechnung/Marge
+Kreditantrag/Votum M/MF u. Votum Controlling
+Kreditprotokoll löschen
+Modellrechnung löschen
+Term-Sheet
+Bankauskunft
+Beteiligungen löschen
+Creditreform löschen
+Gesellschafterliste löschen
+Gesellschaftsvertrag löschen
+Güterstandserklärung löschen
+GvK Prüfbogen
+Heiratsurkunde löschen
+HR-Auszüge löschen
+Organigramm/Verflechtungsinfo
+Personalausweis löschen
+Protokolle/Beschlüsse zu Gesellschaftsverträgen löschen
+Reisepass löschen
+sonstige Registerauszüge/ Unterlagen zu Registerauszügen löschen
+Schufa
+Transparenzregister löschen
+Unternehmenskaufvetrag löschen
+Änderungsvereinbarung löschen
+Darlehensvertrag VB
+Beihilfebescheinigungen/ De-minimis
+Beratungsprotokoll/-verzicht, ESIS I, VVI
+Beratungsverzicht löschen
+Checkliste Hochrisikopositionen (VB und Fördermittel)
+Checkliste Hochrisikopositionen (LR, KfW) löschen
+ESIS I löschen
+Fördermittel Darlehensvertrag
+Konsortialvertrag
+Kreditvertrag Konsortialkunde
+Fördermittel Antrag/Zusage
+SEPA-Mandat löschen
+sonstige Vertragsunterlagen Konsortialpartner
+VVI löschen
+WKR Beratungsverzicht löschen
+Arbeitsvertrag / Arbeitgeberbestätigung löschen
+Ausgaben - Sonstiges löschen
+Bilanzanalyse
+bwA
+ESt-Erklärung
+ESt-Bescheid
+sonstige Unterlagen
+Elterngeldbescheid löschen
+E/Ü-Rechnung
+Gehaltsnachweis
+Gesamtkalkulation
+Gesellschafterdarlehen löschen
+Jahresabschluss
+KDF-Berechnung
+Kontoauszug
+Kontennachweis löschen
+Lebenslauf
+Liquiditätsrechnung löschen
+Miet-/Pachtverträge
+Nachweise Fremdbankdarlehen
+Offene Posten Listen löschen
+Planzahlen
+Rating
+Rentenbescheid löschen
+Renteninformation
+Selbstauskunft inkl. Nachweise
+sonstige Steuerunterlagen löschen
+Steuerberater-Vollmacht löschen
+Vermögensanalyse
+Abgeschlossenheitsbescheinigung löschen
+Altlastenkataster
+Bautenstandsberichte
+Baugrundgutachten
+(Bau-) Kostenaufstellung/Eigenleistungen
+Baubeschreibung
+Baugenehmigung/-anzeige/-antrag
+Baulastenverzeichnis
+Gebäude-/Bauversicherungen
+Bauzeichnungen/Grundrisse
+Bau- und Werkvertrag
+Besichtigungsbericht
+Besichtigungsvollmacht
+Energieausweis
+Kaufvertragsentwurf
+Erbbaurechtsvertrag
+Exposé
+Flurkarte/Lageplan
+Gebäudeversicherung löschen
+Grundbuchauszug
+Kauf- /Übertragungsvertrag
+Mietverträge/-aufstellung
+Objektbilder
+Objektkalkulation
+Realrechtsbestätigung löschen
+sonstige Objektunterlagen
+Standortanalyse
+Teilungserklärungen inkl. Aufteilungsplan und aller Nachträge
+Eintragungsbewilligung für Rechte in Abt. II
+Vermessungs- und Katasterunterlagen
+Wertermittlung/Gutachten
+Wohn-/Nutzfläche
+Wertindikation
+Abtretung Bausparvertrag
+Abtretung Guthaben löschen
+Abtretung Lebensversicherung
+Verpfändung Wertpapiere
+Bürgschaften von Dritten (NBB, R+V, DZ ..) inkl. Antrag
+Einmalvalutierungserklärung löschen
+Freistellungsbescheinigung
+Grundschuldzweckerklärungen
+Kundenbürgschaften
+Negativerklärung
+Sicherungsübereignung löschen
+Sicherheitenpoolvertrag
+Verpfändung Guthaben
+Grundschuldbestellung löschen
+sonstiger Schriftverkehr
+Strukturierungsentgelt
+Überweisung (KP / Ablösung) löschen
+Vertragsunterlagen löschen
+Abtretung Forderungen
+Abtretung Forderungen
+Abtretung Forderung
+SÜ Warenlager - Lageplan
+SÜ Warenlager - Warenbestandsliste
+SÜ Warenlager - OPOS Liste
+SÜ Warenlager - bwA
+SÜ Warenlager - Pachtvertrag
+SÜ Warenlager - Grundbuchauszug
+SÜ Warenlager - Versicherungsnachweis
+SÜ Maschinen/KFZ etc. - Lageplan
+SÜ Maschinen/KFZ etc. - Versicherungsnachweis
+SÜ Maschinen/KFZ etc. - Pachtvertrag
+SÜ Maschinen/KFZ etc. - Grundbuchauszug
+Wertindikation
+Anhänge zum Fördermitteldarlehen
+Investitionskostenaufstellung
+Jahresabschluss
+KDF-Berechnung
+Kontoauszug
+Lebenslauf
+Mietaufstellung
+Miet-/Pachtverträge
+Nachweise Fremdbankdarlehen
+Planzahlen
+Rating
+Renteninformation/-bescheid
+Selbstauskunft inkl. Nachweise
+Altlastenkataster
+Bautenstandsbericht
+Baugrundgutachten
+(Bau-) Kostenaufstellung/Eigenleistungen
+Baubeschreibung
+Baugenehmigung/-anzeige/-antrag
+Baulastenverzeichnis
+Gebäude-/Bauversicherungen
+Bauzeichnungen/Grundrisse
+Bau- und Werkvertrag
+Besichtigungsbericht
+Besichtigungsvollmacht
+Energieausweis
+Kaufvertragsentwurf
+Kauf-/Übertragungsvertrag
+Erbbaurechtsvertrag
+Exposé
+Flurkarte/Lageplan
+Grundbuchauszug
+Mietverträge/-aufstellung
+Objektbilder
+sonstige Objektunterlagen
+Teilungserklärungen inkl. Aufteilungsplan und aller Nachträge
+Eintragungsbewilligung für Rechte in Abt. II
+Vermessungs- und Katasterunterlagen
+Wertindikation
+Wertermittlung/Gutachten
+Wohn-/Nutzfläche
+Objektkalkulation
+Standortanalyse
+Vermögensanalyse
+Referenzwertdokument
+Anschreiben Legitimation IDNow

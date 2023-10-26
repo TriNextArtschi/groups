@@ -1,0 +1,191 @@
+VVI Plattformgeschäft Eigenberatung
+Unterlagen Finanzierungsvermittlung (z.B. Übergabeschreiben)
+unterz. Selbstauskunft inkl. Schufa Einverständnis
+Legitimationspapier (inkl. ggfs. Meldebescheinigung)
+Arbeitsvertrag
+akt. BWA inkl. SuSa
+zzz löschen Schufa Hinweis
+akt. Gehaltsabrechnung / Bezügemitteilung
+Nachweis Mieteinnahmen (Kein Beleihungsobjekt)
+Einkommensteuererklärung
+zzz löschen Einkommen - Sonstiges
+sonstige Einnahmen / Ausgaben
+Grundbuchauszug
+Baubeschreibung
+Kaufvertragsentwurf / beurk. Kaufvertrag
+Baugenehmigung
+Aufstellung Bau- / Sanierungskosten inkl. Eigenleistungen
+Flurkarte / Lageplan
+Bauzeichnungen / Grundrisse
+Wohnflächenberechnung / Kubatur
+Teilungserklärung
+Erbbaurechtsvertrag
+Werkvertrag (Bauträger o. Generalunternehmer)
+Wertermittlung / Gutachten
+Objektbilder / Besichtigungsbericht
+Exposé
+Wohngebäudeversicherung
+Fördermittelantrag
+Bausparen
+Versicherungen
+Hypothekenbanken / Verbundbanken
+Sonstiges
+Beratungsprotokoll
+VVI
+Beratung - Unterlagen
+Vermittlung - Unterlagen
+Anschreiben / Deckblatt zum Antrag
+Kreditantrag
+Kreditentscheidungsinformationen
+Provisionsabrechnung
+Kreditprotokolle
+Aktenvermerke / Sonstiges
+Kreditzusage
+Bank Kreditvertrag
+Verbundpartner Vertrag
+Verträge - Sonstiges
+Legitimation
+Selbstauskünfte
+Vermögensübersicht / Nachweis Kredite
+Rating / Scoring
+Kontoauszug
+Schufa Auskünfte
+Gehaltsnachweis
+Mieteinnahmen
+Steuererklärung / Bescheid
+Einkommen - Sonstiges
+Ausgaben - Sonstiges
+Grundbuchauszug
+Baubeschreibung
+Kaufvertrag
+Baugenehmigung/-anzeige/-antrag
+Aufstellung Baukosten / Eigenleistungen
+Flurkarte / Lageplan
+Bauzeichnungen / Grundrisse
+Wohnflächenberechnung / Kubatur
+Teilungserklärung
+Erbbaurechtsvertrag
+Bewilligung Dienstbarkeiten
+Wertermittlung / Gutachten
+Objektbilder / Fotos
+Expose
+Immobilienverwaltung - Sonstiges
+Grundschuld Zweckerklärungen
+Vollstreckbare Ausfertigungen
+Verträge / Urkunden
+Grundschuld / Hypothek - Sonstiges
+Bürgschaften
+Abtretungen
+Verpfändungen
+Fördermittel
+Bausparen
+Versicherungen
+Hypothekenbanken / Verbundbanken
+Verbund - Sonstiges
+Schriftverkehr
+Liquiditätsberechnungen
+Jahresabschluss / GuV
+BWA
+Auskünfte
+§18 KWG-Dokumentationen
+Groß- / Milionenkredite
+E/A Bilanz
+Rating
+Firmenkunde - Sonstiges
+Eigenkapitalnachweise
+zzz löschen Sonstiges
+Bauanzeige / - antrag
+Sonstiges
+Energieausweis
+Mietverträge
+Sonstige Unterlagen zu wV
+VSÜ / Selbstauskunft mit Nachweisen/Haftbasis
+zzz löschen Vermögensübersicht / Nachweis Kredite
+zzz löschen Rating
+zzz löschen Kontoauszug
+zzz löschen Schufa Auskünfte
+Gehaltsnachweise / Lohnsteuerbescheinigung
+Mieteinnahmen (Kein Beleihungsobjekt)
+Einkommensteuererklärung / -berechnung
+Einkommensteuerbescheid
+zzz löschen Einkommen - Sonstiges
+zzz löschn Ausgaben - Sonstiges
+Grundbuchauszug
+Kaufvertragsentwurf / beurk. Kaufvertrag
+Bauzeichnungen / Grundrisse
+Wohnflächenberechnung / Kubatur
+Baubeschreibung
+Objektbilder / Besichtigungsbericht
+Wertermittlung / Gutachten
+Baugenehmigung
+Bauanzeige / - antrag
+Aufstellung Bau- / Sanierungskosten inkl. Eigenleistungen
+Flurkarte / Lageplan
+Teilungserklärung
+Erbbaurechtsvertrag
+Werkvertrag (Bauträger o. Generalunternehmen)
+Mietverträge
+Expose
+Wohngebäudeversicherung
+Energieausweis
+Sonstiges
+zzz löschen Bürgschaften
+Sonstiges
+zzz löschen Verpfändungen
+Fördermittelantrag
+Bausparen
+Versicherungen
+Verbunddarlehen
+Sonstiges
+Schriftverkehr
+BWA inkl. SuSa
+Jahresabschluss
+Gewinnermittlung / EÜR
+SÜ KfZ
+SÜ Maschinen
+SÜ Warenlager
+LR-Antrag
+BzA-ID
+BzA-ID
+weiteres Immobilienvermögen (Kein Beleihungsobjekt)
+Schriftverkehr
+SEPA-Mandate
+BWE + Besichtigungsbericht
+Grundbuchauszüge
+FVN
+Energieausweis
+Mietverträge
+Baugenehmigung
+sonstige Objektunterlagen
+sonstige wirtsch. Unterlagen
+Valutierungsaufträge inkl. Checklisten & Rechnungen
+sonstiger Schriftverkehr
+Jahresabschluss / GuV / Bilanz
+Renteninformation / Rentenbescheid
+Nachweis private Krankenversicherung
+Einkommensteuerbescheid
+Objektbilder
+Irrelevante Unterlagen
+Vermögen-/ Verbindlichkeitsnachweis
+Kaufvertrag
+Bau-/ Altlastenverzeichnis
+Schufa-Einverständniserklärung
+Globalzession inkl. Debitorenaufstellungen
+Forderungsabtretungen
+Abtretung LV, RV, BSV
+Verpfändungen
+Auswertungen (KDF/JA/BWA)
+Planzahlen
+Rating
+Personalausweis
+Reisepass/ausl. Ausweis inkl. Meldebescheinigung
+Gewerbeanmeldung
+Geburtsurkunde
+Legitimation sonstige Dokumente
+HR-Auszug
+Gesellschaftervertrag
+Gesellschafterliste
+Transparenz-Register
+Konzernspinne / Organigramm (kein wB Nachweis)
+Legitimation sonstige Dokumente
+Schufa-Einverständniserklärung

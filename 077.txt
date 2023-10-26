@@ -1,0 +1,288 @@
+Beratungsprotokoll
+VVI
+Beratung - Unterlagen
+Vermittlung - Unterlagen
+Anschreiben / Deckblatt zum Antrag
+Kreditantrag
+Kreditentscheidungsinformationen
+Provisionsabrechnung
+Kreditprotokolle
+Aktenvermerke / Sonstiges
+Kreditzusage
+Bank Kreditvertrag
+Verbundpartner Vertrag
+Verträge - Sonstiges
+Legitimation
+Selbstauskünfte
+Vermögensübersicht / Nachweis Kredite
+Rating / Scoring
+Kontoauszug
+Schufa Auskünfte
+Gehaltsnachweis
+Mieteinnahmen
+Steuererklärung / Bescheid
+Einkommen - Sonstiges
+Ausgaben - Sonstiges
+Grundbuchauszug
+Baubeschreibung
+Kaufvertrag
+Baugenehmigung/-anzeige/-antrag
+Aufstellung Baukosten / Eigenleistungen
+Flurkarte / Lageplan
+Bauzeichnungen / Grundrisse
+Wohnflächenberechnung / Kubatur
+Teilungserklärung
+Erbbaurechtsvertrag
+Bewilligung Dienstbarkeiten
+Wertermittlung / Gutachten
+Objektbilder / Fotos
+Expose
+Immobilienverwaltung - Sonstiges
+Grundschuld Zweckerklärungen
+Vollstreckbare Ausfertigungen
+Verträge / Urkunden
+Grundschuld / Hypothek - Sonstiges
+Bürgschaften
+Abtretungen
+Verpfändungen
+Fördermittel
+Bausparen
+Versicherungen
+Hypothekenbanken / Verbundbanken
+Verbund - Sonstiges
+Schriftverkehr
+Liquiditätsberechnungen
+Jahresabschluss / GuV
+BWA
+Auskünfte
+§18 KWG-Dokumentationen
+Groß- / Milionenkredite
+E/A Bilanz
+Rating
+Firmenkunde - Sonstiges
+Vermögensaufstellung
+Beratungsprotokoll
+Beratungsprotokoll
+Beratungs-VVI
+Beratung - Unterlagen / Schriftwechsel / Kalkulation (Modellrechnung)
+zzz - entfält Vermittlung - Unterlagen
+zzz - entfällt Anschreiben / Deckblatt zum Antrag
+zzz - entfällt Kreditantrag
+zzz - entfällt Kreditentscheidungsinformationen
+zzz - entfällt Provisionsabrechnung
+zzz - entfällt Kreditprotokolle
+Aktenvermerke / Sonstiges
+zzz - entfällt Kreditzusage
+zzz - entfällt Bank Kreditvertrag
+Verbundpartner Vertrag ( RuV /BSH)
+zzz entfällt Verträge - Sonstiges
+Legitimation Ausweis/Reisepass
+Vermögensaufstellung
+Selbstauskünfte
+Unterlegung Vermögensaufstellung
+Rating (Immo-Rating)
+Kontoauszug
+zzz - entfällt Schufa Auskünfte
+Gehaltsnachweis / Arbeitsverträge
+Mieteinnahmen
+Steuererklärung
+Einkommen - Sonstiges
+Ausgaben - Sonstiges
+Grundbuchauszug
+zzz - entfällt Baubeschreibung
+Kaufvertrag / Übergabevertrag
+Baugenehmigung/-anzeige/-antrag
+Aufstellung Baukosten / Eigenleistungen
+Flurkarte / Lageplan
+Baubeschreibung / Bauzeichnungen / Grundrisse
+Wohnflächenberechnung / Kubatur
+Teilungserklärung
+Erbbaurechtsvertrag
+zzz - entfällt Bewilligung Dienstbarkeiten
+Wertermittlung / Gutachten (externe)
+Objektbilder / Besichtigungsbericht
+Expose
+Immobilienverwaltung - Sonstiges
+zzz - entfällt Grundschuld Zweckerklärungen
+zzz - entfällt Vollstreckbare Ausfertigungen
+zzz - entfällt Verträge / Urkunden
+Grundschuld / Hypothek - Sonstiges / Verträge / Urkunden
+Bürgschaften RuV/BüBa
+Abtretungen Bausparvertrag
+Verpfändungen
+Fördermittel
+Bausparen
+Versicherungen
+Hypothekenbanken / Verbundbanken
+Verbund - Sonstiges
+Schriftverkehr
+zzz - entfällt Liquiditätsberechnungen
+Jahresabschluss / EÜR
+BWA mit SuSa
+Auskünfte
+zzz - entfällt §18 KWG-Dokumentationen
+Groß- / Milionenkredite
+zzz - entfällt E/A Bilanz
+zzz - entfällt Rating
+Firmenkunde - Sonstiges
+Checkliste FK
+Legitimation Gesellschaftervertrag
+Legitimation Handeslregister
+Abtretung Lebensversicherung
+Globalzession
+Finanzierungsbestätigung
+Steuerbescheid
+Rentenbescheid/-nachweis
+Steuerberatervollmacht
+vorläufiger Jahresabschluss
+Planzahlen / Rentavorschau / Businessplan
+gesonderte Feststellung
+Rangrücktrittserklärung
+Kapitaldienstberechnung (ausführl. u. vereinfacht)
+Jahresabschlussanalyse (agree21Bilanzanalyse) (wird nicht in FCMS archiviert)
+Bilanzkommentierung
+BWA Analyse
+Analyse Planzahlen
+ECF Ermittlung (ohne ausf. Analyse)
+Ablösevollmacht / Kündigung Darlehen
+ESIS I
+Gebäudeversicherungsnachweis
+Vermittlerunterlagen
+Rentenbescheid/-nachweis
+Vermögensaufstellung
+Unterlegung Vermögensaufstellung
+Steuererklärung
+Steuerbescheid
+vorläufiger Jahresabschluss
+gesonderte Feststellung
+Jahresabschluss / EÜR
+BWA
+Kapitaldienstberechnung (ausführl. u. vereinfacht)
+Jahresabschlussanalyse (agree12Bilanzanalyse)
+Bilanzkommentierung
+Bilanz - /BWA Analyse Quick
+Analyse Planzahlen
+ECF Ermittlung (ohne ausf. Analyse)
+Plausibilisierung der Vermögensaufstellung
+Plausibilisierung der Vermögensaufstellung
+Sicherungsübereignung
+Modellrechnung für Immo-Rating-Erstellung
+Ausweiskopie (wird nicht an FCMS übertragen)
+Beratungsprotokoll / Alle WKR-Unterlagen
+Konditionendoku / Marge
+Ablösung Fremdbank
+VVI für Darlehensvermittlung und Beratung Immobiliar-Verbraucherdarlehensverträge
+Verwendungsnachweise
+Baukostenaufstellung
+Baupläne/Baubeschreibung ggf. Baugenehmigung / Flächen-u Kubaturberechnungen
+Bautenstand / Nachweise / Lichtbilder Bauphase etc.
+Beleihungswertermittlung
+Gutachten / Expose / Energieausweis
+Kaufvertrag / Übergabevertrag
+Lageplan / Flurkarte
+Lichtbilder
+Verträge über Wohnrecht / Nießbrauch / beschr. Pers. Dienstbarkeiten / Grunddienstbarkeiten / Bewertung von Vorla
+Sonstige Objektunterlagen (z.B. Teilungserklärung...)
+Erbbaurechtsvertrag
+Grundbuchauszug
+Gebäudeversicherungsnachweis
+Sonstige Nachweise Forderungsabtretung
+Nachweis SÜ
+R+V Ausfallbürgschaft
+Nachweis / Berechnung Lebens-/Rentenversicherung
+Nachweis Bausparvertrag
+Nachweis Guthaben Drittbank
+Nachweis WP / Depot Drittbank
+Antrag BüBa
+R + V Fix und Flex
+Antrag / Bestätigung Energieberater / Nachweis Hausbankgespräch
+Jahresabschluss / EÜR
+Analyse Jahresabschluss / EÜR
+BWA mit SuSa
+Planzahlen
+Analyse BWA / Planzahlen
+ESt.-Erklärung incl. ESt.-Berechnung
+ESt.-Bescheid
+Gehaltsnachweise
+VA / Selbstauskunft
+VA / Selbstauskunft Analyse
+Schufa-Auskunft
+Erhaltene Auskünfte / Creditreform
+Nachweise V + V
+KDF / Liqui-Vergleich
+Nachweise Vermögens- / Schuldenaufstellung / Eigenkapital
+Sonstige Nachweise (z.B. Fremdbankverbindungen, Versicherungen o.ä.)
+Schriftverkehr (z.B. Nachweis Authentizität etc.)
+Beratungsprotokoll / Alle WKR-Unterlagen
+Konditionendoku / Marge
+Ablösung Fremdbank
+VVI für Darlehensvermittlung und Beratung Immobiliar-Verbraucherdarlehensverträge
+Verwendungsnachweise
+Baukostenaufstellung
+Baupläne/Baubeschreibung ggf. Baugenehmigung / Flächen-u Kubaturberechnungen
+Bautenstand / Nachweise / Lichtbilder Bauphase etc.
+Beleihungswertermittlung
+Gutachten / Expose / Energieausweis
+Kaufvertrag / Übergabevertrag
+Lageplan / Flurkarte
+Lichtbilder
+Verträge über Wohnrecht / Nießbrauch / beschr. Pers. Dienstbarkeiten / Grunddienstbarkeiten / Bewertung von Vorla
+Sonstige Objektunterlagen (z.B. Teilungserklärung...)
+Erbbaurechtsvertrag
+Grundbuchauszug
+Gebäudeversicherungsnachweis
+Sonstige Nachweise Forderungsabtretung
+Nachweis SÜ
+R+V Ausfallbürgschaft
+Nachweis / Berechnung Lebens-/Rentenversicherung
+Nachweis Bausparvertrag
+Nachweis Guthaben Drittbank
+Nachweis WP / Depot Drittbank
+Antrag BüBa
+R + V Fix und Flex
+Antrag / Bestätigung Energieberater / Nachweis Hausbankgespräch
+Jahresabschluss / EÜR
+Analyse Jahresabschluss / EÜR
+BWA mit SuSa
+Planzahlen
+Analyse BWA / Planzahlen
+ESt.-Erklärung incl. ESt.-Berechnung
+ESt.-Bescheid
+Gehaltsnachweise
+VA / Selbstauskunft
+VA / Selbstauskunft Analyse
+Schufa-Auskunft
+Erhaltene Auskünfte / Creditreform
+Nachweise V + V
+KDF / Liqui-Vergleich
+Nachweise Vermögens- / Schuldenaufstellung / Eigenkapital
+Sonstige Nachweise (z.B. Fremdbankverbindungen, Versicherungen o.ä.)
+Schriftverkehr (z.B. Nachweis Authentizität etc.)
+Beratungsprotokoll
+KDF und Liquivergleich inkl. Nachweise
+Selbstauskunft / VA (WKR)
+Schufa-Auskunft
+Konditionendoku / Marge
+Eigenkapitalnachweis
+Ablösung Fremdbank
+VVI für Darlehensvermittlung und Beratung Immobiliar-Verbraucherdarlehensverträge
+Verwendungsnachweise
+Baukostenaufstellung
+Baupläne/Baubeschreibung ggf. Baugenehmigung / Flächen-u Kubaturberechnungen
+Bautenstand / Nachweise / Lichtbilder Bauphase etc.
+Beleihungswertermittlung
+Gutachten / Expose / Energieausweis
+Kaufvertrag / Übergabevertrag
+Lageplan / Flurkarte
+Lichtbilder
+Verträge über Wohnrecht / Nießbrauch / beschr. Pers. Dienstbarkeiten / Grunddienstbarkeiten / Bewertung von Vorla
+Sonstige Objektunterlagen (z.B. Teilungserklärung...)
+Erbbaurechtsvertrag
+Grundbuchauszug
+Gebäudeversicherungsnachweis
+Nachweis / Berechnung Lebens-/Rentenversicherung
+Nachweis Bausparvertrag
+Nachweis Guthaben Drittbank
+Nachweis WP / Depot Drittbank
+R + V
+Antrag / Bestätigung Energieberater / Nachweis Hausbankgespräch

@@ -1,0 +1,408 @@
+Beratungsprotokoll
+VVI
+Beratung - Unterlagen
+Vermittlung - Unterlagen
+Anschreiben / Deckblatt zum Antrag
+Kreditantrag
+Kreditentscheidungsinformationen
+Provisionsabrechnung
+Kreditprotokolle
+Aktenvermerke / Sonstiges
+Kreditzusage
+Bank Kreditvertrag
+Verbundpartner Vertrag
+Verträge - Sonstiges
+Legitimation
+Selbstauskünfte
+Vermögensübersicht / Nachweis Kredite
+Rating / Scoring
+Kontoauszug
+Schufa Auskünfte
+Gehaltsnachweis
+Mieteinnahmen
+Steuererklärung / Bescheid
+Einkommen - Sonstiges
+Ausgaben - Sonstiges
+Grundbuchauszug
+Baubeschreibung
+Kaufvertrag
+Baugenehmigung/-anzeige/-antrag
+Aufstellung Baukosten / Eigenleistungen
+Flurkarte / Lageplan
+Bauzeichnungen / Grundrisse
+Wohnflächenberechnung / Kubatur
+Teilungserklärung
+Erbbaurechtsvertrag
+Bewilligung Dienstbarkeiten
+Wertermittlung / Gutachten
+Objektbilder / Fotos
+Expose
+Immobilienverwaltung - Sonstiges
+Grundschuld Zweckerklärungen
+Vollstreckbare Ausfertigungen
+Verträge / Urkunden
+Grundschuld / Hypothek - Sonstiges
+Bürgschaften
+Abtretungen
+Verpfändungen
+Fördermittel
+Bausparen
+Versicherungen
+Hypothekenbanken / Verbundbanken
+Verbund - Sonstiges
+Schriftverkehr
+Liquiditätsberechnungen
+Jahresabschluss / GuV
+BWA
+Auskünfte
+§18 KWG-Dokumentationen
+Groß- / Milionenkredite
+E/A Bilanz
+Rating
+Firmenkunde - Sonstiges
+Beratungsprotokoll IVD / VR-Finanzplan
+VVI Darlehensvermittlung und Beratung - IVD
+Vermittlerunterlagen
+Verwendungszwecknachweise
+Eigenmittelnachweise
+zzz_löschen__Antrag öffentliche Mittel
+Aktennotiz
+CBS Margenberechnung
+Checkliste Kreditleitplanken und sonstige Checklisten (Rating/Nachhaltigkeit)
+Registerauszug
+Gesellschaftsvertrag
+Gesellschafterliste
+Organigramm
+Checkliste wirtschaftl. Abhängigkeit
+Gewerbeanmeldung
+externes Rating
+Schufa-Auskunft
+Creditreform-Auskunft
+Bank-an-Bank-Auskunft
+Selbstauskunft + Nachweise
+Vermögensaufstellung + Nachweise
+Steuererklärung
+Steuerbescheid
+Lohn-/Gehaltsnachweis
+Rentenbescheid / Renteninformation
+Mietverträge / Mietaufstellungen
+Feststellungserklärung
+Feststellungsbescheid
+Sonstige Unterlagen
+BWA inkl. SuSa
+Bilanz
+Konzernabschluss
+Planrechnung / Businessplan
+Bankenspiegel
+KDF-Berechnung
+Überleitungsrechnung zur privaten Liqui-Rechnung
+Kapitalbelassungserklärung / Rangrücktritt Gesellschafter
+Steuerberatervollmacht
+Forführungsprognose
+sonstige Unterlagen
+Grundbuchauszüge / Änderungsmitteilungen
+Lageplan
+Objektfotos / Besichtigungsprotokoll / Objektbeschreibung
+Expose
+Teilungserklärung / Teilungspläne
+Mietaufstellung / Mietverträge
+Kaufvertrag / Kaufvertragsentwurf
+Energieausweis / Bedarfsausweis
+Gebäudeversicherung
+Baukosten-/ Sanierungs-/ Modernisierungskosten
+Werkvertrag / Baubeschreibung
+Rechte Abteilung II (Bewilligungsurkunden) / sonstige Vorlasten
+Erbbaurechtsvertrag
+Beleihungswertermittlung / Gutachten
+Freistellungserklärung / Bürgschaft MaBV
+sonstige Objektunterlagen
+Gesprächsprotokoll Vertrieb / Kredit
+Einwilligungserklärung
+MaBV-Prüfbericht
+Flächenaufstellung (nach WoFIV, DIN 277)
+Ansichten, Grundrisse, Schnitte
+Nachweis zu Eigenleistungen
+Auskunft Baulastenverzeichnis / Altlastenverzeichnis
+Nachweis für Forderung
+Urkunden / Policen
+Vermögensaufstellung + Nachweise
+SCHUFA-Klausel
+SCHUFA-Auskunft
+Nachweis zum Sicherungsgut
+Lageplan
+Versicherungsnachweis
+Schriftverkehr
+Unternehmenspräsentation
+Vertraulichkeitserklärung
+Antrag öffentliche Mittel
+Term-Sheet
+Unterlagen Derivat
+KfW - Bestätigung zum Antrag
+Unterlagen zu Hausbankenwechsel
+Angaben zur Objektbesichtigung
+Baugenehmigung / Bauantrag
+zzz_löschen__Baugenehmigung / Bauantrag
+Beratungsprotokoll IVD / VR-Finanzplan
+VVI Darlehensvermittlung und Beratung - IVD
+Vermittlerunterlagen
+Verwendungszwecknachweise
+Eigenmittelnachweise
+Aktennotiz
+CBS Margenberechnung
+Checkliste zu Kreditleitplanken und sonstige Checklisten (Rating / Nachhaltigkeit usw.)
+Gesprächsprotokoll Vertrieb / Kredit
+Einwilligungserklärungen
+Antrag öffentliche Mittel
+KfW - Bestätigung zum Antrag
+Unterlagen zu Hausbankenwechsel
+Schufa-Auskunft
+Bank-an-Bank-Auskunft
+Selbstauskunft + Nachweise
+Vermögensaufstellung + Nachweise
+Steuererklärung
+Steuerbescheid
+Lohn-/Gehaltsnachweis
+Rentenbescheid / Renteninformation
+Mietverträge / Mietaufstellungen
+Feststellungserklärung
+Feststellungsbescheid
+sonstige Unterlagen
+Grundbuchauszüge / Änderungsmitteilungen
+Flächenaufstellung (nach WoFIV, DIN 277)
+Ansichten, Grundrisse, Schnitte
+Lageplan
+Objektfotos / Besichtigungsprotokoll / Objektbeschreibung
+Angaben zur Objektbesichtigung
+Expose
+Teilungserklärung / Teilungspläne
+Mietaufstellung / Mietverträge
+Kaufvertrag / Kaufvertragsentwurf
+Energieausweis / Bedarfsausweis
+Gebäudeversicherung
+Baukosten- / Sanierungs-/ Modernisierungskosten
+Nachweis zu Eigenleistungen
+Werkvertrag / Baubeschreibung
+Baugenehmigung / Bauantrag
+Rechte Abteilung II (Bewilligungsurkunden) / sonstige Vorlasten
+Auskunft Baulastenverzeichnis / Altlastenverzeichnis
+Erbbaurechtsvertrag
+Beleihungswertermittlung / Gutachten
+Freistellungserklärung / Bürgschaft MaBV
+sonstige Objektunterlagen
+Nachweis für Forderung
+Urkunden / Policen
+Vermögensaufstellung + Nachweise
+SCHUFA-Klausel
+SCHUFA-Auskunft
+Nachweis zum Sicherungsgut
+Lageplan
+Versicherungsnachweis
+Schriftverkehr
+EÜR
+Gehaltsabrechnung
+Selbstauskunft
+Eigenkapitalnachweis
+Mietaufstellung (kapitaldienstbezogen)
+Baulastenauskunft / Altlastenauskunft
+Grundbuchauszug
+Kaufvertragsentwurf
+Kaufvertrag / Übergabevertrag / Schenkungsvertrag
+Exposé
+Baukosten- bzw. Modernisierungskostenaufstellung
+Eigenleistungsnachweis bei Eigenleistungen > 50 TEUR vom Architekt unterschrieben
+Baugesuch
+Baubeschreibung
+amtlicher Lageplan bzw. Flurkarte
+Wohn-/Nutzflächenberechnung plus Kubaturberechnung
+Grundrisse
+Verträge zu wertmindernden Rechte aus Abteilung II des Grundbuches
+Mietaufstellung (objektbezogen)
+Lichtbilder
+Teilungserklärung (wenn Bestandsobjekt eine ETW ist)
+Weiterleitungskredite
+letzte Einkommenssteuererklärung
+letzter Einkommensteuerbescheid
+Beratungsdokumentation
+Modellrechnung / Kalkulation
+Kindergeldnachweis
+Renteninformation
+Wirtschaftliche Zusammenrechnung (Checkliste)
+Legitimationsunterlage
+Erledigte Kreditunterlagen
+Versicherungspolice
+Gehaltsabrechnung
+Selbstauskunft
+Eigenkapitalnachweis
+Mietaufstellung (kapitaldienstbezogen)
+Baulastenauskunft / Altlastenauskunft
+Grundbuchauszug
+Kaufvertragsentwurf
+Kaufvertrag / Übergabevertrag / Schenkungsvertrag
+Exposé
+Baukosten- bzw. Modernisierungskostenaufstellung
+Eigenleistungsnachweis bei Eigenleistungen > 50 TEUR vom Architekt unterschrieben
+Baugesuch
+Baubeschreibung
+amtlicher Lageplan bzw. Flurkarte
+Wohn-/Nutzflächenberechnung plus Kubaturberechnung
+Grundrisse
+Verträge zu wertmindernden Rechte aus Abteilung II des Grundbuches
+Mietaufstellung (objektbezogen)
+Lichtbilder
+Teilungserklärung (wenn Bestandsobjekt eine ETW ist)
+Weiterleitungskredite
+letzte Einkommenssteuererklärung
+letzter Einkommensteuerbescheid
+Beratungsdokumentation
+Modellrechnung / Kalkulation
+Kindergeldnachweis
+Renteninformation
+Wirtschaftliche Zusammenrechnung (Checkliste)
+Legitimationsunterlage
+Erledigte Kreditunterlagen
+Versicherungspolice
+Gehaltsabrechnung
+Gehaltsabrechnung
+Selbstauskunft
+Eigenkapitalnachweis
+Mietaufstellung (kapitaldienstbezogen)
+Baulastenauskunft / Altlastenauskunft
+Grundbuchauszug
+Kaufvertragsentwurf
+Kaufvertrag / Übergabevertrag / Schenkungsvertrag
+Exposé
+Baukosten- bzw. Modernisierungskostenaufstellung
+Eigenleistungsnachweis bei Eigenleistungen > 50 TEUR vom Architekt unterschrieben
+Baugesuch
+Baubeschreibung
+amtlicher Lageplan bzw. Flurkarte
+Wohn-/Nutzflächenberechnung plus Kubaturberechnung
+Grundrisse
+Verträge zu wertmindernden Rechte aus Abteilung II des Grundbuches
+Mietaufstellung (objektbezogen)
+Lichtbilder
+Teilungserklärung (wenn Bestandsobjekt eine ETW ist)
+Weiterleitungskredite
+letzte Einkommenssteuererklärung
+letzter Einkommensteuerbescheid
+Beratungsdokumentation
+Modellrechnung / Kalkulation
+Kindergeldnachweis
+Renteninformation
+Wirtschaftliche Zusammenrechnung (Checkliste)
+Legitimationsunterlage
+Erledigte Kreditunterlagen
+Versicherungspolice
+Gehaltsabrechnung
+Selbstauskunft
+Eigenkapitalnachweis
+Mietaufstellung (kapitaldienstbezogen)
+Baulastenauskunft / Altlastenauskunft
+Grundbuchauszug
+Kaufvertragsentwurf
+Kaufvertrag / Übergabevertrag / Schenkungsvertrag
+Exposé
+Baugesuch
+Baubeschreibung
+amtlicher Lageplan bzw. Flurkarte
+Wohn-/Nutzflächenberechnung plus Kubaturberechnung
+Grundrisse
+Verträge zu wertmindernden Rechte aus Abteilung II des Grundbuches
+Lichtbilder
+Mietaufstellung (objektbezogen)
+Baukosten- bzw. Modernisierungskostenaufstellung
+Eigenleistungsnachweis bei Eigenleistungen > 50 TEUR vom Architekt unterschrieben
+Beratungsdokumentation
+Modellrechnung / Kalkulation
+Kindergeldnachweis
+Renteninformation
+Wirtschaftliche Zusammenrechnung (Checkliste)
+Erledigte Kreditunterlagen
+Versicherungspolice
+Gehaltsabrechnung
+Selbstauskunft
+Eigenkapitalnachweis
+Mietaufstellung (kapitaldienstbezogen)
+Lichtbilder (bei Bestandsobjekt)
+Baulastenauskunft / Altlastenauskunft
+Grundbuchauszug
+Kaufvertragsentwurf
+Kaufvertrag / Übergabevertrag / Schenkungsvertrag
+Exposé
+Teilungserklärung
+Baugesuch
+Baubeschreibung
+amtlicher Lageplan bzw. Flurkarte
+Wohn-/Nutzflächenberechnung plus Kubaturberechnung
+Grundrisse
+Verträge zu wertmindernden Rechte aus Abteilung II des Grundbuches
+Mietaufstellung (objektbezogen)
+Beratungsdokumention
+Modellrechnung / Kalkulation
+Kindergeldnachweis
+Renteninformation
+Wirtschaftliche Zusammenrechnung (Checkliste)
+Erledigte Kreditunterlagen
+Versicherungspolice
+Gehaltsabrechnung
+Selbstauskunft
+Eigenkapitalnachweis
+Grundbuchauszug
+Kaufvertragsentwurf
+Kaufvertrag / Übergabevertrag / Schenkungsvertrag
+amtlicher Lageplan bzw. Flurkarte
+Verträge zu wertmindernden Rechte aus Abteilung II des Grundbuches
+Baulastenauskunft / Altlastenauskunft
+Beratungsdokumentation
+Modellrechnung / Kalkulation
+Kindergeldnachweis
+Renteninformation
+Wirtschaftliche Zusammenrechnung (Checkliste)
+Erledigte Kreditunterlagen
+Versicherungspolice
+Gehaltsabrechnung
+Selbstauskunft
+Versicherungspolice
+Gesprächsprotokoll Vetrieb/Kredit
+Gesprächsprotokoll Vetrieb/Kredit
+Gesprächsprotokoll Vetrieb/Kredit
+Gesprächsprotokoll Vetrieb/Kredit
+Gesprächsprotokoll Vertrieb/Kredit
+Checkliste wirtsch. Anhängigkeit
+Gesellschafterliste
+Gesellschaftervertrag/Satzung
+Organigramm/Firmenstruktur
+Registerauszug
+Legitimation
+Schriftverkehr Kunde
+Sonstiges Formular
+Geldwäschegesetz
+CSB Margenber.+Modellrechnung
+SSD Legal Opinion
+SSD Geschäftsbestätigung
+SSD Übertragungszertifikat
+SSD Zeichnungsbestätigung
+SSD Zahlstellenvereinbarung
+SSD Pricing
+SSD Schuldscheindarlehen
+SSD Überprüfung durch Recht
+sonstige Aufträge/Info zum Konto
+Kreditprotokoll
+Rating
+SSD Term-Sheet
+SSD Checkliste
+SSD Unternehmenspräsentation
+Bearbeitungs-/Kontrollbogen
+Aktennotizen
+Auszahlungsnotiz (gelber Zettel)
+Information über DL-Nehmer
+SSD Schriftverkehr
+Jahresabschluss
+Jahreabschluss Auswertung
+Konzernabschluss
+Konzernabschluss Auswertung
+KD-Berechnung
+So. wirt. Unterlagen
+Planrechung
+BWA/SuSa
+Bankenspiegel

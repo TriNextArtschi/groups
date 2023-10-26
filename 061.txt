@@ -1,0 +1,301 @@
+IVD Beratungsprotokoll (212500)
+Europäisches Standardisiertes Merkblatt (ESIS-Merkblatt) (212570)
+VVI für als Präsenzgeschäft geschlossene Verträge zum Immobiliar-Förderdarlehen (212580)
+VVI für Darlehensvermittlung und Beratung - Immobiliar-Verbraucherdarlehensverträge (212510)
+Schriftverkehr mit Kunde / Kreditnehmer (Kreditakte) (988005)
+Akten-/Gesprächsnotizen allgemein (988023)
+Modellrechnung / Angebot an Kunden / Restschuldberechnung (988097)
+Kalkulation Kundenzins (988039)
+Kreditprotokoll, Beschlüsse (200440)
+Schriftverkehr/Gesprächsnotizen Verträge (Kreditvertrag) (988040)
+Kreditzusage (211070)
+Immobiliar-Verbraucherdarlehensvertrag gemäß § 491 BGB (210250)
+Schriftverkehr/Gesprächsnotizen Verträge (Kreditvertrag) (988040)
+Empfangsbestätigung (212520)
+Legitimation (999755)
+Selbstauskunft - nicht-WKR-relevant (Kundenverwaltung) (212170)
+Vermögensaufstellung (999501b)
+Rating Baudarlehen (988056)
+Analyse der Vermögensaufstellung (999527)
+Schufa-Hinweis (340200)
+Einkommensnachweis Lohn/Gehalt/Rente (988029)
+Einkommensnachweis Sonstige (Mietverträge, ...) (988030)
+Einkommensteuererklärung (988032)
+Auswertung Einnahmen- und Ausgabenrechnung (999539)
+Einkommensteuer - Kommentare, Analysen (988140)
+Grundbuchauszug (988045)
+Baubeschreibung / Exposé (988109)
+Kauf-, Vermietungs- und Rückkaufvertrag (999971)
+Baugenehmigung (988155)
+Baukostenaufstellung (988041)
+Flurkarte / Lageplan (988044)
+Bauzeichnung (988042)
+Ermittlung Wohnfläche / umbauter Raum (999502)
+Teilungserklärung (988151)
+Bauantrag (988154)
+Notarverträge (988010)
+Wertgutachten Dritter (988048)
+Objektbilder / Fotos (988046)
+Beleihungswertermittlung - agree21-Ausdruck (988043)
+Sonstige Objektunterlagen (988047)
+GS Zweckerklärung (enge ZE) (220020)
+Vollstreckbare Ausfertigungen (220410)
+Grundschuldbrief (998247)
+Grundschuld / Hypothek - Sonstiges (220470)
+Bürgschaft für Einzelforderungen (enge ZE) (230030)
+Abtretung einer Forderung (enge ZE) (232010)
+Verpfändung einer Forderung (weite ZE) (231050)
+KfW - Separate Dokumentation der Antragstellerunterschrift (998074)
+Der Bausparer wünscht (BSH) (998244)
+Verzichtserklärung RKV (998057)
+Antrag R+V-Kautionsversicherung (KTV-Geno) (988171)
+Schriftverkehr mit Verbundpartnern (988007)
+LÖSCHEN_Sonstiger Schriftverkehr Kundenverwaltung (Passiv-Dokument)
+Liquiditätsberechnung (988094)
+Jahresabschluss (988035)
+LÖSCHEN_Betriebswirtschaftliche Auswertung
+Auskünfte (215140)
+§18 KWG-Dokumentationen (999534)
+Gesellschafterverträge, Gesellschafterliste, Protokolle zu Ges.-Versammlungen, Vereinssatzungen (999809)
+E/A Bilanz (999539)
+Rating (999560)
+LÖSCHEN_Firmenkunde - Sonstige Unterlagen
+Beratungsprotokoll
+VVI
+Beratung - Unterlagen
+Vermittlung - Unterlagen
+Anschreiben / Deckblatt zum Antrag
+Kreditantrag
+Kreditentscheidungsinformationen
+Provisionsabrechnung
+Kreditprotokolle
+Aktenvermerke / Sonstiges
+Kreditzusage
+Bank Kreditvertrag
+Verbundpartner Vertrag
+Verträge - Sonstiges
+Legitimation
+Selbstauskünfte
+Vermögensübersicht / Nachweis Kredite
+Rating / Scoring
+Kontoauszug
+Schufa Auskünfte
+Gehaltsnachweis
+Mieteinnahmen
+Steuererklärung / Bescheid
+Einkommen - Sonstiges
+Ausgaben - Sonstiges
+Grundbuchauszug
+Baubeschreibung
+Kaufvertrag
+Baugenehmigung/-anzeige/-antrag
+Aufstellung Baukosten / Eigenleistungen
+Flurkarte / Lageplan
+Bauzeichnungen / Grundrisse
+Wohnflächenberechnung / Kubatur
+Teilungserklärung
+Erbbaurechtsvertrag
+Bewilligung Dienstbarkeiten
+Wertermittlung / Gutachten
+Objektbilder / Fotos
+Expose
+Immobilienverwaltung - Sonstiges
+Grundschuld Zweckerklärungen
+Vollstreckbare Ausfertigungen
+Verträge / Urkunden
+Grundschuld / Hypothek - Sonstiges
+Bürgschaften
+Abtretungen
+Verpfändungen
+Fördermittel
+Bausparen
+Versicherungen
+Hypothekenbanken / Verbundbanken
+Verbund - Sonstiges
+Schriftverkehr
+Liquiditätsberechnungen
+Jahresabschluss / GuV
+BWA
+Auskünfte
+§18 KWG-Dokumentationen
+Groß- / Milionenkredite
+E/A Bilanz
+Rating
+Firmenkunde - Sonstiges
+Darlehensvertrag (211090)
+Einkommensteuerbescheid (988031)
+GS Zweckerklärung (weite ZE) (220060)
+Abtretung einer Forderung (weite ZE) (232000)
+Ablösung von Verbindlichkeiten (342120)
+Allgemein-Verbraucherdarlehensvertrag (210450)
+KfW-Immobiliar-Verbraucherdarlehensvertrag (988074)
+Objektangaben durch den Kunden (999551)
+Energieausweis (988165)
+Vollmacht Value AG (998154)
+Brandversicherungsnachweis (988058)
+Vermietung (988108)
+Baulastenverzeichnis (988157)
+Altlastenauszug (988164)
+Objektbesichtigung (998256)
+Vollmacht zum Grundbuch (988127)
+Risikoeinschätzung Naturgefahren (988166)
+Objekt Schriftverkehr (988136)
+Grundstücksbelastung Anmeldung Feuerversicherung (223020)
+Geno FBS (988034)
+Sonstige Unterlagen zur Abtretung (u.a. Bewertungsunterlagen) (988014)
+Policen/Urkunden (988017)
+Bestätigung der Abtretungs-/Verpfändungsanzeige (988079)
+Schriftverkehr/Gesprächsnotizen Abtretungen/Verpfändungen (988129)
+Bürgschaft für Ansprüche aus der Geschäftsverbindung (230000)
+Bürgschaft Ausfallbürgschaft (enge ZE) (230240)
+Beratungsprotokoll BQ-Immobilie WKR (212500)
+Protokoll der Kundenerläuterung (999589)
+Bonitätsunterlagen zu Bürgen (988080)
+Schriftverkehr/Gesprächsnotizen Bürgschaften (988131)
+Antrag auf Übernahme einer Ausfallbürgschaft (988145)
+Ausfallbürgschaften / Ausfallgarantien Dritter / Patronatserklärung / Standardmeta DZ BANK (988146)
+Organigramme (988025)
+BWA (988028)
+EÜR (988033)
+LÖSCHEN_Geno FBS
+LÖSCHEN_Jahresabschluss
+Planungsunterlagen (988036)
+Schriftverkehr/Gesprächsnotizen wirtschaftliche Verhältnisse (988037)
+Creditreform (988135)
+Sonstige Unterlagen Firmenkunden (988137)
+BWA - Kommentierung (988139)
+EÜR - Kommentierung (988142)
+Jahresabschluss - Kommentierung (988144)
+Checkliste und Prüfungen zur Bildung von Kreditnehmereinheiten aufgrund wirtschaftl. Abhängigkeit (999500)
+Investitions- und Finanzplanung (999508)
+Planung kurzfristige Liquidität (999509)
+Kapitaldienstberechnung (999540)
+Vollmacht Steuerberater / WP (999563)
+Ganzheitliche Kapitaldienstfähigkeitsbrechnung (999851)
+Auskunft von Dritten (999812)
+Antragsunterlagen Programmkredit inkl. Anlagen (988050)
+Schriftverkehr/Gesprächsnotizen Programmkredit (Fördermittel) (988051)
+Abruf Programmkredit (988114)
+Verwendungsnachweis Programmkredit (988117)
+Zusage Programmkredit (988118)
+Schriftverkehr/Gesprächsnotizen Grundpfandrechte (988011)
+Sicherungsvereinbarung (988012)
+Löschungsbewilligung Kunde/Notar (997543)
+Pfandentlassung Kunde / Notar (997554)
+GS Einmalvalutierungserklärung (999574)
+Bodenrichtwertauskunft (988107)
+Schriftverkehr Ämter/Notare/Banken (988136)
+Brandversicherung Schriftwechsel (988112)
+Marktwertermittlung (988167)
+Aufteilungsplan (988168)
+LÖSCHEN_Einverständniserklärung im Rahmen der Immobilienbesichtigung (998154)
+Beleihungswertermittlung - Dokumentieren der Prüfung (999529)
+Schriftverkehr - Sonstige (988006)
+Kreditentscheidungsinformation (988126)
+Fahrzeugbrief (988016)
+SÜ Sonstige Unterlagen (Lageskizzen, Fotos, Bewertungsunterlagen ...) (988019)
+Schriftverkehr/Gesprächsnotizen Sicherungsübereignungen (988130)
+Sonstige Unterlagen zur Verpfändung (Bewertungsunterlagen, ...) (988021)
+Schuldanerkenntnis und Schuldübernahme (998226)
+Rating (999560)
+Aufklärungshinweise zu Tilgungsersatzinstrumenten (212180)
+Abtretung von Forderungen Drittschuldnerbenachrichtigung/-bestätigung (232050)
+Mantelabtretung (weite ZE) (232100)
+Globalabtretung (weite ZE) (232140)
+Abtretung von Guthabenforderungen gegen eine andere Bank (weite ZE) (234000)
+Abtretung von Rechten aus privater Rentenversicherung - Einzelforderung (weite ZE) (234010)
+Abtretung von Rechten aus LV (weite ZE) (234020)
+Abtretung von Rechten aus LV - für eine Einzelforderung (234030)
+Abtretung von Rechten aus LV - im Fall des Todes (weite ZE) (234040)
+Abtretung der Ansprüche aus einem Bausparvertrag (enge ZE) (234090)
+Abtretung der Ansprüche aus einem Bausparvertrag (weite ZE) (234110)
+Anzeige nach § 29 Abs. 1 der Einkommensteuer-Durchführungsverordnung (234120)
+Abtretung von Guthabenforderungen gegen eine andere Bank (enge ZE) (234130)
+Abtretung von Rechten aus LV - im Fall des Todes (enge ZE) (234140)
+Abtretung von Rechten aus privater Rentenversicherung (enge ZE) (234160)
+Abtretung von Rechten aus privater Rentenversicherung (weite ZE) (234170)
+Abtretung von Rechten aus LV (enge ZE) (234180)
+Abtretung von Ansprüchen aus Stromlieferungsverträgen (enge ZE) (235000)
+Abtretung von Ansprüchen aus Stromlieferungsverträgen (weite ZE) (235010)
+Abtretungsanzeige/Verpfändungsanzeige (235020)
+Abtretung von Miet-/Pachtzinsforderungen (weite ZE) (235030)
+Abtretung von Miet-/Pachtzinsforderungen (enge ZE) (235040)
+Abtretung von Milchgeldforderungen (235070)
+VVI für AGR- und Fernabsatzverträge zum Förderkredit (146500)
+VVI für AGR- und Fernabsatzverträge zum Immobiliar-Förderkredit (146540)
+Europäische Standardinformation für Verbraucherkredite (212550)
+GS Zweckerkl. mit Abtr.der Rückgewähransprüche/Übern.pers.Haftung (enge ZE) (220030)
+GS Zweckerklärung zur Sicherung der Geschäftsverbindung (220050)
+GS Zweckerklärung mit Abtr. Rückgewähranspr./Übernahme pers. Haftung (weite ZE) (220060)
+GS/Hypothek Zustimm. Grundstückseigent. Belast./Veräußer. Erbbaurecht (220170)
+GS/Hypothek Stillhalteerklärung des Grundstückseigentümers (220180)
+GS Best. einer Brief- od. Buch-GS ohne Zwangsvollstreckungsunterwerf. (220400)
+GS Best.Brief-/Buchgr.Schuld m.Übern.pers.Haft.sow.dingl./pers.Zwgs.V (220410)
+GS/Hypothek Abtretung (222000)
+GS Abtretung von Rückgewähransprüchen und Eigentümergrundschulden (weite ZE) (222020)
+GS Abtretung v. Rückgewähranspr. und Eigentümergrundschuld (enge ZE) (222030)
+GS Haftungserweiternde Abtretung v. Rückgewähransprüchen (weite ZE) (222040)
+GS Haftungserweiternde Abtretung v. Rückgewähransprüchen (enge ZE) (222050)
+GS/Hypothek Anz. der Abtret. der Rückgew.Anspr. e. vor-/gleichr. GS (222070)
+GS Bestät. d. Anz. d. Abtret. d. Rückgewähranspr. d. d. GSgläub. (weite ZE) (222080)
+GS Bestät. d. Anz. d. Abtret. d. Rückgewähranspr. d. d. GSgläub. (enge ZE) (222090)
+GS nachträgl. Ausschluss des gesetzl. Löschungsanspruchs (222100)
+GS Abtretung Eigentümergrundschuld (222110)
+GS/Hypothek Pfandentlassung einzelner Flurstücke (224010)
+GS/Hypothek Einräumung des Vorrangs (224030)
+GS/Hypothek Löschungsbewilligung (224040)
+SÜ-Vertrag mit Übergabeersatz (weite ZE) (240000)
+SÜ-Vertrag mit Übergabeersatz (enge ZE) (240010)
+SÜ-Vertrag Warenlager mit wechselndem Bestand/Forderungsabtretung (240100)
+SÜ-Vertrag Raumsicherungsübereign. best. Gegenst. (weite ZE) (240120)
+SÜ-Vertrag Raumsicherungsübereign. best. Gegenst. (enge ZE) (240130)
+SÜ-Vertrag Raumsicherungsübereignung (Energiegewinnung ohne Biogas) (weite ZE) (240220)
+SÜ-Vertrag Raumsicherungsübereignung (Energiegewinnung ohne Biogas) (enge ZE) (240230)
+Sicherungsschein für Kreditgeber / Leasinggeber (241030)
+SÜ-Vertrag Kraftfahrzeug (weite ZE) (242000)
+SÜ-Vertrag Kfz-Lager m. wechs. Best. u. Forderungsabtretung (weite ZE) (242010)
+SÜ-Vertrag Kfz-Lager mit wechselndem Bestand (242020)
+SÜ-Vertrag Kraftfahrzeug (enge ZE) (242030)
+Kraftfahrzeug-Sicherungsschein Antrag a. Ausstellung e. Kfz-Sicherungsscheins (242040)
+Verpfändung von Guthabenforderungen (weite ZE) (231000)
+Verpfändung von Wertpapieren einschl. Abtretung v. Nebenabreden (weite ZE) (231020)
+Verpfändung einer Forderung (enge ZE) (231040)
+Verpfändung von Guthabenforderungen (enge ZE) (231130)
+Verpfändung von Wertpapieren einschl. Abtretung v. Nebenrechten (enge ZE) (231150)
+Immobiliar-Verbraucherdarlehensvertrag sowie R+V-RatenschutzPolice/RatensicherheitsPolice (210270)
+Kreditvertrag für Kontokorrentkredite sowie R+V-Kontoschutzpolice (211030)
+Kreditvertrag für Kontokorrentkredite (211060)
+Darlehensvertrag mit R+V RatenschutzPolice/R+V-RatensicherheitsPolice (211100)
+Kreditrahmenvertrag (211110)
+Änderungsvereinbarung für einen Darlehensvertrag nach Ablauf der Sollzinsbindungsfrist (212530)
+Sollzinssicherungs-Vereinbarung für einen Darlehensvertrag (212540)
+Kreditvertrag für Avalkredite (213000)
+Abtretung der Ansprüche aus einem Bausparvertrag (Baufinanzierung) (enge ZE) (234100)
+Auszahlungsnachweis (988081)
+Auszahlungsnachweis (988081)
+Schriftverkehr/Notizen Wirtschaftliche Verhältnisse (988037)
+Grundstücksbelastung elementar Gebäudeversicherung (223040)
+Selbstauskunft - WKR-relevant (Kontoverwaltung) (212170)
+Bausparberechnung (988100)
+DMS
+Anlage zur Selbstauskunft (212270)
+Jahresabschluss - Auswertung (988143)
+EÜR - Auswertung (988141)
+Analyse wirtschaftliche Unterlagen (988027)
+Abtret. von Rechten aus LV oder Rentenversicherungen - Erweiterung der engen Zweckerklärung - (234080)
+Grundschuld Zweckerklärung (enge Fassung) mit Abtretung der Rückgewähransprüche (220040)
+R+V-RatenschutzPolice (722952)
+R+V-Beratungsprotokoll (722948)
+Empfangsbestätigung Ratenschutzpolice (722945)
+Referenzwert-Dokument (212590)
+ESIS-Merkblatt Fördermittel (211220)
+LÖSCHEN
+LÖSCHEN
+Empfangsbestätigung zum Förderdarlehensvertrag (211210)
+Förderdarlehensvertrag (211200)
+Transparenzregister (999842)
+Forwarddarlehen - Beratungsdokumentation (999577)
+Verbraucherinformationen Tod/AU RatenschutzPolice (722973)
+IPID Tod/AU RatenschutzPolice (722970)
+Allgemeine Versicherungsbedingungen Tod/AU RatenschutzPolice (722939)
+Merkblatt zur Datenverarbeitung (722960)

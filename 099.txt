@@ -1,0 +1,83 @@
+Finanzierungsvorschlag/Beratungsprotokoll
+VVI
+Beratung - sonstige Unterlagen
+Vermittlung - sonstige Unterlagen
+Finanzierungsangebot allgemein
+Kreditantrag
+Kreditentscheidungsinformationen
+ZZZ Provisionsabrechnung löschen
+Kreditprotokolle
+Aktenvermerke / Sonstiges zum Kreditprotokoll
+Programm-/Förderkredite
+Darlehensvertrag IVD
+Änderung Einzugskonto Darlehen
+Änderungsvereinbarung Darlehen
+zzz Legitimation löschen
+Bankauskunft
+VSA/Selbstauskunft
+Rating / Scoring
+zzz Kontoauszug löschen
+Schufa Auskünfte
+Lohn-/Gehaltsabrechnung
+Mietnachweise/Mietvertrag
+Einkommensteuerbescheid
+Einkommen - Sonstiges
+Ausgaben - Sonstiges
+Grundbuchauszug
+Baubeschreibung
+Kaufvertrag
+Baugenehmigung/-anzeige/-antrag
+Aufstellung Baukosten / Eigenleistungen
+Flurkarte / Lageplan
+Bauplan / Grundrisse
+Wohnflächenberechnung / Kubatur
+Teilungserklärung
+Erbbaurechtsvertrag
+zzz Bewilligung Dienstbarkeiten löschen
+Wertermittlung / Gutachten
+Objektbilder / Fotos
+Expose
+Immobilienverwaltung - Sonstiges
+Grundschuld Zweckerklärungen
+Vollstreckbare Ausfertigungen
+zzz Verträge / Urkunden löschen
+Grundschuld / Hypothek - Sonstiges
+Bürgschaften
+Abtretungen
+Verpfändungen
+Fördermittel/Verwendungsnachweise/sonst. Schriftverkehr
+Bausparen
+DZ Hyp
+MHB
+Verbund sonst. Partner (z.B DZ-Bank)
+Schriftverkehr
+zzz Liquiditätsberechnungen löschen
+Jahresabschluss
+BWA inkl. SuSa/Planrechnung
+Auskünfte
+Steuerberatervollmachten/DiFin
+zzz Groß- / Milionenkredite löschen
+EÜR/Gewinnermittlung
+Rating
+zzzFirmenkunde - Sonstiges löschen
+RK-Ausweis
+Darlehensvertrag AVD
+Gebäudeversicherungsnachweis
+Bautenstandsbericht
+Objektbesichtigung
+Grundschuldbestellung Anschreiben an Notar
+ESIS-Merkblatt 1
+SÜ - Sicherungsübereignung
+Darlehensvertrag
+Sonstige Sicherheit
+VR Smart Finanz AG
+Rentenbescheid
+ESIS-Merkblatt
+Kreditvertrag f. Avalkredite
+Kreditvertrag für KK-Kredite Gewerbe
+Kreditvertrag für KK-Kredite Verbraucher
+zzz löschen Negativerklärung
+Rechnungsnachweis DL-Auszahlung
+Negativerklärung
+Einkommensteuererklärung
+Einfache Ausfertigung

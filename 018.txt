@@ -1,0 +1,256 @@
+Kreditentscheidungsinformation / Konditionenberechnung / Aufschlag KfW Blanko
+Infos zum Vermittlerantrag / Vermittlerunterlagen Übergabeprotokoll
+Selbstauskunft VSA
+Einkommensunterlagen
+EkSt-Bescheid
+EkSt-Erklärung
+Bilanzen, Jahresabschlüsse, GuV etc.
+Kontoumsätze L+G-Konten
+Eigenmittel-/Eigenleistungen, bestehende Verbindlichkeiten
+Baupläne + Ansichten
+Lageplan
+Baubeschreibung/Bauwerksvertrag/Exposé/Modernisierung bereits durchgeführt
+Finanzierungsbestätigung Fertighausbauer (ohne Unterschrift  noch nicht ins FCMS)
+Bauwerksberechnungen
+Objektbilder innen und außen
+Grundbuchauszug
+Kaufvertrag/Übergabevertrag/Erbbaurechtsvertrag
+Teilungserklärung
+Einverständnis Objektbesichtigung / Besichtigungsbericht
+Darlehensvertrag VR-Bank MM mit Anlagen (ohne Unterschrift noch nicht ins FCMS)
+Darlehensvertrag Verbund mit Anlagen
+GS Zweckerklärung VR-Bank MM (ohne Unterschrift noch nicht ins FCMS)
+GS Zweckerklärung Verbund
+Abtretung Auszahlungsansprüche Verbund (ohne Unterschrift noch nicht ins FCMS)
+Sicherungsvereinbarung mit BSH (ohne Unterschrift noch nicht ins FCMS)
+Sonstige Sicherheiten (LV/BSV-Guthaben etc.) (ohne Unterschrift noch nicht ins FCMS)
+Notar GS-Bestellung / weitere Grundbuchänderungen
+Schriftverkehr Verbund
+Legitimationsunterlagen (für Verbund und nicht für FCMS)
+Kostenaufstellung / Modernisierungsaufstellung
+Energieausweis
+Beratungsprotokoll
+Fördermittelunterlagen (KfW, L-Bank, Labo)
+Renteninformation
+Wertermittlung
+Beratungsprotokoll IVD / VR-Finanzplan
+VVI Darlehensvermittlung und Beratung - IVD
+Vermittlerunterlagen
+Verwendungszwecknachweise
+Eigenmittelnachweise
+Aktennotiz
+CBS Margenberechnung
+Checkliste Kreditleitplanken und sonstige Checklisten (Rating/Nachhaltigkeit)
+Gesprächsprotokoll Vertrieb / Kredit
+Einwilligungserklärung
+Term-Sheet
+Unterlagen Derivat
+Antrag öffentliche Mittel
+KfW - Bestätigung zum Antrag
+Unterlagen zu Hausbankenwechsel
+Registerauszug
+Gesellschaftsvertrag
+Gesellschafterliste
+Organigramm
+Checkliste wirtschaftl. Abhängigkeit
+Gewerbeanmeldung
+externes Rating
+Schufa-Auskunft
+Creditreform-Auskunft
+Bank-an-Bank-Auskunft
+Selbstauskunft + Nachweise
+Vermögensaufstellung + Nachweise
+Steuererklärung
+Steuerbescheid
+Lohn-/Gehaltsnachweis
+Rentenbescheid / Renteninformation
+Mietverträge / Mietaufstellungen
+Feststellungserklärung
+Feststellungsbescheid
+Sonstige Unterlagen
+BWA inkl. SuSa
+Bilanz
+EÜR
+Konzernabschluss
+Planrechnung / Businessplan
+Bankenspiegel
+KDF-Berechnung
+Überleitungsrechnung zur privaten Liqui-Rechnung
+Kapitalbelassungserklärung / Rangrücktritt Gesellschafter
+Steuerberatervollmacht
+MaBV-Prüfbericht
+Forführungsprognose
+sonstige Unterlagen
+Grundbuchauszüge / Änderungsmitteilungen
+Flächenaufstellung (nach WoFIV, DIN 277)
+Ansichten, Grundrisse, Schnitte
+Lageplan
+Objektfotos / Besichtigungsprotokoll / Objektbeschreibung
+Angaben zur Objektbesichtigung
+Expose
+Teilungserklärung / Teilungspläne
+Mietaufstellung / Mietverträge
+Kaufvertrag / Kaufvertragsentwurf
+Energieausweis / Bedarfsausweis
+Gebäudeversicherung
+Baukosten-/ Sanierungs-/ Modernisierungskosten
+Nachweis zu Eigenleistungen
+Werkvertrag / Baubeschreibung
+Baugenehmigung / Bauantrag
+Rechte Abteilung II (Bewilligungsurkunden) / sonstige Vorlasten
+Auskunft Baulastenverzeichnis / Altlastenverzeichnis
+Erbbaurechtsvertrag
+Beleihungswertermittlung / Gutachten
+Freistellungserklärung / Bürgschaft MaBV
+sonstige Objektunterlagen
+Nachweis für Forderung
+Urkunden / Policen
+Vermögensaufstellung + Nachweise
+SCHUFA-Klausel
+SCHUFA-Auskunft
+Nachweis zum Sicherungsgut
+Lageplan
+Versicherungsnachweis
+Schriftverkehr
+Unternehmenspräsentation
+Vertraulichkeitserklärung
+BESCHLÜSSE
+Informationen zum Beschluss an VS
+Genehmigung Sonderkondition
+Kreditentscheidungsinformation / KES
+Kreditvorstellung
+Kreditantrag
+Kreditkontrollbogen
+Kreditprotokoll
+Kurzbeschluss
+Beschluss Überziehung
+Genehmigung Vorstand / Kreditausschuss
+Beschluss Sicherheitenfreigabe / -änderungen
+Beschluss Sonstiges
+Stellungnahmen / Bestandsaufnahmen zum Beschluss
+Beschluss Valutierung
+Fördermittelantrag
+KREDITVERTRÄGE
+Aufhebungsvereinbarung / Kündigung
+Darlehensvertrag bankeigen
+Tilgungsersatz
+Rahmenkreditvertrag
+Kompensationsvereinbarung
+Kreditzusage bankeigen
+Schuldübernahme / Gläubigerwechsel
+Konsortialunterlagen
+Avalkreditvertrag
+Sonstige verpflichtende Erklärungen
+Sonstiges Vertragsdokument
+Verwendungsnachweis
+BERATUNGSUNTERLAGEN
+Erläuterungsprotokoll
+VVI
+VERBUNDKREDITE
+Verbundunterlagen
+Verbundvertrag
+FÖRDERMITTEL
+Kreditzusage Förderdarlehen
+Rechnungsnachweise Förderdarlehen
+Prolongation  Förderdarlehen
+Sonstiges Förderdarlehen
+SICHERHEITEN GRUNDSCHULD
+Grundschuld / Hypothek
+Globalabtretung
+Forderungsabtretung
+Abtretung sonstiges
+Löschungsbewilligung
+Sicherheitenverwaltung Sonstiges
+Pfandentlassung / Freistellungsvereinbarung
+MaBV-Bürgschaft
+Verpfändung Sonstiges
+OBJEKTUNTERLAGEN
+Grundbuchauszug /-unterlagen
+Versicherungsunterlagen Immobilie
+Flurkarte / Lageplan
+Teilungserklärung / TE / Abgeschlossenheitsbescheinigung / AB
+Bautenstandsbericht / Foto
+VKW-Schätzung
+Berechnung Wohnfläche / umbauter Raum / BGF
+Bauzeichnung
+Baugenehmigung
+Baubeschreibung
+Expose
+Zahlungsplan / Mittelverwendung
+Generalunternehmer-Vertrag GU
+Restrisikokalkulation
+Eigenkapital-Einsatz  Nachweis
+Rechnungen
+Grundstückskaufvertrag
+Schriftverkehr Immobilie
+Sonstiges Immobilie
+WIRTSCHAFTLICHE VERHÄLTNISSE
+Sonstige Auskünfte
+Einkommensnachweis
+Mietunterlagen
+Rentenauskunft
+Steuerunterlagen
+Eigenkapitalnachweise
+Darlehensvertrag Dritter
+Vermögensnachweis Objektunterlagen
+Vermögensaufstellung / Selbstauskunft
+Steuerberater-Vollmacht
+Anforderungsprofil §18
+Einseitige wirtschaftliche Abhängigkeit
+Sonstiges wirtschaftliche Verhältnisse
+Businessplan
+Jahresabschluss / GuV-Berechnungen
+BWA
+Rating
+Bilanz
+EÜR
+Betriebswirtschaftliche Auswertung / BWA
+Bilanzanalyse
+Organigramme
+Rechtsverhältnisse Sonstiges
+Legitimation Sonstiges
+Schriftverkehr Sicherheiten
+Schriftverkehr Konsortialkredite
+Schriftverkehr KWG
+Auszahlungsaufträge
+Schriftverkehr Sonstiges
+Unterlagen Checkliste
+E-Mail Archivierung
+Schriftverkehr Forderungsmanagement
+Abschreibungsbeschlüsse
+Zahlungs-/ Vergleichsvereinbarungen
+Vollstreckung
+Mahnungen
+Abwicklungskonzept / Checkliste
+EWB-Beschlüsse / Vereinbarungen
+Insolvenzverfahren
+Klageverfahren
+Kündigung
+Pfändungen
+Sanierung
+Sonstiges Forderungsmanagement
+Aktennotizen
+Fördermittelbescheid
+Verbundantrag
+Abtretung Gehaltsforderung
+Abtretung Bausparguthaben
+Abtretung Lebensversicherung
+Abtretungsanzeige Lebensversicherung
+Abtretungsanzeige Gehaltsforderung
+Abtretungsanzeige Bausparguthaben
+Verpfändung Bankguthaben
+Verpfändungsanzeige Bankguthaben
+Verpfändung Wertpapierdepot
+Verpfändungsanzeige Wertpapierdepot
+Sicherungsübereignung KFZ-Zulassungsbescheinigung II
+Sicherungsübereignung Warenbestand
+Selbstschuldnerische Bürgschaft
+Zahlungsbürgschaft
+SICHERHEITEN - ABTRETUNG
+SICHERHEITEN SICHERUNGSÜBEREIGNUNG
+SICHERHEITEN VERPFÄNDUNG
+SICHERHEITEN BÜRGSCHAFT
+SICHERHEITEN SONSTIGE
+SCHRIFTVERKEHR
+BILANZ / EÜR
+KREDITABWICKLUNG

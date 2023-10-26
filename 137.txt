@@ -1,0 +1,326 @@
+Beratungsprotokoll
+VVI
+Beratung - Unterlagen
+Vermittlung - Unterlagen
+Kreditantrag/ Deckblatt Beschluss
+Provisionsabrechnung/ Konditionenkalkulation/ Konditionstableau
+Kreditprotokoll/ Aufsichtsratbeschluss
+Aktenvermerke / Sonstiges
+Kreditzusage
+Kreditvertrag eigen
+Kreditvertrag Verbund
+Kreditvertrag sonstiges
+Selbstauskunft/ Vermögensaufstellung/ VSÜ
+Sonstige wirtschaftliche Unterlagen
+Gehaltsnachweis
+Miet-/ Pachtverträge
+Steuererklärung/ EE
+Grundbuchauszug
+Kaufverträge / Übergabeverträge
+Lageplan/Flurkarte
+Bauzeichnungen / Grundrisse
+Wohnflächenberechnung / Kubatur
+Teilungserklärung
+Erbbaurechtsvertrag
+Wertermittlung / Gutachten
+Objektbilder / Objektbesichtigung
+Sonstige Bauunterlagen/ Baugenehmigung/ Baubeschreibung/ Baukosten/ Exposé/ Energieausweis
+Grundschuld Zweckerklärungen/ VZE
+Vollstreckbare Ausfertigungen
+Sicherungsvereinbarung Bausparkasse
+Bewilligung Dienstbarkeiten
+Bürgschaft Privat
+Abtretung Bausparvertrag
+Verpfändungen Guthaben, Depot (eigen)
+Schriftverkehr Kredit/ Sonstiges Dokument
+KDF Berechnungen
+Jahresabschluss / GuV / EÜR
+BWA
+Erg. Investitionskostenrechnung
+Rangrücktrittserklärung Gesellschafterdarlehen
+Businessplan
+Sonstige wirtschaftliche Unterlagen
+Personalausweis
+Reisepass
+Gesellschaftervertrag/ Gesellschafterliste
+HR-Auszug
+Sonstiger Registerauszug
+Sonstiges Legitimationspapier
+VR-Auszug
+Bankauskünfte
+Steuerberatervollmacht
+Aufenthaltserlaubnis als Passersatz
+Steuerbescheid/ EB
+KDF Berechnungen
+Unterlagenauswertungen
+Steuerberatervollmacht
+Difin Vollmacht
+Vorgängerzahlen
+Miet-/ Pachtverträge
+Planzahlen / Soll-Ist-Vergleiche
+Rentabilitätsberechnung
+Schriftverkehr E-Mail Kredit
+Schriftverkehr E-Mail Allgemein
+Unterlagenauswertungen
+Baulasten-/Altlastenkataster
+Gebäudeversicherung
+Miet-/ Pachtverträge
+Planzahlen
+Verwendungsnachweis
+Grundschuldbrief
+Negativerklärung
+Einmalvalutierungserklärungen
+GS-Abtretung
+Grundschuld / Hypothek/ Urkunden - Sonstiges
+Renteninformationen
+Abtretung Einspeisevergütung
+Abtretung Guthaben / Depot fremd
+Abtretung Lebensversicherung
+SÜ Maschinen
+Besichtigungsprotokoll (Sonstige Sicherheiten)
+Abtretung Einzelforderung/ Globalabtretung
+Kreditvertrag Fördermittel
+Avalbürgschaft/ Sonstige Bürgschaft
+Mängelgewährleistungsbürgschaft
+Bürgschaft Öffentlich
+Schuldübernahmen / Schuldbeitritte
+Sicherheitenfreigabe / Sicherheitenänderung
+SÜ Einrichtung
+SÜ Kraftfahrzeuge
+Abtretung Rückgewähransprüche
+SÜ PV-Anlagen
+SÜ Warenlager
+Vorauszahlungsbürgschaft
+Personalausweis
+Reisepass
+Gesellschaftervertrag/ Gesellschafterliste
+HR-Auszug
+Sonstiger Registerauszug
+Sonstiges Legitimationspapier
+VR-Auszug
+Aufenthaltserlaubnis als Passersatz
+Grundbuchauszug
+Kaufverträge / Übergabeverträge
+Lageplan/Flurkarte
+Bauzeichnungen / Grundrisse
+Wohnflächenberechnung / Kubatur
+Miet-/ Pachtverträge
+Baulasten-/Altlastenkataster
+Teilungserklärung
+Erbbaurechtsvertrag
+Wertermittlung / Gutachten
+Objektbilder / Objektbesichtigung
+Gebäudeversicherung
+Sonstige Bauunterlagen/ Baugenehmigung/ Baubeschreibung/ Baukosten/ Exposé/ Energieausweis
+Gehaltsnachweis
+Renteninformationen
+Miet-/ Pachtverträge
+Steuererklärung/ EE
+Steuerbescheid/ EB
+Selbstauskunft/ Vermögensaufstellung/ VSÜ
+Bankauskünfte
+Steuerberatervollmacht
+Sonstige wirtschaftliche Unterlagen
+KDF Berechnungen
+Unterlagenauswertungen
+Jahresabschluss / GuV / EÜR
+BWA
+Planzahlen / Soll-Ist-Vergleiche
+Planzahlen
+Businessplan
+Erg. Investitionskostenrechnung
+Vorgängerzahlen
+Rentabilitätsberechnung
+Miet-/ Pachtverträge
+Steuerberatervollmacht
+Difin Vollmacht
+Sonstige wirtschaftliche Unterlagen
+KDF Berechnungen
+Unterlagenauswertungen
+Rangrücktrittserklärung Gesellschafterdarlehen
+Kreditantrag/ Deckblatt Beschluss
+Provisionsabrechnung/ Konditionenkalkulation/ Konditionstableau
+Kreditprotokoll/ Aufsichtsratbeschluss
+Sicherheitenfreigabe / Sicherheitenänderung
+Aktenvermerke / Sonstiges
+Kreditzusage
+Kreditvertrag eigen
+Kreditvertrag Verbund
+Kreditvertrag Fördermittel
+Schuldübernahmen / Schuldbeitritte
+Kreditvertrag sonstiges
+Avalbürgschaft/ Sonstige Bürgschaft
+Mängelgewährleistungsbürgschaft
+Vorauszahlungsbürgschaft
+Vollstreckbare Ausfertigungen
+Grundschuldbrief
+GS-Abtretung
+Negativerklärung
+Einmalvalutierungserklärungen
+Grundschuld Zweckerklärungen/ VZE
+Abtretung Rückgewähransprüche
+Sicherungsvereinbarung Bausparkasse
+Bewilligung Dienstbarkeiten
+Grundschuld / Hypothek/ Urkunden - Sonstiges
+Abtretung Bausparvertrag
+Abtretung Einspeisevergütung
+Abtretung Guthaben / Depot fremd
+Abtretung Lebensversicherung
+Abtretung Einzelforderung/ Globalabtretung
+Bürgschaft Privat
+Bürgschaft Öffentlich
+Verpfändungen Guthaben, Depot (eigen)
+SÜ Einrichtung
+SÜ Kraftfahrzeuge
+SÜ Maschinen
+SÜ PV-Anlagen
+SÜ Warenlager
+Besichtigungsprotokoll (Sonstige Sicherheiten)
+Schriftverkehr E-Mail Kredit
+Schriftverkehr E-Mail Allgemein
+Verwendungsnachweis
+Schriftverkehr Kredit/ Sonstiges Dokument
+Grundbuchauszug
+Kaufverträge / Übergabeverträge
+Lageplan/Flurkarte
+Bauzeichnungen / Grundrisse
+Wohnflächenberechnung / Kubatur
+Miet-/ Pachtverträge
+Baulasten-/Altlastenkataster
+Teilungserklärung
+Erbbaurechtsvertrag
+Wertermittlung / Gutachten
+Objektbilder / Objektbesichtigung
+Gebäudeversicherung
+Sonstige Bauunterlagen/ Baugenehmigung/ Baubeschreibung/ Baukosten/ Exposé/ Energieausweis
+Schriftverkehr E-Mail Kredit
+Schriftverkehr E-Mail Allgemein
+Verwendungsnachweis
+Schriftverkehr Kredit/ Sonstiges Dokument
+Personalausweis
+Reisepass
+Gesellschaftervertrag/ Gesellschafterliste
+HR-Auszug
+Sonstiger Registerauszug
+Sonstiges Legitimationspapier
+VR-Auszug
+Aufenthaltserlaubnis als Passersatz
+Gehaltsnachweis
+Renteninformationen
+Miet-/ Pachtverträge
+Steuererklärung/ EE
+Steuerbescheid/ EB
+Selbstauskunft/ Vermögensaufstellung/ VSÜ
+Bankauskünfte
+Steuerberatervollmacht
+Sonstige wirtschaftliche Unterlagen
+KDF Berechnungen
+Unterlagenauswertungen
+Jahresabschluss / GuV / EÜR
+BWA
+Planzahlen / Soll-Ist-Vergleiche
+Planzahlen
+Businessplan
+Erg. Investitionskostenrechnung
+Vorgängerzahlen
+Rentabilitätsberechnung
+Miet-/ Pachtverträge
+Steuerberatervollmacht
+Difin Vollmacht
+Sonstige wirtschaftliche Unterlagen
+KDF Berechnungen
+Unterlagenauswertungen
+Rangrücktrittserklärung Gesellschafterdarlehen
+Schriftverkehr E-Mail Kredit
+Schriftverkehr E-Mail Allgemein
+Verwendungsnachweis
+Schriftverkehr Kredit/ Sonstiges Dokument
+Personalausweis
+Reisepass
+Gesellschaftervertrag/ Gesellschafterliste
+HR-Auszug
+Sonstiger Registerauszug
+Sonstiges Legitimationspapier
+VR-Auszug
+Aufenthaltserlaubnis als Passersatz
+Grundbuchauszug
+Kaufverträge / Übergabeverträge
+Lageplan/Flurkarte
+Bauzeichnungen / Grundrisse
+Wohnflächenberechnung / Kubatur
+Miet-/ Pachtverträge
+Baulasten-/Altlastenkataster
+Teilungserklärung
+Erbbaurechtsvertrag
+Wertermittlung / Gutachten
+Objektbilder / Objektbesichtigung
+Gebäudeversicherung
+Sonstige Bauunterlagen/ Baugenehmigung/ Baubeschreibung/ Baukosten/ Exposé/ Energieausweis
+Gehaltsnachweis
+Renteninformationen
+Miet-/ Pachtverträge
+Steuererklärung/ EE
+Steuerbescheid/ EB
+Selbstauskunft/ Vermögensaufstellung/ VSÜ
+Bankauskünfte
+Steuerberatervollmacht
+Sonstige wirtschaftliche Unterlagen
+KDF Berechnungen
+Unterlagenauswertungen
+Jahresabschluss / GuV / EÜR
+BWA
+Planzahlen / Soll-Ist-Vergleiche
+Planzahlen
+Businessplan
+Erg. Investitionskostenrechnung
+Vorgängerzahlen
+Rentabilitätsberechnung
+Miet-/ Pachtverträge
+Steuerberatervollmacht
+Difin Vollmacht
+Sonstige wirtschaftliche Unterlagen
+KDF Berechnungen
+Unterlagenauswertungen
+Rangrücktrittserklärung Gesellschafterdarlehen
+Kreditantrag/ Deckblatt Beschluss
+Provisionsabrechnung/ Konditionenkalkulation/ Konditionstableau
+Kreditprotokoll/ Aufsichtsratbeschluss
+Sicherheitenfreigabe / Sicherheitenänderung
+Aktenvermerke / Sonstiges
+Kreditzusage
+Kreditvertrag eigen
+Kreditvertrag Verbund
+Kreditvertrag Fördermittel
+Schuldübernahmen / Schuldbeitritte
+Kreditvertrag sonstiges
+Avalbürgschaft/ Sonstige Bürgschaft
+Mängelgewährleistungsbürgschaft
+Vorauszahlungsbürgschaft
+Vollstreckbare Ausfertigungen
+Grundschuldbrief
+GS-Abtretung
+Negativerklärung
+Einmalvalutierungserklärungen
+Grundschuld Zweckerklärungen/ VZE
+Abtretung Rückgewähransprüche
+Sicherungsvereinbarung Bausparkasse
+Bewilligung Dienstbarkeiten
+Grundschuld / Hypothek/ Urkunden - Sonstiges
+Abtretung Bausparvertrag
+Abtretung Einspeisevergütung
+Abtretung Guthaben / Depot fremd
+Abtretung Lebensversicherung
+Abtretung Einzelforderung/ Globalabtretung
+Bürgschaft Privat
+Bürgschaft Öffentlich
+Verpfändungen Guthaben, Depot (eigen)
+SÜ Einrichtung
+SÜ Kraftfahrzeuge
+SÜ Maschinen
+SÜ PV-Anlagen
+SÜ Warenlager
+Besichtigungsprotokoll (Sonstige Sicherheiten)
+Schriftverkehr E-Mail Kredit
+Schriftverkehr E-Mail Allgemein
+Verwendungsnachweis
+Schriftverkehr Kredit/ Sonstiges Dokument

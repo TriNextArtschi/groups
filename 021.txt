@@ -1,0 +1,435 @@
+Kreditantrag
+VVI / ESIS / Tilgungsplan
+Bausparkasse
+IB SH
+KfW
+Aufstellung Baukosten
+Aufstellung Eigenleistungen
+Baubeschreibung
+Baugenehmigung/-anzeige/-antrag
+Bauzeichnungen
+Beleihungswertberechnung
+Erbbaurechtsvertrag
+Flurkarte / Lageplan
+Kaufvertrag
+Objektbesichtigung/Gutacht./Foto
+Objektfotos
+Teilungserklärung
+Werkvertrag
+Wohnflächenberechnung / Kubatur
+GB Auszug
+Schriftverkehr sonstiger
+A_Nachweise über Kredite
+A_sonstige Ausgaben
+A_Unterhaltsverpflichtungen
+E_Einkommensnachw. Selbständige
+E_Einkommensnachweis
+E_EST Erklärung / Bescheid
+E_Gesellsch.-/ Güterrechtsvertr.
+E_KDF-Ermittlung Selbständige
+E_Mieteinnahmen
+E_sonstige Einnahmen
+E_Unterhaltsforderungen
+Eigengeldnachweis
+Vermögensaufstellung
+SCHUFA-Auskunft
+Berater/Vermittler VVI+Protokoll
+Provisionsabrechnung
+Ausweis (zur Bearbeitung)
+Expose (Objekt)
+Modernisierungsmassnamen
+Schriftverkehr Drittgläubiger
+Kontoauszug
+Legitimation
+Kundenstammvertrag
+Darlehensvertrag
+Löschen: Anschreiben / Deckblatt zum Antrag
+Löschen: Kreditantrag
+Löschen:  Kreditentscheidungsinformationen
+Löschen: Provisionsabrechnung
+Kreditprotokoll
+Aktenvermerke / Sonstiges
+Löschen: Kreditzusage (Förderinstitute) #Kreditprogramm / nom. Darlehensbetrag TEUR (intern)
+Kreditvertrag Darlehen (211090)
+Löschen: Verbundpartner Vertrag
+Beratungsprotokoll (BQ)
+Personalausweis
+Vermögensaufstellung (sonstige)
+Löschen: Vermögensübersicht / Nachweis Kredite
+Löschen: Rating / Scoring Ratingdialog inkl. Branchenspezial / Checkliste Override #Rating Datum / Ratingdialog Datum (intern)
+Kontoauszüge / EK-Nachweise
+LÖSCHEN: Schufa Auskunft (intern)
+Einkommensnachweise
+Löschen: unterschriebene Mietaufstellung (bei Einkünften aus V+V)
+Einkommenssteuererklärung/ -bescheid
+Löschen: Einkommen - Sonstiges
+Löschen: Ausgaben - Sonstiges
+Grundbuchauszug
+Baubeschreibung
+Kaufverträge, einfache GS-Bestellungsurkunden
+Bauantrag / Baugenehmigung
+LÖSCHEN Baukostenaufstellungen / Eigenleistungen
+Flurkarte
+Grundrisse / Bauzeichnungen
+Kubus- und Flächenberechnungen
+LÖSCHEN Teilungsplan und Teilungserklärung
+Erbbaurechtsvertrag
+LÖSCHEN Bewilligung Dienstbarkeiten
+Gutachten / Beleihungswertermittlung
+Objektbilder/-fotos
+Expose / Beschreibung des Beleihungsobjektes
+LÖSCHEN Immobilienverwaltung - Sonstiges
+Kundenbürgschaft (wirtsch.Verh. sofern vorhanden)
+LÖSCHEN: Abtretung
+Verpfändungen (-erklärung) EIGEN
+Schriftverkehr Kredit
+Vollmacht
+Kundenstammvertrag
+Beratungsprotokoll
+VVI
+Beratung - Unterlagen
+Vermittlung - Unterlagen
+Anschreiben / Deckblatt zum Antrag
+Kreditantrag
+Kreditentscheidungsinformationen
+Provisionsabrechnung
+Kreditprotokolle
+Aktenvermerke / Sonstiges
+Kreditzusage
+Bank Kreditvertrag
+Verbundpartner Vertrag
+Verträge - Sonstiges
+Legitimation
+Selbstauskünfte
+Vermögensübersicht / Nachweis Kredite
+Rating / Scoring
+Kontoauszug
+Schufa Auskünfte
+Gehaltsnachweis
+Mieteinnahmen
+Steuererklärung / Bescheid
+Einkommen - Sonstiges
+Ausgaben - Sonstiges
+Grundbuchauszug
+Baubeschreibung
+Kaufvertrag
+Baugenehmigung/-anzeige/-antrag
+Aufstellung Baukosten / Eigenleistungen
+Flurkarte / Lageplan
+Bauzeichnungen / Grundrisse
+Wohnflächenberechnung / Kubatur
+Teilungserklärung
+Erbbaurechtsvertrag
+Bewilligung Dienstbarkeiten
+Wertermittlung / Gutachten
+Objektbilder / Fotos
+Expose
+Immobilienverwaltung - Sonstiges
+Grundschuld Zweckerklärungen
+Vollstreckbare Ausfertigungen
+Verträge / Urkunden
+Grundschuld / Hypothek - Sonstiges
+Bürgschaften
+Abtretungen
+Verpfändungen
+Fördermittel
+Bausparen
+Versicherungen
+Hypothekenbanken / Verbundbanken
+Verbund - Sonstiges
+Schriftverkehr
+Liquiditätsberechnungen
+Jahresabschluss / GuV
+BWA
+Auskünfte
+§18 KWG-Dokumentationen
+Groß- / Milionenkredite
+E/A Bilanz
+Rating
+Firmenkunde - Sonstiges
+Vereinbarung über die Nutzung des Online-Banking
+Transparenzregisterauszug
+Personalausweis
+Löschen: Steuerberatervollmacht
+Europäisches Standardisiertes Merkblatt (ESIS-Merkblatt) 1 (212570)
+Darlehensverträge Förderinstitute #KfW-Programm / Betrag
+Konsortialkredite #Konto Nr./ nom.Darl.betrag
+Abtretung Forderungen (Miet- Pachtzinsforder.)
+Energieausweis
+Versicherungsnachweis
+Löschen: Renteninformation
+LÖSCHEN: Unterschriebene Schufa-Klausel (Schufa-Hinweis)
+Reisepass
+Löschen: KDF gesamt lang
+Sonstige Unterlagen
+Sonderungsbescheid
+objektbezogene KdF
+Miet-/Pachtverträge
+Teilungserklärung / Abgeschlossenheitsbescheinigung
+Eintragungsbekanntmachung
+Abtretungen (-erklärung/-bestätigung) LV / BSH
+LÖSCHEN: Besichtigungsbericht
+Überziehungsgenehmigungen
+Vorstandsvorlage
+Verzicht VFE
+Entscheidungsvorlagen
+Sicherheitenfreigaben/ -änderungen
+Kreditvertrag Kontokorrent (211060)
+VVI - Vorvertragliche  Information für Darlehensvermittlung und Beratung Immobilliar -  Verbraucherdarlehensverträge (212510)
+MHB Verträge
+R+V Verträge
+BSH Verträge
+Europäisches Standardisiertes Merkblatt (ESIS-Merkblatt) 2 (212570)
+Grundschuldzweckerklärung
+Schriftverkehr Förderinstitute
+Schriftverkehr Verbund
+Vereinbarungen
+Valutierungsaufträge
+Unwiderrufliche Zahlungsanweisung
+Fördermittel
+Vermögens-Schuldenübersicht (VA)
+Besichtigungsbogen (intern/extern)
+Förderinstitute Kreditzusagen
+Auskünfte (Schufa / Creditreform / Bankauskünfte)
+LÖSCHEN Bank an Bank Auskunft
+Grundschuld Brief
+vollstr. Ausf. Grundschuldbest.
+Anzeige / Bestätigung Abtretung Rückgewährsansprüche / Negativerklärung / Zustimmung Erbbaurechtsausgeber
+Bautenstandsbericht
+Fremdgutachten
+Brandschutzkonzept
+Bauwerkvertrag
+Sonstige Objektunterlagen
+Kundenstamm-Vertrag
+Bankbürgschaften/-urkunden
+Mittelverwendung
+SCHUFA-Hinweis (für Kreditanträge)
+Mitgliedschaft (Beitrittserklärung)
+Verpfändungen (-erklärung) FREMD
+Mitgliedschaft (Beitrittserklärung)
+Personalausweis
+Reisepass
+Kundenstamm-Vertrag
+SCHUFA-Hinweis (für Kreditanträge)
+Kreditprotokoll
+Überziehungsgenehmigungen
+Vorstandsvorlage
+Aktenvermerke / Sonstiges
+Entscheidungsvorlagen
+Verzicht VFE
+Sicherheitenfreigaben/ -änderungen
+Löschen: Anschreiben / Deckblatt zum Antrag
+Löschen: Kreditantrag
+Löschen:  Kreditentscheidungsinformationen
+Löschen: Provisionsabrechnung
+Beratungsprotokoll (BQ)
+VVI - Vorvertragliche  Information für Darlehensvermittlung und Beratung Immobilliar -  Verbraucherdarlehensverträge
+Europäisches Standardisiertes Merkblatt (ESIS-Merkblatt) 1
+Europäisches Standardisiertes Merkblatt (ESIS-Merkblatt) 2
+Kreditvertrag Kontokorrent
+Kreditvertrag Darlehen
+Darlehensverträge Förderinstitute #KfW-Programm / Betrag
+MHB Verträge
+R+V Verträge
+BSH Verträge
+Konsortialkredite #Konto Nr./ nom.Darl.betrag
+Löschen: Kreditzusage (Förderinstitute) #Kreditprogramm / nom. Darlehensbetrag TEUR (intern)
+Löschen: Verbundpartner Vertrag
+Grundschuldzweckerklärung
+Grundschuld Brief
+vollstr. Ausf. Grundschuldbest.
+Anzeige / Bestätigung Abtretung Rückgewährsansprüche / Negativerklärung / Zustimmung Erbbaurechtsausgeber
+Abtretungen (-erklärung/-bestätigung) LV / BSH
+Kundenbürgschaft (wirtsch.Verh. sofern vorhanden)
+Abtretung Forderungen (Miet- Pachtzinsforder.)
+Verpfändungen (-erklärung) EIGEN
+Verpfändungen (-erklärung) FREMD
+LÖSCHEN: Abtretung
+LÖSCHEN: Besichtigungsbericht
+Beleihungswertermittlung
+Besichtigungsbogen (intern/extern)
+Objektbilder/-fotos
+Grundbuchauszug
+Eintragungsbekanntmachung
+Flurkarte
+Sonderungsbescheid
+Grundrisse / Bauzeichnungen
+Kaufverträge, einfache GS-Bestellungsurkunden
+Expose / Beschreibung des Beleihungsobjektes
+Energieausweis
+Bautenstandsbericht
+Fremdgutachten
+Bauantrag / Baugenehmigung
+Bauwerkvertrag
+Baubeschreibung
+Kubus- und Flächenberechnungen
+Brandschutzkonzept
+Versicherungsnachweis
+objektbezogene KdF
+Miet-/Pachtverträge
+Erbbaurechtsvertrag
+Teilungserklärung / Abgeschlossenheitsbescheinigung
+Sonstige Objektunterlagen
+LÖSCHEN Baukostenaufstellungen / Eigenleistungen
+LÖSCHEN Teilungsplan und Teilungserklärung
+LÖSCHEN Bewilligung Dienstbarkeiten
+LÖSCHEN Immobilienverwaltung - Sonstiges
+Einkommensnachweise
+Einkommenssteuererklärung/ -bescheid
+Kontoauszüge / EK-Nachweise
+Selbstauskunft / Vermögensaufstellung?
+Vermögens-Schuldenübersicht (VA)?
+Sonstige Unterlagen
+Löschen: KDF gesamt lang
+Löschen: Vermögensübersicht / Nachweis Kredite
+LÖSCHEN: Unterschriebene Schufa-Klausel (Schufa-Hinweis)
+LÖSCHEN: Schufa Auskunft (intern)
+Löschen: Rating / Scoring Ratingdialog inkl. Branchenspezial / Checkliste Override #Rating Datum / Ratingdialog Datum (intern)
+Löschen: Renteninformation
+Löschen: unterschriebene Mietaufstellung (bei Einkünften aus V+V)
+Löschen: Steuerberatervollmacht
+Löschen: Einkommen - Sonstiges
+Löschen: Ausgaben - Sonstiges
+Vereinbarungen
+Schriftverkehr Kredit
+Schriftverkehr Förderinstitute
+Fördermittel
+Schriftverkehr Verbund
+Mittelverwendung
+Valutierungsaufträge
+Unwiderrufliche Zahlungsanweisung
+Auskünfte (Schufa / Creditreform / Bankauskünfte)
+LÖSCHEN Bank an Bank Auskunft
+Förderinstitute Kreditzusagen
+Bankbürgschaften/-urkunden
+xxx Gesellschafterliste
+xxx Gesellschaftsvertrag
+xxx Handelsregisterauszug
+xxx Transparenzregisterauszug
+Beratungsprotokoll (intern)
+Unterlagen (Beratung)
+Unterlagen (Vermittlung)
+VVI
+Grundschuld Zweckerklärungen
+Vollstreckbare Ausfertigungen
+Verträge / Urkunden
+Grundschuld / Hypothek - Sonstiges
+xxx Fördermittel (Ablagenummer vs. 239050)
+Bausparen
+Versicherungen
+Hypothekenbanken / Verbundbanken
+Verbund - Sonstiges
+xxx Planungsunterlagen
+KDF kompakt Kapitalgesellschaften
+Jahresabschluss / GuV
+BWA
+xxx (P) Auskünfte (Schufa / Creditreform / Bankauskünfte)
+§18 KWG-Dokumentationen
+Groß- / Millionenkredite
+E/A Bilanz
+Rating
+Firmenkunde - Sonstiges
+xxx Rechnungen
+Vollmacht zur Einholung von Grundbuch-, Registerauszügen und Flurkarten
+KDF kompakt nicht Kapitalgesellschaften
+Europäisches Standardisiertes Merkblatt (ESIS-Merkblatt) FöMi (211220)
+Förderdarlehensvertrag (211200)
+Empfangsbestätigung zum Förderdarlehensvertrag (211210)
+Selbstauskunft (212170)
+Kreditendkontrolle
+Auszahlungskontrolle
+Eintragungsantrag
+Mitgliedschaft (Beitrittserklärung)
+Personalausweis
+Reisepass
+Kundenstamm-Vertrag
+SCHUFA-Hinweis (für Kreditanträge)
+Kreditprotokoll
+Überziehungsgenehmigungen
+Vorstandsvorlage
+Aktenvermerke / Sonstiges
+Entscheidungsvorlagen
+Verzicht VFE
+Sicherheitenfreigaben/ -änderungen
+Auszahlungskontrolle
+Kreditendkontrolle
+Beratungsprotokoll (BQ)
+VVI - Vorvertragliche  Information für Darlehensvermittlung und Beratung Immobilliar -  Verbraucherdarlehensverträge (212510)
+Europäisches Standardisiertes Merkblatt (ESIS-Merkblatt) 1 (212570)
+Europäisches Standardisiertes Merkblatt (ESIS-Merkblatt) 2 (212570)
+Europäisches Standardisiertes Merkblatt (ESIS-Merkblatt) FöMi (211220)
+Kreditvertrag Kontokorrent (211060)
+Kreditvertrag Darlehen (211090)
+Förderdarlehensvertrag (211200)
+Empfangsbestätigung zum Förderdarlehensvertrag (211210)
+Darlehensverträge Förderinstitute #KfW-Programm / Betrag
+MHB Verträge
+R+V Verträge
+BSH Verträge
+Konsortialkredite #Konto Nr./ nom.Darl.betrag
+Grundschuldzweckerklärung
+Grundschuld Brief
+vollstr. Ausf. Grundschuldbest.
+Anzeige / Bestätigung Abtretung Rückgewährsansprüche / Negativerklärung / Zustimmung Erbbaurechtsausgeber
+Abtretungen (-erklärung/-bestätigung) LV / BSH
+Kundenbürgschaft (wirtsch.Verh. sofern vorhanden)
+Abtretung Forderungen (Miet- Pachtzinsforder.)
+Verpfändungen (-erklärung) EIGEN
+Verpfändungen (-erklärung) FREMD
+Gutachten / Beleihungswertermittlung
+Besichtigungsbogen (intern/extern)
+Objektbilder/-fotos
+Grundbuchauszug
+Eintragungsantrag
+Eintragungsbekanntmachung
+Flurkarte
+Sonderungsbescheid
+Grundrisse / Bauzeichnungen
+Kaufverträge, einfache GS-Bestellungsurkunden
+Expose / Beschreibung des Beleihungsobjektes
+Energieausweis
+Bautenstandsbericht
+Fremdgutachten
+Bauantrag / Baugenehmigung
+Bauwerkvertrag
+Baubeschreibung
+Kubus- und Flächenberechnungen
+Brandschutzkonzept
+Versicherungsnachweis
+objektbezogene KdF (Prüfen vs. wirtschaftliche Unterlagen)
+Miet-/Pachtverträge
+Erbbaurechtsvertrag
+Teilungserklärung / Abgeschlossenheitsbescheinigung
+Vollmacht zur Einholung von Grundbuch-, Registerauszügen und Flurkarten
+Sonstige Objektunterlagen
+Einkommensnachweise
+Einkommenssteuererklärung/ -bescheid
+Kontoauszüge / EK-Nachweise
+Selbstauskunft (212170)
+Vermögensaufstellung (sonstige)
+Vermögens-Schuldenübersicht (VA)
+Sonstige Unterlagen
+Auskünfte (Schufa / Creditreform / Bankauskünfte)
+Vereinbarungen
+Schriftverkehr Kredit
+Schriftverkehr Förderinstitute
+Fördermittel
+Schriftverkehr Verbund
+Mittelverwendung
+Valutierungsaufträge
+Unwiderrufliche Zahlungsanweisung
+Förderinstitute Kreditzusagen
+Bankbürgschaften/-urkunden
+Ratingdialogbogen
+Ratingdialogbogen
+BWA
+Jahresabschluss
+EÜR
+Auswertung zu BWA
+Auswertung zu BWA Gruppe
+Auswertung zu Vermögensaufstellung
+KDF Objekte
+KDF Objekte gesamt Immo-Rating
+KDF kompakt nicht Kapitalgesellschaften
+KDF gesamt lang
+KDF kompakt Kapitalgesellschaften

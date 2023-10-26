@@ -1,0 +1,754 @@
+Beratungsprotokoll
+VVI
+Beratung - Unterlagen
+Vermittlung - Unterlagen
+Anschreiben / Deckblatt zum Antrag
+Kreditantrag
+Kreditentscheidungsinformationen
+Provisionsabrechnung
+Kreditprotokolle
+Aktenvermerke / Sonstiges
+Kreditzusage
+Bank Kreditvertrag
+Verbundpartner Vertrag
+Verträge - Sonstiges
+Legitimation
+Selbstauskünfte
+Vermögensübersicht / Nachweis Kredite
+Rating / Scoring
+Kontoauszug
+Schufa Auskünfte
+Gehaltsnachweis
+Mieteinnahmen
+Steuererklärung / Bescheid
+Einkommen - Sonstiges
+Ausgaben - Sonstiges
+Grundbuchauszug
+Baubeschreibung
+Kaufvertrag
+Baugenehmigung/-anzeige/-antrag
+Aufstellung Baukosten / Eigenleistungen
+Flurkarte / Lageplan
+Bauzeichnungen / Grundrisse
+Wohnflächenberechnung / Kubatur
+Teilungserklärung
+Erbbaurechtsvertrag
+Bewilligung Dienstbarkeiten
+Wertermittlung / Gutachten
+Objektbilder / Fotos
+Expose
+Immobilienverwaltung - Sonstiges
+Grundschuld Zweckerklärungen
+Vollstreckbare Ausfertigungen
+Verträge / Urkunden
+Grundschuld / Hypothek - Sonstiges
+Bürgschaften
+Abtretungen
+Verpfändungen
+Fördermittel
+Bausparen
+Versicherungen
+Hypothekenbanken / Verbundbanken
+Verbund - Sonstiges
+Schriftverkehr
+Liquiditätsberechnungen
+Jahresabschluss / GuV
+BWA
+Auskünfte
+§18 KWG-Dokumentationen
+Groß- / Milionenkredite
+E/A Bilanz
+Rating
+Firmenkunde - Sonstiges
+Ausweisunterlagen (Reisepass, Personalausweis usw.)
+Selbstauskunft zzgl. SCHUFA-Ermächtigung
+Einkommensteuererklärung nebst Anlagen
+Einkommensteuerbescheid
+Bestätigung zum KfW-Antrag
+KfW Antrag
+Lohn-/Gehaltsnachweis
+Renteninformation
+Rentenbescheid
+Mietaufstellung
+Vermögensaufstellung / Immobilienaufstellung
+Nachweis eigene Miete
+Nachweis Raten zu Fremdkrediten
+Ausgaben zu Altersvorsorge
+Ausgaben zu Altersvorsorge
+Nachweis Unterhaltsleistungen
+Nachweis private Krankenversicherung
+Beratungsprotokoll IVD
+Beratungsverzicht (z.B. e-Mail Nachweis)
+Notarbestätigung
+Grundbuchauszug
+Kaufvertrag/-entwurf
+Baubeschreibung / Exposé
+Bewilligungsurkunden Belastungen Abt.II Grundbuch
+Lageplan/Flurkarte/Vermessungsprotokoll/Zuwegung
+Auszug aus dem Baulastenverzeichnis
+Auszug aus dem Altlastenkataster
+Energieausweis
+Berechnung Wohn- und Nutzfläche
+Berechnung Grundfläche / umbauter Raum
+Baugenehmigung / Bauvorbescheid
+Grundriss/Baupläne/Bauzeichnung
+Moderniesierungs- /Baukostenaufstellung / -rechnung / Nachweis Eigenleistung
+Zustimmung Datenweitergabe Immobilienbewertung
+Gebäudeversicherungsnachweis
+Erbbaurechtsvertrag
+Stillhaltererklärung
+Teilungserklärung (ETW)
+Abgeschlossenheitsbescheinigung
+Mietaufstellung mit Flächenangaben, Lagebezeichnungen und Nettokaltmieten
+Mietverträge (bei Fremdvermietung)
+Auszug Liegenschaftsbuch
+Management-/Franchiseverträge
+Selbstauskunft des Bürgen
+SCHUFA-Ermächtigung des Bürgen
+SCHUFA Ausdruck des Bürgen
+Depotauszug / Kontoauszug (Nachweis Guthaben)
+Legitimationsunterlage des Bürgen
+Nachweise zum Bausparvertrag
+Nachweise zu Lebens- / Rentenversicherung
+Nachweise zu Forderungen (Fälligkeit, Adressdaten Drittschuldner, Fordrungshöhe)
+Objektfotos
+Ausweisunterlagen (Reisepass, Personalausweis usw.)
+Beratungsprotokoll IVD
+Beratungsverzicht (z.B. e-Mail Nachweis)
+Nachweis eigene Miete
+Nachweis Raten zu Fremdkrediten
+Ausgaben zu Altersvorsorge
+zzz_Ausgaben zu Altersvorsorge
+Nachweis Unterhaltsleistungen
+Nachweis private Krankenversicherung
+Selbstauskunft zzgl. SCHUFA-Ermächtigung
+Vermögensaufstellung / Immobilienaufstellung
+Einkommensteuererklärung nebst Anlagen
+Einkommensteuerbescheid
+Lohn-/Gehaltsnachweis
+Renteninformation
+Rentenbescheid
+Mietaufstellung
+Selbstauskunft des Bürgen
+SCHUFA-Ermächtigung des Bürgen
+SCHUFA Ausdruck des Bürgen
+Legitimationsunterlage des Bürgen
+Depotauszug / Kontoauszug (Nachweis Guthaben)
+Nachweise zum Bausparvertrag
+Nachweise zu Lebens- / Rentenversicherung
+Nachweise zu Forderungen (Fälligkeit, Adressdaten Drittschuldner, Fordrungshöhe)
+Bestätigung zum KfW-Antrag
+KfW Antrag
+Jahresabschluss / EÜR
+BWA inkl. SuSa
+Ertrags- Liquiditätsplan
+Unternehmensgründungskonzept / Unternehmenskonzept
+Detaillierte Planungsrechnung
+KDF-Berechnung
+Auswertung Vermögensverhältnisse
+NBB-Bürgschaftsurkunde inkl. Anlagen
+NBB-Antrag
+Zusage NBB
+zzz_R+V Antrag Kautionsversicherung
+zzz_R+V Kautionsversicherung Bürgschaftsurkunde
+zzz_R+V Antrag Kautionsversicherung
+Handelsregisterauszug
+Gesellschaftsvertrag
+Gesellschafterliste
+Steuer-Nummer
+Organigramm
+Kaufvertrag / -entwurf
+Kaufvertrag / -entwurf
+Kaufvertrag / -entwurf
+Kaufvertrag / -entwurf
+Kaufvertrag / -entwurf
+Kaufvertrag / -entwurf
+Kaufvertrag / -entwurf
+Kaufvertrag / -entwurf
+Kaufvertrag / -entwurf
+Kaufvertrag / -entwurf
+Kaufvertrag / -entwurf
+Grundbuchauszug
+Grundbuchauszug
+Grundbuchauszug
+Grundbuchauszug
+Grundbuchauszug
+Grundbuchauszug
+Grundbuchauszug
+Grundbuchauszug
+Grundbuchauszug
+Grundbuchauszug
+Grundbuchauszug
+Bewilligungsurkunden Belastungen Abt.II Grundbuch
+Bewilligungsurkunden Belastungen Abt.II Grundbuch
+Bewilligungsurkunden Belastungen Abt.II Grundbuch
+Bewilligungsurkunden Belastungen Abt.II Grundbuch
+Bewilligungsurkunden Belastungen Abt.II Grundbuch
+Bewilligungsurkunden Belastungen Abt.II Grundbuch
+Bewilligungsurkunden Belastungen Abt.II Grundbuch
+Bewilligungsurkunden Belastungen Abt.II Grundbuch
+Bewilligungsurkunden Belastungen Abt.II Grundbuch
+Bewilligungsurkunden Belastungen Abt.II Grundbuch
+Bewilligungsurkunden Belastungen Abt.II Grundbuch
+Lageplan/Flurkarte/Vermessungsprotokoll/Zuwegung
+Lageplan/Flurkarte/Vermessungsprotokoll/Zuwegung
+Lageplan/Flurkarte/Vermessungsprotokoll/Zuwegung
+Lageplan/Flurkarte/Vermessungsprotokoll/Zuwegung
+Lageplan/Flurkarte/Vermessungsprotokoll/Zuwegung
+Lageplan/Flurkarte/Vermessungsprotokoll/Zuwegung
+Lageplan/Flurkarte/Vermessungsprotokoll/Zuwegung
+Lageplan/Flurkarte/Vermessungsprotokoll/Zuwegung
+Lageplan/Flurkarte/Vermessungsprotokoll/Zuwegung
+Lageplan/Flurkarte/Vermessungsprotokoll/Zuwegung
+Lageplan/Flurkarte/Vermessungsprotokoll/Zuwegung
+Auszug Liegenschaftsbuch Bestandsverzeichnis (Objekt außerhalb von Niedersachsen)
+Auszug aus dem Altlastenkataster
+Auszug aus dem Altlastenkataster
+Auszug aus dem Altlastenkataster
+Auszug aus dem Altlastenkataster
+Auszug aus dem Altlastenkataster
+Auszug aus dem Altlastenkataster
+Auszug aus dem Altlastenkataster
+Auszug aus dem Altlastenkataster
+Auszug aus dem Altlastenkataster
+Auszug aus dem Altlastenkataster
+Auszug aus dem Altlastenkataster
+Wertermittlung, Verkehrswertgutachten (wenn vorhanden)
+Auszug aus dem Baulastenverzeichnis
+Auszug aus dem Baulastenverzeichnis
+Auszug aus dem Baulastenverzeichnis
+Auszug aus dem Baulastenverzeichnis
+Auszug aus dem Baulastenverzeichnis
+Auszug aus dem Baulastenverzeichnis
+Auszug aus dem Baulastenverzeichnis
+Auszug aus dem Baulastenverzeichnis
+Auszug aus dem Baulastenverzeichnis
+Auszug aus dem Baulastenverzeichnis
+Baugenehmigung/Bauvorbescheid (bei baulich genehmigungspflichtigen Änderungen oder Neubau)
+Baugenehmigung/Bauvorbescheid (bei baulich genehmigungspflichtigen Änderungen oder Neubau)
+Baugenehmigung/Bauvorbescheid (bei baulich genehmigungspflichtigen Änderungen oder Neubau)
+Baugenehmigung/Bauvorbescheid (bei baulich genehmigungspflichtigen Änderungen oder Neubau)
+Baugenehmigung/Bauvorbescheid (bei baulich genehmigungspflichtigen Änderungen oder Neubau)
+Baugenehmigung/Bauvorbescheid (bei baulich genehmigungspflichtigen Änderungen oder Neubau)
+Baugenehmigung/Bauvorbescheid (bei baulich genehmigungspflichtigen Änderungen oder Neubau)
+Baugenehmigung/Bauvorbescheid (bei baulich genehmigungspflichtigen Änderungen oder Neubau)
+Baugenehmigung/Bauvorbescheid (bei baulich genehmigungspflichtigen Änderungen oder Neubau)
+Wertermittlung, Verkehrswertgutachten (wenn vorhanden)
+Wertermittlung, Verkehrswertgutachten (wenn vorhanden)
+Wertermittlung, Verkehrswertgutachten (wenn vorhanden)
+Wertermittlung, Verkehrswertgutachten (wenn vorhanden)
+Wertermittlung, Verkehrswertgutachten (wenn vorhanden)
+Wertermittlung, Verkehrswertgutachten (wenn vorhanden)
+Wertermittlung, Verkehrswertgutachten (wenn vorhanden)
+Wertermittlung, Verkehrswertgutachten (wenn vorhanden)
+Wertermittlung, Verkehrswertgutachten (wenn vorhanden)
+Wertermittlung, Verkehrswertgutachten (wenn vorhanden)
+Baubeschreibung / Exposé
+Baubeschreibung / Exposé
+Baubeschreibung / Exposé
+Baubeschreibung / Exposé
+Baubeschreibung / Exposé
+Erbbaurchtsvertrag nebst Nachträgen / Angabe aktueller Erbbauzins
+Baubeschreibung / Exposé
+Baubeschreibung / Exposé
+Baubeschreibung / Exposé
+Baubeschreibung / Exposé
+Baubeschreibung / Exposé
+Objektfotos
+Objektfotos
+Objektfotos
+Objektfotos
+Objektfotos
+Objektfotos
+Objektfotos
+Objektfotos
+Objektfotos
+Objektfotos
+Objektfotos
+Grundriss/Baupläne/Bauzeichnung
+Grundriss/Baupläne/Bauzeichnung
+Grundriss/Baupläne/Bauzeichnung
+Grundriss/Baupläne/Bauzeichnung
+Grundriss/Baupläne/Bauzeichnung
+Grundriss/Baupläne/Bauzeichnung
+Grundriss/Baupläne/Bauzeichnung
+Grundriss/Baupläne/Bauzeichnung
+Grundriss/Baupläne/Bauzeichnung
+Grundriss/Baupläne/Bauzeichnung
+Berechnung Grundfläche / umbauter Raum
+Berechnung Grundfläche / umbauter Raum
+Berechnung Grundfläche / umbauter Raum
+Berechnung Grundfläche / umbauter Raum
+Berechnung Grundfläche / umbauter Raum
+Berechnung Grundfläche / umbauter Raum
+Berechnung Grundfläche / umbauter Raum
+Berechnung Grundfläche / umbauter Raum
+Berechnung Grundfläche / umbauter Raum
+Berechnung Grundfläche / umbauter Raum
+Berechnung Wohn- und Nutzfläche
+Berechnung Wohn- und Nutzfläche
+Berechnung Wohn- und Nutzfläche
+Berechnung Wohn- und Nutzfläche
+Berechnung Wohn- und Nutzfläche
+Berechnung Wohn- und Nutzfläche
+Berechnung Wohn- und Nutzfläche
+Berechnung Wohn- und Nutzfläche
+Berechnung Wohn- und Nutzfläche
+Berechnung Wohn- und Nutzfläche
+Moderniesierungs- /Baukostenaufstellung / -rechnung / Nachweis Eigenleistung
+Moderniesierungs- /Baukostenaufstellung / -rechnung / Nachweis Eigenleistung
+Moderniesierungs- /Baukostenaufstellung / -rechnung / Nachweis Eigenleistung
+Moderniesierungs- /Baukostenaufstellung / -rechnung / Nachweis Eigenleistung
+Moderniesierungs- /Baukostenaufstellung / -rechnung / Nachweis Eigenleistung
+Moderniesierungs- /Baukostenaufstellung / -rechnung / Nachweis Eigenleistung
+Moderniesierungs- /Baukostenaufstellung / -rechnung / Nachweis Eigenleistung
+Moderniesierungs- /Baukostenaufstellung / -rechnung / Nachweis Eigenleistung
+Moderniesierungs- /Baukostenaufstellung / -rechnung / Nachweis Eigenleistung
+Moderniesierungs- /Baukostenaufstellung / -rechnung / Nachweis Eigenleistung
+Erbbaurechtsvertrag nebst Nachträgen / Angabe aktueller Erbbauzins
+Erbbaurechtsvertrag nebst Nachträgen / Angabe aktueller Erbbauzins
+Erbbaurechtsvertrag nebst Nachträgen / Angabe aktueller Erbbauzins
+Erbbaurechtsvertrag nebst Nachträgen / Angabe aktueller Erbbauzins
+Erbbaurechtsvertrag nebst Nachträgen / Angabe aktueller Erbbauzins
+Erbbaurechtsvertrag nebst Nachträgen / Angabe aktueller Erbbauzins
+Erbbaurechtsvertrag nebst Nachträgen / Angabe aktueller Erbbauzins
+Erbbaurechtsvertrag nebst Nachträgen / Angabe aktueller Erbbauzins
+Erbbaurechtsvertrag nebst Nachträgen / Angabe aktueller Erbbauzins
+Erbbaurechtsvertrag nebst Nachträgen / Angabe aktueller Erbbauzins
+Stillhaltererklärung
+Stillhaltererklärung
+Stillhaltererklärung
+Stillhaltererklärung
+Stillhaltererklärung
+Stillhaltererklärung
+Stillhaltererklärung
+Stillhaltererklärung
+Stillhaltererklärung
+Stillhaltererklärung
+Stillhaltererklärung
+Teilungserklärung (ETW)
+Abgeschlossenheitsbescheinigung
+Mietaufstellung mit Flächenangaben, Lagebezeichnungen und Nettokaltmieten
+Mietaufstellung mit Flächenangaben, Lagebezeichnungen und Nettokaltmieten
+Mietaufstellung mit Flächenangaben, Lagebezeichnungen und Nettokaltmieten
+Mietaufstellung mit Flächenangaben, Lagebezeichnungen und Nettokaltmieten
+Mietaufstellung mit Flächenangaben, Lagebezeichnungen und Nettokaltmieten
+Mietaufstellung mit Flächenangaben, Lagebezeichnungen und Nettokaltmieten
+Mietaufstellung mit Flächenangaben, Lagebezeichnungen und Nettokaltmieten
+Mietaufstellung mit Flächenangaben, Lagebezeichnungen und Nettokaltmieten
+Mietaufstellung mit Flächenangaben, Lagebezeichnungen und Nettokaltmieten
+Management-/Franchiseverträge
+Management-/Franchiseverträge
+Management-/Franchiseverträge
+Management-/Franchiseverträge
+Objektbezogene BWA / Bilanz und GuV der letzten 3 Jahre / darstellung Auslastung
+Objektbezogene BWA / Bilanz und GuV der letzten 3 Jahre / darstellung Auslastung
+Objektbezogene BWA / Bilanz und GuV der letzten 3 Jahre / darstellung Auslastung
+Objektbezogene BWA / Bilanz und GuV der letzten 3 Jahre / darstellung Auslastung
+Objektbezogene BWA / Bilanz und GuV der letzten 3 Jahre / darstellung Auslastung
+Aufstellung Anzahl Einzel-/Doppelzimmer
+Aufstellung Anzahl Einzel-/Doppelzimmer
+Aufstellung zur derzeitigen Belegung nach Pflegestufen, Tages- und Kurzzeitpflege, betreutes Wohnen
+Versorgungsvertrag nach §72 SGB XI
+Belegungsvertrag / Pflegesatzvereinbarung nach §85 SGB XI und Vergütungsregelung nach §82 SGB XI
+Mietverträge (bei Fremdvermietung)
+Mietverträge (bei Fremdvermietung)
+Mietverträge (bei Fremdvermietung)
+Mietverträge (bei Fremdvermietung)
+Mietverträge (bei Fremdvermietung)
+Mietverträge (bei Fremdvermietung)
+Mietverträge (bei Fremdvermietung)
+Mietverträge (bei Fremdvermietung)
+Mietverträge (bei Fremdvermietung)
+Energieausweis
+Energieausweis
+Energieausweis
+Energieausweis
+Energieausweis
+Energieausweis
+Energieausweis
+Energieausweis
+Gebäudeversicherungsnachweis
+Gebäudeversicherungsnachweis
+Gebäudeversicherungsnachweis
+Gebäudeversicherungsnachweis
+Gebäudeversicherungsnachweis
+Gebäudeversicherungsnachweis
+Gebäudeversicherungsnachweis
+Gebäudeversicherungsnachweis
+Gebäudeversicherungsnachweis
+Gebäudeversicherungsnachweis
+Notarbestätigung
+Notarbestätigung
+Notarbestätigung
+Notarbestätigung
+Notarbestätigung
+Notarbestätigung
+Notarbestätigung
+Notarbestätigung
+Notarbestätigung
+Notarbestätigung
+Notarbestätigung
+Zustimmung zur Datenweitergabe für die Immobilienbewertung
+Zustimmung zur Datenweitergabe für die Immobilienbewertung
+Zustimmung zur Datenweitergabe für die Immobilienbewertung
+Zustimmung zur Datenweitergabe für die Immobilienbewertung
+Zustimmung zur Datenweitergabe für die Immobilienbewertung
+Zustimmung zur Datenweitergabe für die Immobilienbewertung
+Zustimmung zur Datenweitergabe für die Immobilienbewertung
+Zustimmung zur Datenweitergabe für die Immobilienbewertung
+Zustimmung zur Datenweitergabe für die Immobilienbewertung
+Zustimmung zur Datenweitergabe für die Immobilienbewertung
+Zustimmung zur Datenweitergabe für die Immobilienbewertung
+Energieausweis
+Baugenehmigung/Bauvorbescheid (bei baulich genehmigungspflichtigen Änderungen oder Neubau)
+Ausweisunterlagen (Reisepass, Personalausweis usw.)
+Beratungsprotokoll IVD
+Beratungsverzicht (z.B. e-Mail Nachweis)
+Nachweis eigene Miete
+Nachweis Raten zu Fremdkrediten
+Ausgaben zu Altersvorsorge
+Ausgaben zu Altersvorsorge
+Nachweis Unterhaltsleistungen
+Nachweis private Krankenversicherung
+Selbstauskunft zzgl. SCHUFA-Ermächtigung
+Vermögensaufstellung / Immobilienaufstellung
+Einkommensteuererklärung nebst Anlagen
+Einkommensteuerbescheid
+Lohn-/Gehaltsnachweis
+Renteninformation
+Rentenbescheid
+Mietaufstellung
+Grundbuchauszug
+Kaufvertrag/-entwurf
+Baubeschreibung / Exposé
+Bewilligungsurkunden Belastungen Abt.II Grundbuch
+Lageplan/Flurkarte/Vermessungsprotokoll/Zuwegung
+Auszug aus dem Baulastenverzeichnis
+Auszug aus dem Altlastenkataster
+Energieausweis
+Berechnung Wohn- und Nutzfläche
+Berechnung Grundfläche / umbauter Raum
+Baugenehmigung / Bauvorbescheid
+Grundriss/Baupläne/Bauzeichnung
+Moderniesierungs- /Baukostenaufstellung / -rechnung / Nachweis Eigenleistung
+Gebäudeversicherungsnachweis
+Objektfotos
+Notarbestätigung
+Zustimmung Datenweitergabe Immobilienbewertung
+Erbbaurechtsvertrag
+Stillhaltererklärung
+Teilungserklärung (ETW)
+Abgeschlossenheitsbescheinigung
+Mietaufstellung mit Flächenangaben, Lagebezeichnungen und Nettokaltmieten
+Mietverträge (bei Fremdvermietung)
+Auszug Liegenschaftsbuch
+Management-/Franchiseverträge
+Selbstauskunft des Bürgen
+SCHUFA-Ermächtigung des Bürgen
+SCHUFA Ausdruck des Bürgen
+Legitimationsunterlage des Bürgen
+Depotauszug / Kontoauszug (Nachweis Guthaben)
+Nachweise zum Bausparvertrag
+Nachweise zu Lebens- / Rentenversicherung
+Nachweise zu Forderungen (Fälligkeit, Adressdaten Drittschuldner, Fordrungshöhe)
+Bestätigung zum KfW-Antrag
+KfW Antrag
+Bankenspiegel
+Mietaufstellung / Mietverträge
+Bauantrag/Bauanzeige
+Grundbuchauszug
+Kaufvertrag/-entwurf
+Baubeschreibung / Exposé
+Bewilligungsurkunden Belastungen Abt.II Grundbuch
+Lageplan/Flurkarte/Vermessungsprotokoll/Zuwegung
+Auszug aus dem Baulastenverzeichnis
+Auszug aus dem Altlastenkataster
+Energieausweis
+Berechnung Wohn- und Nutzfläche
+Berechnung Grundfläche / umbauter Raum
+Bauantrag/Bauanzeige
+Baugenehmigung / Bauvorbescheid
+Grundriss/Baupläne/Bauzeichnung
+Moderniesierungs- /Baukostenaufstellung / -rechnung / Nachweis Eigenleistung
+Gebäudeversicherungsnachweis
+Objektfotos
+Notarbestätigung
+Zustimmung Datenweitergabe Immobilienbewertung
+Erbbaurechtsvertrag
+Stillhaltererklärung
+Teilungserklärung (ETW)
+Abgeschlossenheitsbescheinigung
+Mietaufstellung mit Flächenangaben, Lagebezeichnungen und Nettokaltmieten
+Mietverträge (bei Fremdvermietung)
+Auszug Liegenschaftsbuch
+Management-/Franchiseverträge
+Kaufvertrag / -entwurf
+Grundbuchauszug
+Bewilligungsurkunden Belastungen Abt.II Grundbuch
+Lageplan/Flurkarte/Vermessungsprotokoll/Zuwegung
+Auszug aus dem Altlastenkataster
+Baugenehmigung/Bauvorbescheid (bei baulich genehmigungspflichtigen Änderungen oder Neubau)
+Wertermittlung, Verkehrswertgutachten (wenn vorhanden)
+Baubeschreibung / Exposé
+Objektfotos
+Grundriss/Baupläne/Bauzeichnung
+Berechnung Grundfläche / umbauter Raum
+Berechnung Wohn- und Nutzfläche
+Moderniesierungs- /Baukostenaufstellung / -rechnung / Nachweis Eigenleistung
+Erbbaurechtsvertrag nebst Nachträgen / Angabe aktueller Erbbauzins
+Stillhaltererklärung
+Teilungserklärung (ETW)
+Abgeschlossenheitsbescheinigung
+Mietaufstellung mit Flächenangaben, Lagebezeichnungen und Nettokaltmieten
+Mietverträge (bei Fremdvermietung)
+Energieausweis
+Gebäudeversicherungsnachweis
+Notarbestätigung
+Zustimmung zur Datenweitergabe für die Immobilienbewertung
+Kaufvertrag / -entwurf
+Grundbuchauszug
+Bewilligungsurkunden Belastungen Abt.II Grundbuch
+Lageplan/Flurkarte/Vermessungsprotokoll/Zuwegung
+Auszug aus dem Altlastenkataster
+Auszug aus dem Baulastenverzeichnis
+Baugenehmigung/Bauvorbescheid (bei baulich genehmigungspflichtigen Änderungen oder Neubau)
+Wertermittlung, Verkehrswertgutachten (wenn vorhanden)
+Baubeschreibung / Exposé
+Objektfotos
+Grundriss/Baupläne/Bauzeichnung
+Berechnung Grundfläche / umbauter Raum
+Berechnung Wohn- und Nutzfläche
+Moderniesierungs- /Baukostenaufstellung / -rechnung / Nachweis Eigenleistung
+Erbbaurechtsvertrag nebst Nachträgen / Angabe aktueller Erbbauzins
+Stillhaltererklärung
+Energieausweis
+Gebäudeversicherungsnachweis
+Notarbestätigung
+Zustimmung zur Datenweitergabe für die Immobilienbewertung
+Kaufvertrag / -entwurf
+Grundbuchauszug
+Bewilligungsurkunden Belastungen Abt.II Grundbuch
+Lageplan/Flurkarte/Vermessungsprotokoll/Zuwegung
+Auszug aus dem Altlastenkataster
+Auszug aus dem Baulastenverzeichnis
+Baugenehmigung/Bauvorbescheid (bei baulich genehmigungspflichtigen Änderungen oder Neubau)
+Wertermittlung, Verkehrswertgutachten (wenn vorhanden)
+Baubeschreibung / Exposé
+Objektfotos
+Grundriss/Baupläne/Bauzeichnung
+Berechnung Grundfläche / umbauter Raum
+Berechnung Wohn- und Nutzfläche
+Moderniesierungs- /Baukostenaufstellung / -rechnung / Nachweis Eigenleistung
+Erbbaurechtsvertrag nebst Nachträgen / Angabe aktueller Erbbauzins
+Stillhaltererklärung
+Mietaufstellung mit Flächenangaben, Lagebezeichnungen und Nettokaltmieten
+Mietverträge (bei Fremdvermietung)
+Energieausweis
+Gebäudeversicherungsnachweis
+Notarbestätigung
+Zustimmung zur Datenweitergabe für die Immobilienbewertung
+Kaufvertrag / -entwurf
+Grundbuchauszug
+Bewilligungsurkunden Belastungen Abt.II Grundbuch
+Lageplan/Flurkarte/Vermessungsprotokoll/Zuwegung
+Auszug aus dem Altlastenkataster
+Auszug aus dem Baulastenverzeichnis
+Baugenehmigung/Bauvorbescheid (bei baulich genehmigungspflichtigen Änderungen oder Neubau)
+Wertermittlung, Verkehrswertgutachten (wenn vorhanden)
+Baubeschreibung / Exposé
+Objektfotos
+Grundriss/Baupläne/Bauzeichnung
+Berechnung Grundfläche / umbauter Raum
+Berechnung Wohn- und Nutzfläche
+Moderniesierungs- /Baukostenaufstellung / -rechnung / Nachweis Eigenleistung
+Erbbaurechtsvertrag nebst Nachträgen / Angabe aktueller Erbbauzins
+Stillhaltererklärung
+Mietaufstellung mit Flächenangaben, Lagebezeichnungen und Nettokaltmieten
+Mietverträge (bei Fremdvermietung)
+Energieausweis
+Gebäudeversicherungsnachweis
+Notarbestätigung
+Zustimmung zur Datenweitergabe für die Immobilienbewertung
+Kaufvertrag / -entwurf
+Grundbuchauszug
+Bewilligungsurkunden Belastungen Abt.II Grundbuch
+Lageplan/Flurkarte/Vermessungsprotokoll/Zuwegung
+Auszug aus dem Altlastenkataster
+Auszug aus dem Baulastenverzeichnis
+Baugenehmigung/Bauvorbescheid (bei baulich genehmigungspflichtigen Änderungen oder Neubau)
+Wertermittlung, Verkehrswertgutachten (wenn vorhanden)
+Baubeschreibung / Exposé
+Objektfotos
+Grundriss/Baupläne/Bauzeichnung
+Berechnung Grundfläche / umbauter Raum
+Berechnung Wohn- und Nutzfläche
+Moderniesierungs- /Baukostenaufstellung / -rechnung / Nachweis Eigenleistung
+Erbbaurechtsvertrag nebst Nachträgen / Angabe aktueller Erbbauzins
+Stillhaltererklärung
+Mietaufstellung mit Flächenangaben, Lagebezeichnungen und Nettokaltmieten
+Mietverträge (bei Fremdvermietung)
+Energieausweis
+Gebäudeversicherungsnachweis
+Notarbestätigung
+Zustimmung zur Datenweitergabe für die Immobilienbewertung
+Notarbestätigung
+Zustimmung zur Datenweitergabe für die Immobilienbewertung
+Kaufvertrag / -entwurf
+Grundbuchauszug
+Bewilligungsurkunden Belastungen Abt.II Grundbuch
+Lageplan/Flurkarte/Vermessungsprotokoll/Zuwegung
+Auszug aus dem Altlastenkataster
+Auszug aus dem Baulastenverzeichnis
+Wertermittlung, Verkehrswertgutachten (wenn vorhanden)
+Erbbaurchtsvertrag nebst Nachträgen / Angabe aktueller Erbbauzins
+Stillhaltererklärung
+Objektfotos
+Kaufvertrag / -entwurf
+Grundbuchauszug
+Bewilligungsurkunden Belastungen Abt.II Grundbuch
+Lageplan/Flurkarte/Vermessungsprotokoll/Zuwegung
+Auszug aus dem Altlastenkataster
+Auszug aus dem Baulastenverzeichnis
+Baugenehmigung/Bauvorbescheid (bei baulich genehmigungspflichtigen Änderungen oder Neubau)
+Wertermittlung, Verkehrswertgutachten (wenn vorhanden)
+Baubeschreibung / Exposé
+Objektfotos
+Grundriss/Baupläne/Bauzeichnung
+Berechnung Grundfläche / umbauter Raum
+Berechnung Wohn- und Nutzfläche
+Moderniesierungs- /Baukostenaufstellung / -rechnung / Nachweis Eigenleistung
+Erbbaurechtsvertrag nebst Nachträgen / Angabe aktueller Erbbauzins
+Stillhaltererklärung
+Mietaufstellung mit Flächenangaben, Lagebezeichnungen und Nettokaltmieten
+Mietverträge (bei Fremdvermietung)
+Management-/Franchiseverträge
+Objektbezogene BWA / Bilanz und GuV der letzten 3 Jahre / darstellung Auslastung
+Aufstellung Anzahl Einzel-/Doppelzimmer
+Aufstellung zur derzeitigen Belegung nach Pflegestufen, Tages- und Kurzzeitpflege, betreutes Wohnen
+Versorgungsvertrag nach §72 SGB XI
+Belegungsvertrag / Pflegesatzvereinbarung nach §85 SGB XI und Vergütungsregelung nach §82 SGB XI
+Energieausweis
+Gebäudeversicherungsnachweis
+Notarbestätigung
+Zustimmung zur Datenweitergabe für die Immobilienbewertung
+Kaufvertrag / -entwurf
+Grundbuchauszug
+Bewilligungsurkunden Belastungen Abt.II Grundbuch
+Lageplan/Flurkarte/Vermessungsprotokoll/Zuwegung
+Auszug aus dem Altlastenkataster
+Auszug aus dem Baulastenverzeichnis
+Baugenehmigung/Bauvorbescheid (bei baulich genehmigungspflichtigen Änderungen oder Neubau)
+Wertermittlung, Verkehrswertgutachten (wenn vorhanden)
+Baubeschreibung / Exposé
+Objektfotos
+Grundriss/Baupläne/Bauzeichnung
+Berechnung Grundfläche / umbauter Raum
+Berechnung Wohn- und Nutzfläche
+Moderniesierungs- /Baukostenaufstellung / -rechnung / Nachweis Eigenleistung
+Erbbaurechtsvertrag nebst Nachträgen / Angabe aktueller Erbbauzins
+Stillhaltererklärung
+Mietaufstellung mit Flächenangaben, Lagebezeichnungen und Nettokaltmieten
+Mietverträge (bei Fremdvermietung)
+Management-/Franchiseverträge
+Objektbezogene BWA / Bilanz und GuV der letzten 3 Jahre / darstellung Auslastung
+Energieausweis
+Gebäudeversicherungsnachweis
+Notarbestätigung
+Zustimmung zur Datenweitergabe für die Immobilienbewertung
+Kaufvertrag / -entwurf
+Grundbuchauszug
+Bewilligungsurkunden Belastungen Abt.II Grundbuch
+Lageplan/Flurkarte/Vermessungsprotokoll/Zuwegung
+Auszug Liegenschaftsbuch Bestandsverzeichnis (Objekt außerhalb von Niedersachsen)
+Auszug aus dem Altlastenkataster
+Auszug aus dem Baulastenverzeichnis
+Baugenehmigung/Bauvorbescheid (bei baulich genehmigungspflichtigen Änderungen oder Neubau)
+Wertermittlung, Verkehrswertgutachten (wenn vorhanden)
+Baubeschreibung / Exposé
+Objektfotos
+Grundriss/Baupläne/Bauzeichnung
+Berechnung Grundfläche / umbauter Raum
+Berechnung Wohn- und Nutzfläche
+Moderniesierungs- /Baukostenaufstellung / -rechnung / Nachweis Eigenleistung
+Erbbaurechtsvertrag nebst Nachträgen / Angabe aktueller Erbbauzins
+Stillhaltererklärung
+Mietaufstellung mit Flächenangaben, Lagebezeichnungen und Nettokaltmieten
+Mietverträge (bei Fremdvermietung)
+Objektbezogene BWA / Bilanz und GuV der letzten 3 Jahre / darstellung Auslastung
+Gebäudeversicherungsnachweis
+Notarbestätigung
+Zustimmung zur Datenweitergabe für die Immobilienbewertung
+Kaufvertrag / -entwurf
+Grundbuchauszug
+Bewilligungsurkunden Belastungen Abt.II Grundbuch
+Lageplan/Flurkarte/Vermessungsprotokoll/Zuwegung
+Auszug aus dem Altlastenkataster
+Auszug aus dem Baulastenverzeichnis
+Baugenehmigung/Bauvorbescheid (bei baulich genehmigungspflichtigen Änderungen oder Neubau)
+Wertermittlung, Verkehrswertgutachten (wenn vorhanden)
+Baubeschreibung / Exposé
+Objektfotos
+Grundriss/Baupläne/Bauzeichnung
+Berechnung Grundfläche / umbauter Raum
+Berechnung Wohn- und Nutzfläche
+Moderniesierungs- /Baukostenaufstellung / -rechnung / Nachweis Eigenleistung
+Erbbaurechtsvertrag nebst Nachträgen / Angabe aktueller Erbbauzins
+Stillhaltererklärung
+Mietaufstellung mit Flächenangaben, Lagebezeichnungen und Nettokaltmieten
+Mietverträge (bei Fremdvermietung)
+Management-/Franchiseverträge
+Objektbezogene BWA / Bilanz und GuV der letzten 3 Jahre / darstellung Auslastung
+Energieausweis
+Gebäudeversicherungsnachweis
+Notarbestätigung
+Zustimmung zur Datenweitergabe für die Immobilienbewertung
+Kaufvertrag / -entwurf
+Grundbuchauszug
+Bewilligungsurkunden Belastungen Abt.II Grundbuch
+Lageplan/Flurkarte/Vermessungsprotokoll/Zuwegung
+Auszug aus dem Altlastenkataster
+Auszug aus dem Baulastenverzeichnis
+Baugenehmigung/Bauvorbescheid (bei baulich genehmigungspflichtigen Änderungen oder Neubau)
+Wertermittlung, Verkehrswertgutachten (wenn vorhanden)
+Baubeschreibung / Exposé
+Objektfotos
+Grundriss/Baupläne/Bauzeichnung
+Berechnung Grundfläche / umbauter Raum
+Berechnung Wohn- und Nutzfläche
+Moderniesierungs- /Baukostenaufstellung / -rechnung / Nachweis Eigenleistung
+Stillhaltererklärung
+Erbbaurechtsvertrag nebst Nachträgen / Angabe aktueller Erbbauzins
+Mietaufstellung mit Flächenangaben, Lagebezeichnungen und Nettokaltmieten
+Mietverträge (bei Fremdvermietung)
+Management-/Franchiseverträge
+Objektbezogene BWA / Bilanz und GuV der letzten 3 Jahre / darstellung Auslastung
+Aufstellung Anzahl Einzel-/Doppelzimmer
+Energieausweis
+Gebäudeversicherungsnachweis
+Notarbestätigung
+Zustimmung zur Datenweitergabe für die Immobilienbewertung
+Kreditentscheidungsinformation
+Sicherungsübereignung KFZ   Versicherungsnachweis
+Zulassung gemäß § 34c Gewerbeordnung
+Nachweis Steuer-ID gem. §139b AO
+Antrag R+V-Kautionsversicherung
+Bürgschaftsurkunde R+V Kautionsversicherung
+Sicherungsübereignung KFZ: Angebot/Kaufvertrag/Rechnung
+Sicherungsübereignung KFZ: KFZ-Brief
+Sicherungsübereignung KFZ: Versicherungsnachweis
+Sicherungsübereignung KFZ: Angabe zum Vermieter des Standorts
+Sicherungsübereignung Warenlager: Warenbestandsliste
+Sicherungsübereignung Warenlager: Lageplan/Angabe Standort
+Sicherungsübereignung Warenlager: Mietvertrag
+Sicherungsübereignung Warenlager: Versicherungsnachweis
+Sicherungsübereignung Warenlager: Kreditoren- und Debitorenliste (inkl. Rechnungshöhe + -datum, Fälligkeit, Name, Adresse)
+Sicherungsübereignung Maschine: Angebot/Kaufvertrag/Rechnung
+Sicherungsübereignung Maschine: Versicherungsnachweis
+Sicherungsübereignung Maschine: Lageplan/Standort
+Sicherungsübereignung Maschine: Angabe zum Vermieter des Standorts
+Raum-Sicherungsübereignung: Inventarliste
+Raum-Sicherungsübereignung: Kreditoren- und Debitorenliste (inkl. Rechnungshöhe + -datum, Fälligkeit, Name, Adresse)
+Raum-Sicherungsübereignung :Versicherungsnachweis
+Raum-Sicherungsübereignung: Lageplan/Standort
+Raum-Sicherungsübereignung: Mietvertrag

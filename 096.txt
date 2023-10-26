@@ -1,0 +1,103 @@
+ZZ_Beratungsprotokoll
+ZZ_VVI
+ZZ_Beratung - Unterlagen
+ZZ_Vermittlung - Unterlagen
+ZZ_Anschreiben / Deckblatt zum Antrag
+ZZ_Kreditantrag
+ZZ_Kreditentscheidungsinformationen
+ZZ_Provisionsabrechnung
+Kreditprotokolle
+ZZ_Aktenvermerke / Sonstiges
+ZZ_Kreditzusage
+Verträge
+DZ HYP/MHB/R+V/BSH/ (inkl. z.B. Zusage, Abrufe, Abschlusserklärung)
+ZZ_Verträge - Sonstiges
+ZZ_Legitimation
+ZZ_Selbstauskünfte
+Vermögens-Schuldenübersicht / Selbstauskunft  (inkl. Nachweise)
+ZZ_Rating / Scoring
+ZZ_Kontoauszug
+ZZ_Schufa Auskünfte
+Gehaltsnachweise
+ZZ_Mieteinnahmen
+Einkommenssteuererklärung
+ZZ_Einkommen - Sonstiges
+ZZ_Ausgaben - Sonstiges
+ZZ_Grundbuchauszug
+ZZ_Baubeschreibung
+ZZ_Kaufvertrag
+ZZ_Baugenehmigung/-anzeige/-antrag
+ZZ_Aufstellung Baukosten / Eigenleistungen
+ZZ_Flurkarte / Lageplan
+ZZ_Bauzeichnungen / Grundrisse
+ZZ_Wohnflächenberechnung / Kubatur
+ZZ_Teilungserklärung
+ZZ_Erbbaurechtsvertrag
+ZZ_Bewilligung Dienstbarkeiten
+ZZ_Wertermittlung / Gutachten
+ZZ_Objektbilder / Fotos
+ZZ_Expose
+ZZ_Immobilienverwaltung - Sonstiges
+ZZ_Grundschuld Zweckerklärungen
+ZZ_Vollstreckbare Ausfertigungen
+ZZ_Verträge / Urkunden
+ZZ_Grundschuld / Hypothek - Sonstiges
+ZZ_Bürgschaften
+ZZ_Abtretungen
+ZZ_Verpfändungen
+ZZ_Fördermittel
+ZZ_Bausparen
+ZZ_Versicherungen
+ZZ_Hypothekenbanken / Verbundbanken
+ZZ_Verbund - Sonstiges
+ZZ_Schriftverkehr
+ZZ_Liquiditätsberechnungen
+ZZ_Jahresabschluss / GuV
+ZZ_BWA
+ZZ_Auskünfte
+ZZ_§18 KWG-Dokumentationen
+ZZ_Groß- / Milionenkredite
+ZZ_E/A Bilanz
+ZZ_Rating
+ZZ_Firmenkunde - Sonstiges
+Engagement-Strategie / Abwicklungskonzepte / Maßnahmenpläne / Überprüfungen
+Aufsichtsratgenehmigungen
+EWB-Beschlüsse / Abschreibungsbeschlüsse
+Änderungsvereinbarungen
+Darlehensverträge Förderinstitute
+Antrag + Zusage Förderinstitute
+Verwendungsnachweis; Bestätigung nach Durchführung
+Avale
+Grundschuldzweckerklärung
+Grundschuld Brief, Hypotheken Brief
+Grundschuldbestellung Vollstreckbare Ausfertigungen
+Grundschuldbestellung Beglaubigte Abschrift
+sonstige Unterl. zu Grundbüchern z.B. Löschungsbewilligungen, Grundschuldabtretungen, etc.
+Einmalvalutierungserklärung
+Abtretung der Rückgewähransprüche
+Abtretungen
+Verpfändung
+Bürgschaften
+Sicherungsübereignung (Vertrag)
+Sicherungsübereignung (Anlagen)
+Beleihungswertermittlung
+Grundbuchauszug
+Grundrisse, Flurkarte, Bauzeichnungen, Baubeschreibung, Baugenehmigung, Bautenstand
+Kaufverträge
+Teilungserklärung
+Realrechtsbestätigung
+Verwendungsnachweise von Objektfinanzierungen
+Objektfotos bzw. Besichtigungsbogen
+Einkommensteuerbescheid
+Schufa
+Legitimationsunterlagen
+Schriftverkehr
+Notizen
+Revisionsprotokolle
+Erledigte Dokumente
+Kündigungen
+Zahlungs- / Vergleichsvereinb.
+Mahnbescheide / Titel  / Vollstreckungstitel / Vollstreckungsbelege
+Insolvenzverfahren
+Klageverfahren
+Kostenbelege
